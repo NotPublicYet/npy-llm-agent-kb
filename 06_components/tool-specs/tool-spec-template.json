@@ -1,0 +1,41 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ToolSpecTemplate",
+  "type": "object",
+  "required": ["name", "description", "input_schema", "output_schema", "security"],
+  "properties": {
+    "name": { "type": "string" },
+    "description": { "type": "string" },
+    "input_schema": {
+      "type": "object",
+      "description": "JSON-schema-like structure for validated tool inputs"
+    },
+    "output_schema": {
+      "type": "object",
+      "description": "Expected response structure"
+    },
+    "timeouts": {
+      "type": "object",
+      "properties": {
+        "connect_ms": { "type": "integer", "minimum": 1 },
+        "read_ms": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "retries": {
+      "type": "object",
+      "properties": {
+        "max_attempts": { "type": "integer", "minimum": 0 },
+        "backoff": { "type": "string", "enum": ["none", "fixed", "exponential"] }
+      }
+    },
+    "security": {
+      "type": "object",
+      "required": ["data_classification", "allowed_payloads", "redaction_required"],
+      "properties": {
+        "data_classification": { "type": "string", "enum": ["public", "internal", "restricted"] },
+        "allowed_payloads": { "type": "array", "items": { "type": "string" } },
+        "redaction_required": { "type": "boolean" }
+      }
+    }
+  }
+}

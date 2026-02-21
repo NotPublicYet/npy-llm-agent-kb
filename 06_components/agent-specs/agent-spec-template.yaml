@@ -1,0 +1,51 @@
+﻿name: agent-name-v1
+status: draft
+owner: "@owner"
+purpose: "What this agent is for"
+version: "1.0.0"
+
+model:
+  provider: "example-provider"
+  name: "example-model"
+  temperature: 0.2
+  max_tokens: 2000
+
+inputs:
+  required:
+    - task
+  optional:
+    - context
+    - constraints
+
+tools:
+  allowed:
+    - tool_name
+  policy:
+    selection: "least-privilege"
+    retries: 1
+
+memory:
+  short_term: true
+  long_term: false
+  retention_policy: "No sensitive content persisted"
+
+guardrails:
+  safety_checks:
+    - pii_redaction
+    - policy_compliance
+  fail_closed: true
+
+evaluation:
+  linked_metrics:
+    - task_success_rate
+    - tool_use_reliability
+  scorecard_template: "../../04_evals/scorecards/templates.md"
+
+observability:
+  log_fields:
+    - run_id
+    - prompt_version
+    - tool_calls
+    - latency_ms
+  redact_fields:
+    - user_identifiers

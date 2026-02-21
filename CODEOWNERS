@@ -1,0 +1,17 @@
+﻿# Replace placeholders with actual GitHub usernames or teams.
+# Example: /04_evals/ @npy-ml-platform
+
+* @npy-kb-admins
+
+/00_foundation/ @owner-foundation @backup-foundation
+/01_questions/ @owner-research @backup-research
+/02_patterns/ @owner-patterns @backup-patterns
+/03_experiments/ @owner-experiments @backup-experiments
+/04_evals/ @owner-evals @backup-evals
+/05_playbooks/ @owner-ops @backup-ops
+/06_components/ @owner-components @backup-components
+/07_insights/ @owner-learning @backup-learning
+/08_ideas-incubator/ @owner-innovation @backup-innovation
+/09_resources/ @owner-research @backup-research
+/90_inbox/ @owner-governance @backup-governance
+/99_archive/ @owner-governance @backup-governance
