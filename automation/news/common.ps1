@@ -23,7 +23,7 @@ function Read-JsonFile {
 
 function Write-JsonFile {
   param(
-    [Parameter(Mandatory = $true)]$Object,
+    $Object,
     [Parameter(Mandatory = $true)][string]$Path
   )
   Ensure-Directory -Path (Split-Path -Parent $Path)
@@ -127,7 +127,7 @@ function Strip-OuterQuotes {
 
 function Get-PropertyValue {
   param(
-    [Parameter(Mandatory = $true)]$Object,
+    $Object,
     [Parameter(Mandatory = $true)][string]$Name
   )
   if ($null -eq $Object) { return $null }
@@ -290,5 +290,6 @@ function Convert-RssXmlToItems {
 
   return @()
 }
+
 
 

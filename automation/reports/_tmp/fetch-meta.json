@@ -1,14 +1,9 @@
 ﻿{
-    "run_utc":  "2026-02-22T09:36:15.8112337Z",
-    "sources_total":  5,
-    "fetched_total":  6,
-    "failed_total":  1,
+    "run_utc":  "2026-02-22T09:46:47.7159016Z",
+    "sources_total":  7,
+    "fetched_total":  14,
+    "failed_total":  0,
     "failed_sources":  [
-                           {
-                               "source_id":  "openclaw-releases",
-                               "source":  "OpenClaw Releases",
-                               "rss_url":  "https://github.com/openclaw/openclaw/releases.atom",
-                               "error":  "Cannot bind argument to parameter \u0027Object\u0027 because it is null."
-                           }
+
                        ]
 }

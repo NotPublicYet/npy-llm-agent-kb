@@ -33,3 +33,17 @@
     category: ecosystem
     enabled: true
     priority: high
+
+  - id: claude-code-releases
+    name: Claude Code Releases
+    rss_url: https://github.com/anthropics/claude-code/releases.atom
+    category: vendor
+    enabled: true
+    priority: high
+
+  - id: claude-code-action-releases
+    name: Claude Code Action Releases
+    rss_url: https://github.com/anthropics/claude-code-action/releases.atom
+    category: vendor
+    enabled: true
+    priority: medium
