@@ -35,7 +35,7 @@ function ToInt($v) {
 
 $now = [datetime]::UtcNow
 $slaRisks = @()
-$files = Get-ChildItem -LiteralPath $InboxDir -Filter "news-*.md" -File -ErrorAction SilentlyContinue
+$files = Get-ChildItem -LiteralPath $InboxDir -Recurse -Filter "news-*.md" -File -ErrorAction SilentlyContinue
 foreach ($file in @($files)) {
   $text = Get-Content -LiteralPath $file.FullName -Raw
   $statusMatch = [regex]::Match($text, "(?m)^Status:\s*(.+)$")
@@ -50,8 +50,9 @@ foreach ($file in @($files)) {
 
   $ageHours = ($now - $ingested.ToUniversalTime()).TotalHours
   if ($ageHours -gt 48) {
+    $relativePath = $file.FullName.Replace((Resolve-Path $InboxDir).Path + [IO.Path]::DirectorySeparatorChar, "")
     $slaRisks += [pscustomobject]@{
-      file = $file.Name
+      file = $relativePath
       ingested_at = $ingested.ToString("yyyy-MM-dd")
       age_hours = [math]::Round($ageHours, 1)
     }

@@ -1,12 +1,9 @@
 ﻿{
     "run_date":  "2026-02-22",
-    "created_total":  4,
+    "created_total":  0,
     "skipped_total":  0,
     "created_files":  [
-                          "D:\\VSCODE P\\npy-llm-agent-kb\\90_inbox\\news-2026-02-22-v2-1-50.md",
-                          "D:\\VSCODE P\\npy-llm-agent-kb\\90_inbox\\news-2026-02-22-v2-1-49.md",
-                          "D:\\VSCODE P\\npy-llm-agent-kb\\90_inbox\\news-2026-02-22-v1-0-55.md",
-                          "D:\\VSCODE P\\npy-llm-agent-kb\\90_inbox\\news-2026-02-22-claude-code-github-action-v1-0.md"
+
                       ],
     "skipped":  [
 

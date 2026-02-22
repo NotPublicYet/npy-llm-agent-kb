@@ -55,7 +55,7 @@ $items = Read-JsonFile -Path $InputPath
 if ($null -eq $items) { $items = @() }
 
 $existingUrls = New-Object System.Collections.Generic.HashSet[string]
-$existingFiles = Get-ChildItem -LiteralPath $InboxDir -Filter "news-*.md" -File -ErrorAction SilentlyContinue
+$existingFiles = Get-ChildItem -LiteralPath $InboxDir -Recurse -Filter "news-*.md" -File -ErrorAction SilentlyContinue
 foreach ($file in @($existingFiles)) {
   $line = Select-String -Path $file.FullName -Pattern "^SourceURL:\s*(.+)$" -AllMatches | Select-Object -First 1
   if ($null -ne $line) {
@@ -74,12 +74,15 @@ foreach ($item in @($items)) {
   if ($existingUrls.Contains($url)) { $skipped += [pscustomobject]@{ reason = "existing_url"; title = [string]$item.title; url = $url }; continue }
 
   $slug = ConvertTo-Slug -Text ([string]$item.title)
-  if (-not $index.ContainsKey($slug)) { $index[$slug] = 0 }
-  $index[$slug] += 1
-  if ($index[$slug] -gt 1) { $slug = "$slug-$($index[$slug])" }
+  $sourceId = if ($item.source_id -and -not [string]::IsNullOrWhiteSpace([string]$item.source_id)) { [string]$item.source_id } else { "unknown-source" }
+  if (-not $index.ContainsKey($sourceId + '|' + $slug)) { $index[$sourceId + '|' + $slug] = 0 }
+  $index[$sourceId + '|' + $slug] += 1
+  if ($index[$sourceId + '|' + $slug] -gt 1) { $slug = "$slug-$($index[$sourceId + '|' + $slug])" }
 
   $fileName = "news-$RunDate-$slug.md"
-  $path = Join-Path $InboxDir $fileName
+  $targetDir = Join-Path (Join-Path $InboxDir $RunDate) $sourceId
+  Ensure-Directory -Path $targetDir
+  $path = Join-Path $targetDir $fileName
 
   $confidence = Get-ConfidenceFromPriority -Priority ([string]$item.priority)
   $publishDate = if ($item.publish_date -and $item.publish_date -ne "") { [string]$item.publish_date } else { "TBD" }
@@ -92,7 +95,7 @@ foreach ($item in @($items)) {
 # news-$RunDate-$slug
 
 Automation: NewsIngest/v1
-SourceID: $([string]$item.source_id)
+SourceID: $sourceId
 SourceURL: $url
 IngestedAt: $RunDate
 Status: Untriaged

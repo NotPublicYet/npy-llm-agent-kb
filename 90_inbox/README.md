@@ -3,6 +3,18 @@
 `90_inbox/` is a temporary landing zone for untriaged content.
 `90_inbox/` 是待分诊内容的临时落地区。
 
+## Folder Layout | 目录结构
+
+News auto-ingest files are organized as:
+新闻自动抓取文件按如下结构组织：
+
+- `90_inbox/YYYY-MM-DD/<source-id>/news-YYYY-MM-DD-short-title.md`
+
+Example:
+示例：
+
+- `90_inbox/2026-02-22/openai-blog/news-2026-02-22-our-first-proof-submissions.md`
+
 ## Hard Rule | 强制规则
 
 Anything in inbox must be triaged within 7 days.
