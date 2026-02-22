@@ -26,3 +26,10 @@
     category: ecosystem
     enabled: true
     priority: medium
+
+  - id: openclaw-releases
+    name: OpenClaw Releases
+    rss_url: https://github.com/openclaw/openclaw/releases.atom
+    category: ecosystem
+    enabled: true
+    priority: high

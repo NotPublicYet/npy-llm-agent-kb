@@ -10,7 +10,7 @@ Run Date: 2026-02-22
 - SLA Risks (>48h Untriaged): 0
 
 ## Failed Sources
-- none
+- openclaw-releases: Cannot bind argument to parameter 'Object' because it is null.
 
 ## SLA Risk Items
 - none
