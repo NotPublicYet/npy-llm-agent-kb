@@ -21,6 +21,7 @@
 - [Patterns 模式库](02_patterns/)
 - [Experiments Guide 实验指南](03_experiments/README.md)
 - [Evaluation Guide 评估指南](04_evals/README.md)
+- [News Ingest Automation 新闻采集自动化](05_playbooks/news-ingest-automation.md)
 - [Eval Philosophy 评估哲学](04_evals/eval-philosophy.md)
 - [Metrics 指标定义](04_evals/metrics.md)
 - [Scorecard Templates 评分卡模板](04_evals/scorecards/templates.md)
@@ -43,3 +44,4 @@
 - [Link Digests 链接速递](09_resources/link-digests/README.md)
 - [Inbox Rules 收件箱规则](90_inbox/README.md)
 - [Archive Rules 归档规则](99_archive/README.md)
+

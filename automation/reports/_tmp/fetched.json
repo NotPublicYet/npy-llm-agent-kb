@@ -1,0 +1,80 @@
+﻿[
+    {
+        "source_id":  "openai-blog",
+        "source_name":  "OpenAI Blog",
+        "source_url":  "https://openai.com/news/rss.xml",
+        "category":  "vendor",
+        "priority":  "high",
+        "title":  "Our First Proof submissions",
+        "canonical_url":  "https://openai.com/index/first-proof-submissions",
+        "publish_date":  "2026-02-20",
+        "event_date":  "2026-02-20",
+        "summary":  "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+        "fetched_at":  "2026-02-22"
+    },
+    {
+        "source_id":  "openai-blog",
+        "source_name":  "OpenAI Blog",
+        "source_url":  "https://openai.com/news/rss.xml",
+        "category":  "vendor",
+        "priority":  "high",
+        "title":  "Advancing independent research on AI alignment",
+        "canonical_url":  "https://openai.com/index/advancing-independent-research-ai-alignment",
+        "publish_date":  "2026-02-19",
+        "event_date":  "2026-02-19",
+        "summary":  "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+        "fetched_at":  "2026-02-22"
+    },
+    {
+        "source_id":  "deepmind-news",
+        "source_name":  "Google DeepMind News",
+        "source_url":  "https://www.deepmind.com/blog/rss.xml",
+        "category":  "research",
+        "priority":  "high",
+        "title":  "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+        "canonical_url":  "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks",
+        "publish_date":  "2026-02-19",
+        "event_date":  "2026-02-19",
+        "summary":  "3.1 Pro is designed for tasks where a simple answer isnât enough.",
+        "fetched_at":  "2026-02-22"
+    },
+    {
+        "source_id":  "huggingface-blog",
+        "source_name":  "Hugging Face Blog",
+        "source_url":  "https://huggingface.co/blog/feed.xml",
+        "category":  "ecosystem",
+        "priority":  "medium",
+        "title":  "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+        "canonical_url":  "https://huggingface.co/blog/ggml-joins-hf",
+        "publish_date":  "2026-02-20",
+        "event_date":  "2026-02-20",
+        "summary":  "",
+        "fetched_at":  "2026-02-22"
+    },
+    {
+        "source_id":  "huggingface-blog",
+        "source_name":  "Hugging Face Blog",
+        "source_url":  "https://huggingface.co/blog/feed.xml",
+        "category":  "ecosystem",
+        "priority":  "medium",
+        "title":  "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+        "canonical_url":  "https://huggingface.co/blog/unsloth-jobs",
+        "publish_date":  "2026-02-20",
+        "event_date":  "2026-02-20",
+        "summary":  "",
+        "fetched_at":  "2026-02-22"
+    },
+    {
+        "source_id":  "huggingface-blog",
+        "source_name":  "Hugging Face Blog",
+        "source_url":  "https://huggingface.co/blog/feed.xml",
+        "category":  "ecosystem",
+        "priority":  "medium",
+        "title":  "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
+        "canonical_url":  "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
+        "publish_date":  "2026-02-19",
+        "event_date":  "2026-02-19",
+        "summary":  "",
+        "fetched_at":  "2026-02-22"
+    }
+]

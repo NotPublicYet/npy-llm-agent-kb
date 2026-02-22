@@ -1,0 +1,28 @@
+﻿sources:
+  - id: openai-blog
+    name: OpenAI Blog
+    rss_url: https://openai.com/news/rss.xml
+    category: vendor
+    enabled: true
+    priority: high
+
+  - id: deepmind-news
+    name: Google DeepMind News
+    rss_url: https://www.deepmind.com/blog/rss.xml
+    category: research
+    enabled: true
+    priority: high
+
+  - id: huggingface-blog
+    name: Hugging Face Blog
+    rss_url: https://huggingface.co/blog/feed.xml
+    category: ecosystem
+    enabled: true
+    priority: medium
+
+  - id: google-ai-blog
+    name: Google AI Blog
+    rss_url: https://blog.google/technology/ai/rss/
+    category: ecosystem
+    enabled: true
+    priority: medium

@@ -1,0 +1,42 @@
+﻿name: news-daily
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: news-daily-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run News Pipeline
+        shell: pwsh
+        run: |
+          pwsh -File automation/news/run_news_pipeline.ps1
+
+      - name: Run Tests
+        shell: pwsh
+        run: |
+          pwsh -File automation/news/tests/run_tests.ps1
+
+      - name: Commit Generated Artifacts
+        shell: pwsh
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 90_inbox automation/reports automation/news/state.json
+          if (git diff --staged --quiet) {
+            Write-Host "No changes to commit."
+            exit 0
+          }
+          git commit -m "chore(news): daily ingestion report and inbox updates"
+          git push
