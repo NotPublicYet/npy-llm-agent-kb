@@ -1,9 +1,7 @@
-﻿{
-    "run_utc":  "2026-02-22T09:50:55.1424255Z",
-    "sources_total":  7,
-    "fetched_total":  14,
-    "failed_total":  0,
-    "failed_sources":  [
-
-                       ]
+{
+  "run_utc": "2026-02-23T02:53:05.7066197Z",
+  "sources_total": 7,
+  "fetched_total": 5,
+  "failed_total": 0,
+  "failed_sources": []
 }

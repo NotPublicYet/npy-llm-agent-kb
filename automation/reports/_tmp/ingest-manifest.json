@@ -1,11 +1,9 @@
-﻿{
-    "run_date":  "2026-02-22",
-    "created_total":  0,
-    "skipped_total":  0,
-    "created_files":  [
-
-                      ],
-    "skipped":  [
-
-                ]
+{
+  "run_date": "2026-02-23",
+  "created_total": 1,
+  "skipped_total": 0,
+  "created_files": [
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-23/openclaw-releases/news-2026-02-23-openclaw-2026-2-22-beta-1.md"
+  ],
+  "skipped": []
 }
