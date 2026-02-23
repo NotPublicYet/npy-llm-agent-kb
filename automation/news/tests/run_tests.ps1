@@ -16,7 +16,12 @@ function Assert-Eq {
   }
 }
 
-$tempRoot = Join-Path $env:TEMP ("news-pipeline-test-" + [guid]::NewGuid().ToString("N"))
+$tempBase = $env:RUNNER_TEMP
+if ([string]::IsNullOrWhiteSpace($tempBase)) { $tempBase = $env:TEMP }
+if ([string]::IsNullOrWhiteSpace($tempBase)) { $tempBase = $env:TMPDIR }
+if ([string]::IsNullOrWhiteSpace($tempBase)) { $tempBase = [System.IO.Path]::GetTempPath() }
+
+$tempRoot = Join-Path $tempBase ("news-pipeline-test-" + [guid]::NewGuid().ToString("N"))
 New-Item -ItemType Directory -Path $tempRoot | Out-Null
 
 try {
