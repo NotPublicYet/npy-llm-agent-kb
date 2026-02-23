@@ -4,8 +4,8 @@ Run Date: 2026-02-23
 
 ## Metrics
 - Fetched: 5
-- Created: 1
-- Deduplicated: 4
+- Created: 0
+- Deduplicated: 5
 - Invalid: 0
 - SLA Risks (>48h Untriaged): 0
 
