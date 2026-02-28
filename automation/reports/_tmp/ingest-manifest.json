@@ -1,23 +1,19 @@
 {
-  "run_date": "2026-02-27",
-  "created_total": 15,
-  "skipped_total": 0,
+  "run_date": "2026-02-28",
+  "created_total": 5,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/openai-blog/news-2026-02-27-pacific-northwest-national-laboratory-and-openai-partner-to.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/openai-blog/news-2026-02-27-openai-codex-and-figma-launch-seamless-code-to-design-experi.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/deepmind-news/news-2026-02-27-nano-banana-2-combining-pro-capabilities-with-lightning-fast.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/huggingface-blog/news-2026-02-27-mixture-of-experts-moes-in-transformers.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/google-ai-blog/news-2026-02-27-google-and-the-massachusetts-ai-hub-are-launching-a-new-ai-t.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/google-ai-blog/news-2026-02-27-get-more-context-and-understand-translations-more-deeply-wit.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/google-ai-blog/news-2026-02-27-build-with-nano-banana-2-our-best-image-generation-and-editi.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/google-ai-blog/news-2026-02-27-nano-banana-2-combining-pro-capabilities-with-lightning-fast.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/openclaw-releases/news-2026-02-27-openclaw-2026-2-26.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/openclaw-releases/news-2026-02-27-openclaw-2026-2-26-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/openclaw-releases/news-2026-02-27-openclaw-2026-2-25.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/openclaw-releases/news-2026-02-27-openclaw-2026-2-25-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/claude-code-releases/news-2026-02-27-v2-1-62.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/claude-code-releases/news-2026-02-27-v2-1-61.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-27/claude-code-action-releases/news-2026-02-27-v1-0-63.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-28/openai-blog/news-2026-02-28-joint-statement-from-openai-and-microsoft.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-28/openai-blog/news-2026-02-28-introducing-the-stateful-runtime-environment-for-agents-in-a.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-28/openai-blog/news-2026-02-28-scaling-ai-for-everyone.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-28/openai-blog/news-2026-02-28-openai-and-amazon-announce-strategic-partnership.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-28/openai-blog/news-2026-02-28-an-update-on-our-mental-health-related-work.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "v2026.2.26-beta.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.26-beta.1"
+    }
+  ]
 }
