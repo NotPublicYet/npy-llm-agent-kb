@@ -1,19 +1,17 @@
 {
-  "run_date": "2026-02-28",
-  "created_total": 5,
+  "run_date": "2026-03-01",
+  "created_total": 3,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-28/openai-blog/news-2026-02-28-joint-statement-from-openai-and-microsoft.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-28/openai-blog/news-2026-02-28-introducing-the-stateful-runtime-environment-for-agents-in-a.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-28/openai-blog/news-2026-02-28-scaling-ai-for-everyone.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-28/openai-blog/news-2026-02-28-openai-and-amazon-announce-strategic-partnership.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-02-28/openai-blog/news-2026-02-28-an-update-on-our-mental-health-related-work.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-01/openai-blog/news-2026-03-01-our-agreement-with-the-department-of-war.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-01/claude-code-releases/news-2026-03-01-v2-1-63.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-01/claude-code-action-releases/news-2026-03-01-v1-0-64.md"
   ],
   "skipped": [
     {
       "reason": "existing_url",
-      "title": "v2026.2.26-beta.1",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.26-beta.1"
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
     }
   ]
 }
