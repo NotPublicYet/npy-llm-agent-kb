@@ -1,18 +1,16 @@
 {
-  "run_date": "2026-03-04",
-  "created_total": 10,
+  "run_date": "2026-03-05",
+  "created_total": 8,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-04/openai-blog/news-2026-03-04-gpt-5-3-instant-system-card.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-04/openai-blog/news-2026-03-04-gpt-5-3-instant-smoother-more-useful-everyday-conversations.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-04/deepmind-news/news-2026-03-04-gemini-3-1-flash-lite-built-for-intelligence-at-scale.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-04/huggingface-blog/news-2026-03-04-prx-part-3-training-a-text-to-image-model-in-24h.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-04/google-ai-blog/news-2026-03-04-create-new-worlds-in-project-genie-with-these-4-tips.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-04/google-ai-blog/news-2026-03-04-gemini-3-1-flash-lite-built-for-intelligence-at-scale.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-04/openclaw-releases/news-2026-03-04-openclaw-2026-3-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-04/openclaw-releases/news-2026-03-04-openclaw-2026-3-2-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-04/claude-code-releases/news-2026-03-04-v2-1-66.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-04/claude-code-action-releases/news-2026-03-04-v1-0-67.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/openai-blog/news-2026-03-05-extending-single-minus-amplitudes-to-gravitons.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/openai-blog/news-2026-03-05-understanding-ai-and-learning-outcomes.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/openai-blog/news-2026-03-05-how-axios-uses-ai-to-help-deliver-high-impact-local-journali.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/google-ai-blog/news-2026-03-05-use-canvas-in-ai-mode-to-get-things-done-and-bring-your-idea.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/claude-code-releases/news-2026-03-05-v2-1-69.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/claude-code-releases/news-2026-03-05-v2-1-68.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/claude-code-action-releases/news-2026-03-05-v1-0-69.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/claude-code-action-releases/news-2026-03-05-v1-0-68.md"
   ],
   "skipped": [
     {
