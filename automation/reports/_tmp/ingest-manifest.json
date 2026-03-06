@@ -1,16 +1,21 @@
 {
-  "run_date": "2026-03-05",
-  "created_total": 8,
+  "run_date": "2026-03-06",
+  "created_total": 13,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/openai-blog/news-2026-03-05-extending-single-minus-amplitudes-to-gravitons.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/openai-blog/news-2026-03-05-understanding-ai-and-learning-outcomes.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/openai-blog/news-2026-03-05-how-axios-uses-ai-to-help-deliver-high-impact-local-journali.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/google-ai-blog/news-2026-03-05-use-canvas-in-ai-mode-to-get-things-done-and-bring-your-idea.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/claude-code-releases/news-2026-03-05-v2-1-69.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/claude-code-releases/news-2026-03-05-v2-1-68.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/claude-code-action-releases/news-2026-03-05-v1-0-69.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-05/claude-code-action-releases/news-2026-03-05-v1-0-68.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/openai-blog/news-2026-03-06-introducing-gpt-5-4.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/openai-blog/news-2026-03-06-reasoning-models-struggle-to-control-their-chains-of-thought.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/openai-blog/news-2026-03-06-gpt-5-4-thinking-system-card.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/openai-blog/news-2026-03-06-ensuring-ai-use-in-education-leads-to-opportunity.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/openai-blog/news-2026-03-06-introducing-chatgpt-for-excel-and-new-financial-data-integra.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/openai-blog/news-2026-03-06-introducing-the-adoption-news-channel.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/openai-blog/news-2026-03-06-the-five-ai-value-models-driving-business-reinvention.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/huggingface-blog/news-2026-03-06-bringing-robotics-ai-to-embedded-platforms-dataset-recording.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/huggingface-blog/news-2026-03-06-introducing-modular-diffusers-composable-building-blocks-for.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/google-ai-blog/news-2026-03-06-ask-a-techspert-how-does-ai-understand-my-visual-searches.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/google-ai-blog/news-2026-03-06-the-latest-ai-news-we-announced-in-february.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/claude-code-releases/news-2026-03-06-v2-1-70.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-06/claude-code-action-releases/news-2026-03-06-v1-0-70.md"
   ],
   "skipped": [
     {
