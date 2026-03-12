@@ -1,15 +1,16 @@
 {
-  "run_date": "2026-03-11",
-  "created_total": 7,
+  "run_date": "2026-03-12",
+  "created_total": 8,
   "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-11/openai-blog/news-2026-03-11-improving-instruction-hierarchy-in-frontier-llms.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-11/openai-blog/news-2026-03-11-new-ways-to-learn-math-and-science-in-chatgpt.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-11/deepmind-news/news-2026-03-11-from-games-to-biology-and-beyond-10-years-of-alphago-s-impac.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-11/huggingface-blog/news-2026-03-11-how-nvidia-builds-open-data-for-ai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-11/huggingface-blog/news-2026-03-11-introducing-storage-buckets-on-the-hugging-face-hub.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-11/huggingface-blog/news-2026-03-11-keep-the-tokens-flowing-lessons-from-16-open-source-rl-libra.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-11/google-ai-blog/news-2026-03-11-gemini-in-google-sheets-just-achieved-state-of-the-art-perfo.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-12/openai-blog/news-2026-03-12-rakuten-fixes-issues-twice-as-fast-with-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-12/openai-blog/news-2026-03-12-designing-ai-agents-to-resist-prompt-injection.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-12/openai-blog/news-2026-03-12-from-model-to-agent-equipping-the-responses-api-with-a-compu.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-12/openai-blog/news-2026-03-12-wayfair-boosts-catalog-accuracy-and-support-speed-with-opena.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-12/huggingface-blog/news-2026-03-12-code-concepts-a-large-scale-synthetic-dataset-generated-from.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-12/google-ai-blog/news-2026-03-12-how-ai-is-helping-improve-heart-health-in-rural-australia.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-12/claude-code-releases/news-2026-03-12-v2-1-74.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-12/claude-code-releases/news-2026-03-12-v2-1-73.md"
   ],
   "skipped": []
 }
