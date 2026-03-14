@@ -1,12 +1,13 @@
 {
-  "run_date": "2026-03-13",
-  "created_total": 4,
+  "run_date": "2026-03-14",
+  "created_total": 5,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-13/huggingface-blog/news-2026-03-13-build-an-agent-that-thinks-like-a-data-scientist-how-we-hit.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-13/openclaw-releases/news-2026-03-13-openclaw-2026-3-11.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-13/openclaw-releases/news-2026-03-13-openclaw-2026-3-11-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-13/claude-code-action-releases/news-2026-03-13-v1-0-71.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-14/huggingface-blog/news-2026-03-14-beyond-semantic-similarity-introducing-nvidia-nemo-retriever.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-14/openclaw-releases/news-2026-03-14-openclaw-2026-3-12.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-14/claude-code-releases/news-2026-03-14-v2-1-76.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-14/claude-code-releases/news-2026-03-14-v2-1-75.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-14/claude-code-action-releases/news-2026-03-14-v1-0-72.md"
   ],
   "skipped": [
     {
