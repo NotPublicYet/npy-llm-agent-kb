@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "source_id": "openai-blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "category": "vendor",
+    "priority": "high",
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "canonical_url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "publish_date": "2026-03-16",
+    "event_date": "2026-03-16",
+    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "fetched_at": "2026-03-17",
+    "dedupe_hash": "2399b345367b78d2bb24f9033bc16e48e1c89238e3d8a738eb26f28e012177fd",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "needs_triage": false
+  },
+  {
+    "source_id": "huggingface-blog",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/feed.xml",
+    "category": "ecosystem",
+    "priority": "medium",
+    "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+    "canonical_url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+    "publish_date": "2026-03-16",
+    "event_date": "2026-03-16",
+    "summary": "",
+    "fetched_at": "2026-03-17",
+    "dedupe_hash": "bad420f683dfd892520b547455ce69377bd4568e5e05c6212efc714fd31a1acb",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "needs_triage": false
+  },
+  {
+    "source_id": "claude-code-releases",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases.atom",
+    "category": "vendor",
+    "priority": "high",
+    "title": "v2.1.77",
+    "canonical_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.77",
+    "publish_date": "2026-03-17",
+    "event_date": "2026-03-17",
+    "summary": "<h2>What's changed</h2>\n<ul>\n<li>Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens, and the upper bound for Opus 4.6 and Sonnet 4.6 models to 128k tokens</li>\n<li>Added <code>allowRead</code> sandbox filesystem setting to re-allow read access within <code>denyRead</code> regions</li>\n<li><code>/copy</code> now accepts an optional index: <code>/copy N</code> copies the Nth-latest assistant response</li>\n<li>Fixed \"Always Allow\" on compound bash commands (e.g. <code>cd src &amp;&amp; npm test</code>) saving a single rule for the full string instead of per-subcommand, leading to dead rules and repeated permission prompts</li>\n<li>Fixed auto-updater starting overlapping binary downloads when the slash-command overlay repeatedly opened and closed, accumulating tens of gigabytes of memory</li>\n<li>Fixed <code>--resume</code> silently truncating recent conversation history due to a race between memory-extraction writes and the main transcript</li>\n<li>Fixed PreToolUse hooks returning <code>\"allow\"</code> bypassing <code>deny</code> permission rules, including enterprise managed settings</li>\n<li>Fixed Write tool silently converting line endings when overwriting CRLF files or creating files in CRLF directories</li>\n<li>Fixed memory growth in long-running sessions from progress messages surviving compaction</li>\n<li>Fixed cost and token usage not being tracked when the API falls back to non-streaming mode</li>\n<li>Fixed <code>CLAUDE_CODE_DISABLE_EXPERIMENTAL_BETAS</code> not stripping beta tool-schema fields, causing proxy gateways to reject requests</li>\n<li>Fixed Bash tool reporting errors for successful commands when the system temp directory path contains spaces</li>\n<li>Fixed paste being lost when typing immediately after pasting</li>\n<li>Fixed Ctrl+D in <code>/feedback</code> text input deleting forward instead of the second press exiting the session</li>\n<li>Fixed API error when dragging a 0-byte image file into the prompt</li>\n<li>Fixed Claude Desktop sessions incorrectly using the terminal CLI's configured API key instead of OAuth</li>\n<li>Fixed <code>git-subdir</code> plugins at different subdirectories of the same monorepo commit colliding in the plugin cache</li>\n<li>Fixed ordered list numbers not rendering in terminal UI</li>\n<li>Fixed a race condition where stale-worktree cleanup could delete an agent worktree just resumed from a previous crash</li>\n<li>Fixed input deadlock when opening <code>/mcp</code> or similar dialogs while the agent is running</li>\n<li>Fixed Backspace and Delete keys not working in vim NORMAL mode</li>\n<li>Fixed status line not updating when vim mode is toggled on or off</li>\n<li>Fixed hyperlinks opening twice on Cmd+click in VS Code, Cursor, and other xterm.js-based terminals</li>\n<li>Fixed background colors rendering as terminal-default inside tmux with default configuration</li>\n<li>Fixed iTerm2 session crash when selecting text inside tmux over SSH</li>\n<li>Fixed clipboard copy silently failing in tmux sessions; copy toast now indicates whether to paste with <code>⌘V</code> or tmux <code>prefix+]</code></li>\n<li>Fixed <code>←</code>/<code>→</code> accidentally switching tabs in settings, permissions, and sandbox dialogs while navigating lists</li>\n<li>Fixed IDE integration not auto-connecting when Claude Code is launched inside tmux or screen</li>\n<li>Fixed CJK characters visually bleeding into adjacent UI elements when clipped at the right edge</li>\n<li>Fixed teammate panes not closing when the leader exits</li>\n<li>Fixed iTerm2 auto mode not detecting iTerm2 for native split-pane teammates</li>\n<li>Faster startup on macOS (~60ms) by reading keychain credentials in parallel with module loading</li>\n<li>Faster <code>--resume</code> on fork-heavy and very large sessions — up to 45% faster loading and ~100-150MB less peak memory</li>\n<li>Improved Esc to abort in-flight non-streaming API requests</li>\n<li>Improved <code>claude plugin validate</code> to check skill, agent, and command frontmatter plus <code>hooks/hooks.json</code>, catching YAML parse errors and schema violations</li>\n<li>Background bash tasks are now killed if output exceeds 5GB, preventing runaway processes from filling disk</li>\n<li>Sessions are now auto-named from plan content when you accept a plan</li>\n<li>Improved headless mode plugin installation to compose correctly with <code>CLAUDE_CODE_PLUGIN_SEED_DIR</code></li>\n<li>Show a notice when <code>apiKeyHelper</code> takes longer than 10s, preventing it from blocking the main loop</li>\n<li>The Agent tool no longer accepts a <code>resume</code> parameter — use <code>SendMessage({to: agentId})</code> to continue a previously spawned agent</li>\n<li><code>SendMessage</code> now auto-resumes stopped agents in the background instead of returning an error</li>\n<li>Renamed <code>/fork</code> to <code>/branch</code> (<code>/fork</code> still works as an alias)</li>\n<li>[VSCode] Improved plan preview tab titles to use the plan's heading instead of \"Claude's Plan\"</li>\n<li>[VSCode] When option+click doesn't trigger native selection on macOS, the footer now points to the <code>macOptionClickForcesSelection</code> setting</li>\n</ul>",
+    "fetched_at": "2026-03-17",
+    "dedupe_hash": "926c126c469fd366098fc85c9724525d0f1735a6ea80270c829e6b79bd8549c0",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "needs_triage": false
+  }
+]
