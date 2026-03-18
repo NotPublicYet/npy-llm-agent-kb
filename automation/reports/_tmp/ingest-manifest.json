@@ -1,11 +1,23 @@
 {
-  "run_date": "2026-03-17",
-  "created_total": 3,
-  "skipped_total": 0,
+  "run_date": "2026-03-18",
+  "created_total": 9,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-17/openai-blog/news-2026-03-17-why-codex-security-doesn-t-include-a-sast-report.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-17/huggingface-blog/news-2026-03-17-the-first-healthcare-robotics-dataset-and-foundational-physi.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-17/claude-code-releases/news-2026-03-17-v2-1-77.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-18/openai-blog/news-2026-03-18-introducing-gpt-5-4-mini-and-nano.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-18/openai-blog/news-2026-03-18-equipping-workers-with-insights-about-compensation.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-18/huggingface-blog/news-2026-03-18-nemotron-3-nano-4b-a-compact-hybrid-model-for-efficient-loca.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-18/huggingface-blog/news-2026-03-18-state-of-open-source-on-hugging-face-spring-2026.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-18/huggingface-blog/news-2026-03-18-holotron-12b-high-throughput-computer-use-agent.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-18/google-ai-blog/news-2026-03-18-bringing-the-power-of-personal-intelligence-to-more-people.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-18/google-ai-blog/news-2026-03-18-our-latest-investment-in-open-source-security-for-the-ai-era.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-18/claude-code-releases/news-2026-03-18-v2-1-78.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-18/claude-code-action-releases/news-2026-03-18-v1-0-73.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
