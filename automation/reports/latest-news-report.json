@@ -1,716 +1,731 @@
 {
-  "run_date": "2026-03-18",
-  "report_path": "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/automation/reports/news-daily-2026-03-18.md",
+  "run_date": "2026-03-19",
+  "report_path": "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/automation/reports/news-daily-2026-03-19.md",
   "sla_risks": [
     {
       "file": "2026-03-12/openai-blog/news-2026-03-12-designing-ai-agents-to-resist-prompt-injection.md",
       "ingested_at": "2026-03-12",
-      "age_hours": 147.6
+      "age_hours": 171.6
     },
     {
       "file": "2026-03-12/openai-blog/news-2026-03-12-from-model-to-agent-equipping-the-responses-api-with-a-compu.md",
       "ingested_at": "2026-03-12",
-      "age_hours": 147.6
+      "age_hours": 171.6
     },
     {
       "file": "2026-03-12/openai-blog/news-2026-03-12-rakuten-fixes-issues-twice-as-fast-with-codex.md",
       "ingested_at": "2026-03-12",
-      "age_hours": 147.6
+      "age_hours": 171.6
     },
     {
       "file": "2026-03-12/openai-blog/news-2026-03-12-wayfair-boosts-catalog-accuracy-and-support-speed-with-opena.md",
       "ingested_at": "2026-03-12",
-      "age_hours": 147.6
+      "age_hours": 171.6
     },
     {
       "file": "2026-03-12/claude-code-releases/news-2026-03-12-v2-1-73.md",
       "ingested_at": "2026-03-12",
-      "age_hours": 147.6
+      "age_hours": 171.6
     },
     {
       "file": "2026-03-12/claude-code-releases/news-2026-03-12-v2-1-74.md",
       "ingested_at": "2026-03-12",
-      "age_hours": 147.6
+      "age_hours": 171.6
     },
     {
       "file": "2026-03-12/google-ai-blog/news-2026-03-12-how-ai-is-helping-improve-heart-health-in-rural-australia.md",
       "ingested_at": "2026-03-12",
-      "age_hours": 147.6
+      "age_hours": 171.6
     },
     {
       "file": "2026-03-12/huggingface-blog/news-2026-03-12-code-concepts-a-large-scale-synthetic-dataset-generated-from.md",
       "ingested_at": "2026-03-12",
-      "age_hours": 147.6
+      "age_hours": 171.6
     },
     {
       "file": "2026-03-15/openclaw-releases/news-2026-03-15-openclaw-2026-3-13-beta-1.md",
       "ingested_at": "2026-03-15",
-      "age_hours": 75.6
+      "age_hours": 99.6
     },
     {
       "file": "2026-03-15/openclaw-releases/news-2026-03-15-openclaw-2026-3-13.md",
       "ingested_at": "2026-03-15",
-      "age_hours": 75.6
+      "age_hours": 99.6
     },
     {
       "file": "2026-03-14/claude-code-releases/news-2026-03-14-v2-1-75.md",
       "ingested_at": "2026-03-14",
-      "age_hours": 99.6
+      "age_hours": 123.6
     },
     {
       "file": "2026-03-14/claude-code-releases/news-2026-03-14-v2-1-76.md",
       "ingested_at": "2026-03-14",
-      "age_hours": 99.6
+      "age_hours": 123.6
     },
     {
       "file": "2026-03-14/openclaw-releases/news-2026-03-14-openclaw-2026-3-12.md",
       "ingested_at": "2026-03-14",
-      "age_hours": 99.6
+      "age_hours": 123.6
     },
     {
       "file": "2026-03-14/claude-code-action-releases/news-2026-03-14-v1-0-72.md",
       "ingested_at": "2026-03-14",
-      "age_hours": 99.6
+      "age_hours": 123.6
     },
     {
       "file": "2026-03-14/huggingface-blog/news-2026-03-14-beyond-semantic-similarity-introducing-nvidia-nemo-retriever.md",
       "ingested_at": "2026-03-14",
-      "age_hours": 99.6
+      "age_hours": 123.6
     },
     {
       "file": "2026-03-09/openclaw-releases/news-2026-03-09-openclaw-2026-3-7-beta-1.md",
       "ingested_at": "2026-03-09",
-      "age_hours": 219.6
+      "age_hours": 243.6
     },
     {
       "file": "2026-03-09/openclaw-releases/news-2026-03-09-openclaw-2026-3-7.md",
       "ingested_at": "2026-03-09",
-      "age_hours": 219.6
+      "age_hours": 243.6
     },
     {
       "file": "2026-03-11/openai-blog/news-2026-03-11-improving-instruction-hierarchy-in-frontier-llms.md",
       "ingested_at": "2026-03-11",
-      "age_hours": 171.6
+      "age_hours": 195.6
     },
     {
       "file": "2026-03-11/openai-blog/news-2026-03-11-new-ways-to-learn-math-and-science-in-chatgpt.md",
       "ingested_at": "2026-03-11",
-      "age_hours": 171.6
+      "age_hours": 195.6
     },
     {
       "file": "2026-03-11/deepmind-news/news-2026-03-11-from-games-to-biology-and-beyond-10-years-of-alphago-s-impac.md",
       "ingested_at": "2026-03-11",
-      "age_hours": 171.6
+      "age_hours": 195.6
     },
     {
       "file": "2026-03-11/google-ai-blog/news-2026-03-11-gemini-in-google-sheets-just-achieved-state-of-the-art-perfo.md",
       "ingested_at": "2026-03-11",
-      "age_hours": 171.6
+      "age_hours": 195.6
     },
     {
       "file": "2026-03-11/huggingface-blog/news-2026-03-11-how-nvidia-builds-open-data-for-ai.md",
       "ingested_at": "2026-03-11",
-      "age_hours": 171.6
+      "age_hours": 195.6
     },
     {
       "file": "2026-03-11/huggingface-blog/news-2026-03-11-introducing-storage-buckets-on-the-hugging-face-hub.md",
       "ingested_at": "2026-03-11",
-      "age_hours": 171.6
+      "age_hours": 195.6
     },
     {
       "file": "2026-03-11/huggingface-blog/news-2026-03-11-keep-the-tokens-flowing-lessons-from-16-open-source-rl-libra.md",
       "ingested_at": "2026-03-11",
-      "age_hours": 171.6
+      "age_hours": 195.6
     },
     {
       "file": "2026-02-26/openai-blog/news-2026-02-26-disrupting-malicious-uses-of-ai-february-2026.md",
       "ingested_at": "2026-02-26",
-      "age_hours": 483.6
+      "age_hours": 507.6
     },
     {
       "file": "2026-02-26/claude-code-releases/news-2026-02-26-v2-1-56.md",
       "ingested_at": "2026-02-26",
-      "age_hours": 483.6
+      "age_hours": 507.6
     },
     {
       "file": "2026-02-26/claude-code-releases/news-2026-02-26-v2-1-58.md",
       "ingested_at": "2026-02-26",
-      "age_hours": 483.6
+      "age_hours": 507.6
     },
     {
       "file": "2026-02-26/claude-code-releases/news-2026-02-26-v2-1-59.md",
       "ingested_at": "2026-02-26",
-      "age_hours": 483.6
+      "age_hours": 507.6
     },
     {
       "file": "2026-02-26/google-ai-blog/news-2026-02-26-a-more-intelligent-android-on-samsung-galaxy-s26.md",
       "ingested_at": "2026-02-26",
-      "age_hours": 483.6
+      "age_hours": 507.6
     },
     {
       "file": "2026-02-26/google-ai-blog/news-2026-02-26-see-the-whole-picture-and-find-the-look-with-circle-to-searc.md",
       "ingested_at": "2026-02-26",
-      "age_hours": 483.6
+      "age_hours": 507.6
     },
     {
       "file": "2026-02-26/claude-code-action-releases/news-2026-02-26-v1-0-60.md",
       "ingested_at": "2026-02-26",
-      "age_hours": 483.6
+      "age_hours": 507.6
     },
     {
       "file": "2026-02-26/claude-code-action-releases/news-2026-02-26-v1-0-61.md",
       "ingested_at": "2026-02-26",
-      "age_hours": 483.6
+      "age_hours": 507.6
     },
     {
       "file": "2026-02-26/claude-code-action-releases/news-2026-02-26-v1-0-62.md",
       "ingested_at": "2026-02-26",
-      "age_hours": 483.6
+      "age_hours": 507.6
     },
     {
       "file": "2026-03-04/openai-blog/news-2026-03-04-gpt-5-3-instant-smoother-more-useful-everyday-conversations.md",
       "ingested_at": "2026-03-04",
-      "age_hours": 339.6
+      "age_hours": 363.6
     },
     {
       "file": "2026-03-04/openai-blog/news-2026-03-04-gpt-5-3-instant-system-card.md",
       "ingested_at": "2026-03-04",
-      "age_hours": 339.6
+      "age_hours": 363.6
     },
     {
       "file": "2026-03-04/deepmind-news/news-2026-03-04-gemini-3-1-flash-lite-built-for-intelligence-at-scale.md",
       "ingested_at": "2026-03-04",
-      "age_hours": 339.6
+      "age_hours": 363.6
     },
     {
       "file": "2026-03-04/claude-code-releases/news-2026-03-04-v2-1-66.md",
       "ingested_at": "2026-03-04",
-      "age_hours": 339.6
+      "age_hours": 363.6
     },
     {
       "file": "2026-03-04/google-ai-blog/news-2026-03-04-create-new-worlds-in-project-genie-with-these-4-tips.md",
       "ingested_at": "2026-03-04",
-      "age_hours": 339.6
+      "age_hours": 363.6
     },
     {
       "file": "2026-03-04/google-ai-blog/news-2026-03-04-gemini-3-1-flash-lite-built-for-intelligence-at-scale.md",
       "ingested_at": "2026-03-04",
-      "age_hours": 339.6
+      "age_hours": 363.6
     },
     {
       "file": "2026-03-04/openclaw-releases/news-2026-03-04-openclaw-2026-3-2-beta-1.md",
       "ingested_at": "2026-03-04",
-      "age_hours": 339.6
+      "age_hours": 363.6
     },
     {
       "file": "2026-03-04/openclaw-releases/news-2026-03-04-openclaw-2026-3-2.md",
       "ingested_at": "2026-03-04",
-      "age_hours": 339.6
+      "age_hours": 363.6
     },
     {
       "file": "2026-03-04/claude-code-action-releases/news-2026-03-04-v1-0-67.md",
       "ingested_at": "2026-03-04",
-      "age_hours": 339.6
+      "age_hours": 363.6
     },
     {
       "file": "2026-03-04/huggingface-blog/news-2026-03-04-prx-part-3-training-a-text-to-image-model-in-24h.md",
       "ingested_at": "2026-03-04",
-      "age_hours": 339.6
+      "age_hours": 363.6
     },
     {
       "file": "2026-03-03/openclaw-releases/news-2026-03-03-openclaw-2026-3-1.md",
       "ingested_at": "2026-03-03",
-      "age_hours": 363.6
+      "age_hours": 387.6
     },
     {
       "file": "2026-03-03/claude-code-action-releases/news-2026-03-03-v1-0-65.md",
       "ingested_at": "2026-03-03",
-      "age_hours": 363.6
+      "age_hours": 387.6
     },
     {
       "file": "2026-03-03/claude-code-action-releases/news-2026-03-03-v1-0-66.md",
       "ingested_at": "2026-03-03",
-      "age_hours": 363.6
+      "age_hours": 387.6
     },
     {
       "file": "2026-03-01/openai-blog/news-2026-03-01-our-agreement-with-the-department-of-war.md",
       "ingested_at": "2026-03-01",
-      "age_hours": 411.6
+      "age_hours": 435.6
     },
     {
       "file": "2026-03-01/claude-code-releases/news-2026-03-01-v2-1-63.md",
       "ingested_at": "2026-03-01",
-      "age_hours": 411.6
+      "age_hours": 435.6
     },
     {
       "file": "2026-03-01/claude-code-action-releases/news-2026-03-01-v1-0-64.md",
       "ingested_at": "2026-03-01",
-      "age_hours": 411.6
+      "age_hours": 435.6
     },
     {
       "file": "2026-03-06/openai-blog/news-2026-03-06-ensuring-ai-use-in-education-leads-to-opportunity.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/openai-blog/news-2026-03-06-gpt-5-4-thinking-system-card.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/openai-blog/news-2026-03-06-introducing-chatgpt-for-excel-and-new-financial-data-integra.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/openai-blog/news-2026-03-06-introducing-gpt-5-4.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/openai-blog/news-2026-03-06-introducing-the-adoption-news-channel.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/openai-blog/news-2026-03-06-reasoning-models-struggle-to-control-their-chains-of-thought.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/openai-blog/news-2026-03-06-the-five-ai-value-models-driving-business-reinvention.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/claude-code-releases/news-2026-03-06-v2-1-70.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/google-ai-blog/news-2026-03-06-ask-a-techspert-how-does-ai-understand-my-visual-searches.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/google-ai-blog/news-2026-03-06-the-latest-ai-news-we-announced-in-february.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/claude-code-action-releases/news-2026-03-06-v1-0-70.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/huggingface-blog/news-2026-03-06-bringing-robotics-ai-to-embedded-platforms-dataset-recording.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-06/huggingface-blog/news-2026-03-06-introducing-modular-diffusers-composable-building-blocks-for.md",
       "ingested_at": "2026-03-06",
-      "age_hours": 291.6
+      "age_hours": 315.6
     },
     {
       "file": "2026-03-05/openai-blog/news-2026-03-05-extending-single-minus-amplitudes-to-gravitons.md",
       "ingested_at": "2026-03-05",
-      "age_hours": 315.6
+      "age_hours": 339.6
     },
     {
       "file": "2026-03-05/openai-blog/news-2026-03-05-how-axios-uses-ai-to-help-deliver-high-impact-local-journali.md",
       "ingested_at": "2026-03-05",
-      "age_hours": 315.6
+      "age_hours": 339.6
     },
     {
       "file": "2026-03-05/openai-blog/news-2026-03-05-understanding-ai-and-learning-outcomes.md",
       "ingested_at": "2026-03-05",
-      "age_hours": 315.6
+      "age_hours": 339.6
     },
     {
       "file": "2026-03-05/claude-code-releases/news-2026-03-05-v2-1-68.md",
       "ingested_at": "2026-03-05",
-      "age_hours": 315.6
+      "age_hours": 339.6
     },
     {
       "file": "2026-03-05/claude-code-releases/news-2026-03-05-v2-1-69.md",
       "ingested_at": "2026-03-05",
-      "age_hours": 315.6
+      "age_hours": 339.6
     },
     {
       "file": "2026-03-05/google-ai-blog/news-2026-03-05-use-canvas-in-ai-mode-to-get-things-done-and-bring-your-idea.md",
       "ingested_at": "2026-03-05",
-      "age_hours": 315.6
+      "age_hours": 339.6
     },
     {
       "file": "2026-03-05/claude-code-action-releases/news-2026-03-05-v1-0-68.md",
       "ingested_at": "2026-03-05",
-      "age_hours": 315.6
+      "age_hours": 339.6
     },
     {
       "file": "2026-03-05/claude-code-action-releases/news-2026-03-05-v1-0-69.md",
       "ingested_at": "2026-03-05",
-      "age_hours": 315.6
+      "age_hours": 339.6
     },
     {
       "file": "2026-03-07/openai-blog/news-2026-03-07-codex-security-now-in-research-preview.md",
       "ingested_at": "2026-03-07",
-      "age_hours": 267.6
+      "age_hours": 291.6
     },
     {
       "file": "2026-03-07/openai-blog/news-2026-03-07-how-balyasny-asset-management-built-an-ai-research-engine-fo.md",
       "ingested_at": "2026-03-07",
-      "age_hours": 267.6
+      "age_hours": 291.6
     },
     {
       "file": "2026-03-07/openai-blog/news-2026-03-07-how-descript-enables-multilingual-video-dubbing-at-scale.md",
       "ingested_at": "2026-03-07",
-      "age_hours": 267.6
+      "age_hours": 291.6
     },
     {
       "file": "2026-03-07/claude-code-releases/news-2026-03-07-v2-1-71.md",
       "ingested_at": "2026-03-07",
-      "age_hours": 267.6
+      "age_hours": 291.6
     },
     {
       "file": "2026-03-07/google-ai-blog/news-2026-03-07-how-our-open-source-ai-model-speciesnet-is-helping-to-promot.md",
       "ingested_at": "2026-03-07",
-      "age_hours": 267.6
+      "age_hours": 291.6
     },
     {
       "file": "2026-03-10/openai-blog/news-2026-03-10-openai-to-acquire-promptfoo.md",
       "ingested_at": "2026-03-10",
-      "age_hours": 195.6
+      "age_hours": 219.6
     },
     {
       "file": "2026-03-10/claude-code-releases/news-2026-03-10-v2-1-72.md",
       "ingested_at": "2026-03-10",
-      "age_hours": 195.6
+      "age_hours": 219.6
     },
     {
       "file": "2026-03-10/openclaw-releases/news-2026-03-10-openclaw-2026-3-8-beta-1.md",
       "ingested_at": "2026-03-10",
-      "age_hours": 195.6
+      "age_hours": 219.6
     },
     {
       "file": "2026-03-10/openclaw-releases/news-2026-03-10-openclaw-2026-3-8.md",
       "ingested_at": "2026-03-10",
-      "age_hours": 195.6
+      "age_hours": 219.6
     },
     {
       "file": "2026-03-10/huggingface-blog/news-2026-03-10-granite-4-0-1b-speech-compact-multilingual-and-built-for-the.md",
       "ingested_at": "2026-03-10",
-      "age_hours": 195.6
+      "age_hours": 219.6
     },
     {
       "file": "2026-03-10/huggingface-blog/news-2026-03-10-lerobot-v0-5-0-scaling-every-dimension.md",
       "ingested_at": "2026-03-10",
-      "age_hours": 195.6
+      "age_hours": 219.6
     },
     {
       "file": "2026-03-10/huggingface-blog/news-2026-03-10-ulysses-sequence-parallelism-training-with-million-token-con.md",
       "ingested_at": "2026-03-10",
-      "age_hours": 195.6
+      "age_hours": 219.6
     },
     {
       "file": "2026-02-23/openclaw-releases/news-2026-02-23-openclaw-2026-2-22-beta-1.md",
       "ingested_at": "2026-02-23",
-      "age_hours": 555.6
+      "age_hours": 579.6
     },
     {
       "file": "2026-02-25/openai-blog/news-2026-02-25-arvind-kc-appointed-chief-people-officer.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
     },
     {
       "file": "2026-02-25/claude-code-releases/news-2026-02-25-v2-1-52.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
     },
     {
       "file": "2026-02-25/claude-code-releases/news-2026-02-25-v2-1-53.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
     },
     {
       "file": "2026-02-25/claude-code-releases/news-2026-02-25-v2-1-55.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
     },
     {
       "file": "2026-02-25/openclaw-releases/news-2026-02-25-openclaw-2026-2-23.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
     },
     {
       "file": "2026-02-25/openclaw-releases/news-2026-02-25-openclaw-2026-2-24-beta-1.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
     },
     {
       "file": "2026-02-25/openclaw-releases/news-2026-02-25-openclaw-2026-2-24.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
     },
     {
       "file": "2026-02-25/openclaw-releases/news-2026-02-25-v2026-2-23-beta-1.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
     },
     {
       "file": "2026-02-25/claude-code-action-releases/news-2026-02-25-v1-0-57.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
     },
     {
       "file": "2026-02-25/claude-code-action-releases/news-2026-02-25-v1-0-58.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
     },
     {
       "file": "2026-02-25/claude-code-action-releases/news-2026-02-25-v1-0-59.md",
       "ingested_at": "2026-02-25",
-      "age_hours": 507.6
+      "age_hours": 531.6
+    },
+    {
+      "file": "2026-03-17/openai-blog/news-2026-03-17-why-codex-security-doesn-t-include-a-sast-report.md",
+      "ingested_at": "2026-03-17",
+      "age_hours": 51.6
+    },
+    {
+      "file": "2026-03-17/claude-code-releases/news-2026-03-17-v2-1-77.md",
+      "ingested_at": "2026-03-17",
+      "age_hours": 51.6
+    },
+    {
+      "file": "2026-03-17/huggingface-blog/news-2026-03-17-the-first-healthcare-robotics-dataset-and-foundational-physi.md",
+      "ingested_at": "2026-03-17",
+      "age_hours": 51.6
     },
     {
       "file": "2026-02-24/openai-blog/news-2026-02-24-openai-announces-frontier-alliance-partners.md",
       "ingested_at": "2026-02-24",
-      "age_hours": 531.6
+      "age_hours": 555.6
     },
     {
       "file": "2026-02-24/openai-blog/news-2026-02-24-why-we-no-longer-evaluate-swe-bench-verified.md",
       "ingested_at": "2026-02-24",
-      "age_hours": 531.6
+      "age_hours": 555.6
     },
     {
       "file": "2026-02-24/claude-code-releases/news-2026-02-24-v2-1-51.md",
       "ingested_at": "2026-02-24",
-      "age_hours": 531.6
+      "age_hours": 555.6
     },
     {
       "file": "2026-02-24/openclaw-releases/news-2026-02-24-openclaw-2026-2-22.md",
       "ingested_at": "2026-02-24",
-      "age_hours": 531.6
+      "age_hours": 555.6
     },
     {
       "file": "2026-02-24/claude-code-action-releases/news-2026-02-24-v1-0-56.md",
       "ingested_at": "2026-02-24",
-      "age_hours": 531.6
+      "age_hours": 555.6
     },
     {
       "file": "2026-02-24/huggingface-blog/news-2026-02-24-deploying-open-source-vision-language-models-vlm-on-jetson.md",
       "ingested_at": "2026-02-24",
-      "age_hours": 531.6
+      "age_hours": 555.6
     },
     {
       "file": "2026-02-27/openai-blog/news-2026-02-27-openai-codex-and-figma-launch-seamless-code-to-design-experi.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/openai-blog/news-2026-02-27-pacific-northwest-national-laboratory-and-openai-partner-to.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/deepmind-news/news-2026-02-27-nano-banana-2-combining-pro-capabilities-with-lightning-fast.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/claude-code-releases/news-2026-02-27-v2-1-61.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/claude-code-releases/news-2026-02-27-v2-1-62.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/google-ai-blog/news-2026-02-27-build-with-nano-banana-2-our-best-image-generation-and-editi.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/google-ai-blog/news-2026-02-27-get-more-context-and-understand-translations-more-deeply-wit.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/google-ai-blog/news-2026-02-27-google-and-the-massachusetts-ai-hub-are-launching-a-new-ai-t.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/google-ai-blog/news-2026-02-27-nano-banana-2-combining-pro-capabilities-with-lightning-fast.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/openclaw-releases/news-2026-02-27-openclaw-2026-2-25-beta-1.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/openclaw-releases/news-2026-02-27-openclaw-2026-2-25.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/openclaw-releases/news-2026-02-27-openclaw-2026-2-26-beta-1.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/openclaw-releases/news-2026-02-27-openclaw-2026-2-26.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/claude-code-action-releases/news-2026-02-27-v1-0-63.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-02-27/huggingface-blog/news-2026-02-27-mixture-of-experts-moes-in-transformers.md",
       "ingested_at": "2026-02-27",
-      "age_hours": 459.6
+      "age_hours": 483.6
     },
     {
       "file": "2026-03-13/openclaw-releases/news-2026-03-13-openclaw-2026-3-11-beta-1.md",
       "ingested_at": "2026-03-13",
-      "age_hours": 123.6
+      "age_hours": 147.6
     },
     {
       "file": "2026-03-13/openclaw-releases/news-2026-03-13-openclaw-2026-3-11.md",
       "ingested_at": "2026-03-13",
-      "age_hours": 123.6
+      "age_hours": 147.6
     },
     {
       "file": "2026-03-13/claude-code-action-releases/news-2026-03-13-v1-0-71.md",
       "ingested_at": "2026-03-13",
-      "age_hours": 123.6
+      "age_hours": 147.6
     },
     {
       "file": "2026-03-13/huggingface-blog/news-2026-03-13-build-an-agent-that-thinks-like-a-data-scientist-how-we-hit.md",
       "ingested_at": "2026-03-13",
-      "age_hours": 123.6
+      "age_hours": 147.6
     },
     {
       "file": "2026-02-28/openai-blog/news-2026-02-28-an-update-on-our-mental-health-related-work.md",
       "ingested_at": "2026-02-28",
-      "age_hours": 435.6
+      "age_hours": 459.6
     },
     {
       "file": "2026-02-28/openai-blog/news-2026-02-28-introducing-the-stateful-runtime-environment-for-agents-in-a.md",
       "ingested_at": "2026-02-28",
-      "age_hours": 435.6
+      "age_hours": 459.6
     },
     {
       "file": "2026-02-28/openai-blog/news-2026-02-28-joint-statement-from-openai-and-microsoft.md",
       "ingested_at": "2026-02-28",
-      "age_hours": 435.6
+      "age_hours": 459.6
     },
     {
       "file": "2026-02-28/openai-blog/news-2026-02-28-openai-and-amazon-announce-strategic-partnership.md",
       "ingested_at": "2026-02-28",
-      "age_hours": 435.6
+      "age_hours": 459.6
     },
     {
       "file": "2026-02-28/openai-blog/news-2026-02-28-scaling-ai-for-everyone.md",
       "ingested_at": "2026-02-28",
-      "age_hours": 435.6
+      "age_hours": 459.6
     },
     {
       "file": "2026-02-22/openai-blog/news-2026-02-22-advancing-independent-research-on-ai-alignment.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/openai-blog/news-2026-02-22-our-first-proof-submissions.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/deepmind-news/news-2026-02-22-gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/anthropic-sdk-ts-releases/news-2026-02-22-bedrock-sdk-v0-26-4.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/anthropic-sdk-ts-releases/news-2026-02-22-sdk-v0-78-0.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/anthropic-sdk-ts-releases/news-2026-02-22-vertex-sdk-v0-14-4.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/claude-code-releases/news-2026-02-22-v2-1-49.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/claude-code-releases/news-2026-02-22-v2-1-50.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/anthropic-sdk-python-releases/news-2026-02-22-v0-83-0.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/openclaw-releases/news-2026-02-22-openclaw-2026-2-19-2.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/openclaw-releases/news-2026-02-22-openclaw-2026-2-19.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/openclaw-releases/news-2026-02-22-openclaw-2026-2-21.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/openclaw-releases/news-2026-02-22-v2026-2-21-beta-1.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/claude-code-action-releases/news-2026-02-22-claude-code-github-action-v1-0.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/claude-code-action-releases/news-2026-02-22-v1-0-55.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/huggingface-blog/news-2026-02-22-ai.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/huggingface-blog/news-2026-02-22-ggml-and-llama-cpp-join-hf-to-ensure-the-long-term-progress.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     },
     {
       "file": "2026-02-22/huggingface-blog/news-2026-02-22-train-ai-models-with-unsloth-and-hugging-face-jobs-for-free.md",
       "ingested_at": "2026-02-22",
-      "age_hours": 579.6
+      "age_hours": 603.6
     }
   ]
 }
