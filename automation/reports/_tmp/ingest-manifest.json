@@ -1,19 +1,12 @@
 {
-  "run_date": "2026-03-19",
-  "created_total": 5,
-  "skipped_total": 1,
+  "run_date": "2026-03-20",
+  "created_total": 4,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-19/openai-blog/news-2026-03-19-openai-japan-announces-japan-teen-safety-blueprint-to-put-te.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-19/deepmind-news/news-2026-03-19-measuring-progress-toward-agi-a-cognitive-framework.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-19/claude-code-releases/news-2026-03-19-v2-1-79.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-19/claude-code-action-releases/news-2026-03-19-v1-0-75.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-19/claude-code-action-releases/news-2026-03-19-v1-0-74.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-20/openai-blog/news-2026-03-20-how-we-monitor-internal-coding-agents-for-misalignment.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-20/openai-blog/news-2026-03-20-openai-to-acquire-astral.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-20/huggingface-blog/news-2026-03-20-introducing-speed-bench-a-unified-and-diverse-benchmark-for.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-20/claude-code-releases/news-2026-03-20-v2-1-80.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
