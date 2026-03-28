@@ -1,16 +1,17 @@
 {
-  "run_date": "2026-03-27",
-  "created_total": 8,
-  "skipped_total": 0,
+  "run_date": "2026-03-28",
+  "created_total": 3,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-27/deepmind-news/news-2026-03-27-gemini-3-1-flash-live-making-audio-ai-more-natural-and-relia.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-27/deepmind-news/news-2026-03-27-protecting-people-from-harmful-manipulation.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-27/google-ai-blog/news-2026-03-27-watch-james-manyika-talk-ai-and-creativity-with-ll-cool-j.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-27/google-ai-blog/news-2026-03-27-transform-your-headphones-into-a-live-personal-translator-on.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-27/google-ai-blog/news-2026-03-27-gemini-3-1-flash-live-making-audio-ai-more-natural-and-relia.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-27/google-ai-blog/news-2026-03-27-search-live-is-expanding-globally.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-27/claude-code-releases/news-2026-03-27-v2-1-85.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-27/claude-code-action-releases/news-2026-03-27-v1-0-80.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-28/openai-blog/news-2026-03-28-stadler-reshapes-knowledge-work-at-a-230-year-old-company.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-28/claude-code-releases/news-2026-03-28-v2-1-86.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-28/claude-code-action-releases/news-2026-03-28-v1-0-81.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
