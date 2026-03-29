@@ -1,11 +1,13 @@
 {
-  "run_date": "2026-03-28",
-  "created_total": 3,
+  "run_date": "2026-03-29",
+  "created_total": 5,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-28/openai-blog/news-2026-03-28-stadler-reshapes-knowledge-work-at-a-230-year-old-company.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-28/claude-code-releases/news-2026-03-28-v2-1-86.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-28/claude-code-action-releases/news-2026-03-28-v1-0-81.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-29/huggingface-blog/news-2026-03-29-liberate-your-openclaw.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-29/openclaw-releases/news-2026-03-29-openclaw-2026-3-28.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-29/openclaw-releases/news-2026-03-29-openclaw-2026-3-28-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-29/claude-code-releases/news-2026-03-29-v2-1-87.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-29/claude-code-action-releases/news-2026-03-29-v1-0-82.md"
   ],
   "skipped": [
     {
