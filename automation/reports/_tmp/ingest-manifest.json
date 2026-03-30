@@ -1,19 +1,7 @@
 {
-  "run_date": "2026-03-29",
-  "created_total": 5,
-  "skipped_total": 1,
-  "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-29/huggingface-blog/news-2026-03-29-liberate-your-openclaw.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-29/openclaw-releases/news-2026-03-29-openclaw-2026-3-28.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-29/openclaw-releases/news-2026-03-29-openclaw-2026-3-28-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-29/claude-code-releases/news-2026-03-29-v2-1-87.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-29/claude-code-action-releases/news-2026-03-29-v1-0-82.md"
-  ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "run_date": "2026-03-30",
+  "created_total": 0,
+  "skipped_total": 0,
+  "created_files": [],
+  "skipped": []
 }
