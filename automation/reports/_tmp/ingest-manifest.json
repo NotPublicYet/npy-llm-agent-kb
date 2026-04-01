@@ -1,10 +1,22 @@
 {
-  "run_date": "2026-03-31",
-  "created_total": 2,
-  "skipped_total": 0,
+  "run_date": "2026-04-01",
+  "created_total": 8,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-31/openai-blog/news-2026-03-31-helping-disaster-response-teams-turn-ai-into-action-across-a.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-03-31/claude-code-releases/news-2026-03-31-v2-1-88.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/openai-blog/news-2026-04-01-accelerating-the-next-phase-of-ai.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/huggingface-blog/news-2026-04-01-granite-4-0-3b-vision-compact-multimodal-intelligence-for-en.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/huggingface-blog/news-2026-04-01-trl-v1-0-post-training-library-built-to-move-with-the-field.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/google-ai-blog/news-2026-04-01-build-with-veo-3-1-lite-our-most-cost-effective-video-genera.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/openclaw-releases/news-2026-04-01-openclaw-2026-3-31.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/openclaw-releases/news-2026-04-01-openclaw-2026-3-31-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/claude-code-releases/news-2026-04-01-v2-1-89.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/claude-code-action-releases/news-2026-04-01-v1-0-83.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
