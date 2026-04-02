@@ -1,22 +1,18 @@
 {
-  "run_date": "2026-04-01",
-  "created_total": 8,
-  "skipped_total": 1,
+  "run_date": "2026-04-02",
+  "created_total": 10,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/openai-blog/news-2026-04-01-accelerating-the-next-phase-of-ai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/huggingface-blog/news-2026-04-01-granite-4-0-3b-vision-compact-multimodal-intelligence-for-en.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/huggingface-blog/news-2026-04-01-trl-v1-0-post-training-library-built-to-move-with-the-field.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/google-ai-blog/news-2026-04-01-build-with-veo-3-1-lite-our-most-cost-effective-video-genera.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/openclaw-releases/news-2026-04-01-openclaw-2026-3-31.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/openclaw-releases/news-2026-04-01-openclaw-2026-3-31-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/claude-code-releases/news-2026-04-01-v2-1-89.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-01/claude-code-action-releases/news-2026-04-01-v1-0-83.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-02/openai-blog/news-2026-04-02-gradient-labs-gives-every-bank-customer-an-ai-account-manage.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-02/huggingface-blog/news-2026-04-02-holo3-breaking-the-computer-use-frontier.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-02/huggingface-blog/news-2026-04-02-falcon-perception.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-02/google-ai-blog/news-2026-04-02-we-re-creating-a-new-satellite-imagery-map-to-help-protect-b.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-02/google-ai-blog/news-2026-04-02-the-latest-ai-news-we-announced-in-march-2026.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-02/openclaw-releases/news-2026-04-02-openclaw-2026-4-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-02/openclaw-releases/news-2026-04-02-openclaw-2026-4-1-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-02/claude-code-releases/news-2026-04-02-v2-1-90.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-02/claude-code-action-releases/news-2026-04-02-v1-0-85.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-02/claude-code-action-releases/news-2026-04-02-v1-0-84.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
