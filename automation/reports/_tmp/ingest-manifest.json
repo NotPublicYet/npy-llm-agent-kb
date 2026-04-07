@@ -1,16 +1,10 @@
 {
-  "run_date": "2026-04-06",
+  "run_date": "2026-04-07",
   "created_total": 2,
-  "skipped_total": 1,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-06/openclaw-releases/news-2026-04-06-openclaw-2026-4-5.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-06/claude-code-action-releases/news-2026-04-06-v1-0-89.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-07/openai-blog/news-2026-04-07-announcing-the-openai-safety-fellowship.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-07/openai-blog/news-2026-04-07-industrial-policy-for-the-intelligence-age.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
