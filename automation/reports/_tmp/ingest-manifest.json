@@ -1,10 +1,10 @@
 {
-  "run_date": "2026-04-12",
+  "run_date": "2026-04-13",
   "created_total": 2,
   "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-12/openclaw-releases/news-2026-04-12-openclaw-2026-4-11.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-12/openclaw-releases/news-2026-04-12-openclaw-2026-4-11-beta-1.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-13/openclaw-releases/news-2026-04-13-openclaw-2026-4-12-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-13/claude-code-releases/news-2026-04-13-v2-1-104.md"
   ],
   "skipped": []
 }
