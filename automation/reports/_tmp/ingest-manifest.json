@@ -1,10 +1,19 @@
 {
-  "run_date": "2026-04-13",
-  "created_total": 2,
-  "skipped_total": 0,
+  "run_date": "2026-04-14",
+  "created_total": 5,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-13/openclaw-releases/news-2026-04-13-openclaw-2026-4-12-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-13/claude-code-releases/news-2026-04-13-v2-1-104.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-14/openai-blog/news-2026-04-14-enterprises-power-agentic-workflows-in-cloudflare-agent-clou.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-14/openclaw-releases/news-2026-04-14-openclaw-2026-4-14-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-14/openclaw-releases/news-2026-04-14-openclaw-2026-4-12.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-14/claude-code-releases/news-2026-04-14-v2-1-105.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-14/claude-code-action-releases/news-2026-04-14-v1-0-94.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
