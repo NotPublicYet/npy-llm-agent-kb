@@ -1,18 +1,21 @@
 {
-  "run_date": "2026-04-16",
-  "created_total": 10,
+  "run_date": "2026-04-17",
+  "created_total": 13,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-16/openai-blog/news-2026-04-16-the-next-evolution-of-the-agents-sdk.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-16/deepmind-news/news-2026-04-16-gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-sp.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-16/huggingface-blog/news-2026-04-16-inside-vakra-reasoning-tool-use-and-failure-modes-of-agents.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-16/huggingface-blog/news-2026-04-16-meet-holotab-by-hcompany-your-ai-browser-companion.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-16/google-ai-blog/news-2026-04-16-gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-sp.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-16/openclaw-releases/news-2026-04-16-openclaw-2026-4-15-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-16/claude-code-releases/news-2026-04-16-v2-1-110.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-16/claude-code-releases/news-2026-04-16-v2-1-109.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-16/claude-code-action-releases/news-2026-04-16-v1-0-97.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-16/claude-code-action-releases/news-2026-04-16-v1-0-96.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/openai-blog/news-2026-04-17-codex-for-almost-everything.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/openai-blog/news-2026-04-17-introducing-gpt-rosalind-for-life-sciences-research.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/openai-blog/news-2026-04-17-accelerating-the-cyber-defense-ecosystem-that-protects-us-al.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/huggingface-blog/news-2026-04-17-the-pr-you-would-have-opened-yourself.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/huggingface-blog/news-2026-04-17-training-and-finetuning-multimodal-embedding-reranker-models.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/google-ai-blog/news-2026-04-17-a-new-way-to-explore-the-web-with-ai-mode-in-chrome.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/google-ai-blog/news-2026-04-17-new-ways-to-create-personalized-images-in-the-gemini-app.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/openclaw-releases/news-2026-04-17-openclaw-2026-4-15.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/openclaw-releases/news-2026-04-17-openclaw-2026-4-15-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/claude-code-releases/news-2026-04-17-v2-1-112.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/claude-code-releases/news-2026-04-17-v2-1-111.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/claude-code-action-releases/news-2026-04-17-v1-0-99.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-17/claude-code-action-releases/news-2026-04-17-v1-0-98.md"
   ],
   "skipped": [
     {
