@@ -1,0 +1,37 @@
+# news-2026-04-21-how-to-ground-a-korean-ai-agent-in-real-demographics-with-sy
+
+Automation: NewsIngest/v1
+SourceID: huggingface-blog
+SourceURL: https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas
+IngestedAt: 2026-04-21
+Status: Untriaged
+Submitted date: 2026-04-21
+Submitter: @news-bot
+Proposed destination: 09_resources/news/
+Sensitivity notes: Public source material only
+
+Date Captured: 2026-04-21
+Event Date: 2026-04-21
+Publish Date: 2026-04-21
+Source: Hugging Face Blog
+URL: https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas
+Type: News
+Confidence: Medium
+Validation Status: valid
+
+## Summary
+TBD
+
+## Why It Matters
+This update from Hugging Face Blog is likely to influence our near-term planning and should be triaged into questions/evals. May impact evaluation design, benchmark baselines, and reusable agent/tool patterns.
+
+## Evidence/Quotes (short)
+- Source URL only. Add short excerpts during triage if needed.
+
+## Relevance to NPY
+TBD
+
+## Suggested Action
+- Triage into 09_resources/news/
+- Add question: 01_questions/...
+- Add experiment: 03_experiments/...
