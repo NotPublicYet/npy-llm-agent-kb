@@ -1,12 +1,18 @@
 {
-  "run_date": "2026-04-21",
-  "created_total": 4,
+  "run_date": "2026-04-22",
+  "created_total": 10,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-21/openai-blog/news-2026-04-21-openai-helps-hyatt-advance-ai-among-colleagues.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-21/huggingface-blog/news-2026-04-21-how-to-ground-a-korean-ai-agent-in-real-demographics-with-sy.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-21/claude-code-releases/news-2026-04-21-v2-1-116.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-21/claude-code-action-releases/news-2026-04-21-v1-0-102.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-22/openai-blog/news-2026-04-22-scaling-codex-to-enterprises-worldwide.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-22/huggingface-blog/news-2026-04-22-qimma-a-quality-first-arabic-llm-leaderboard.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-22/huggingface-blog/news-2026-04-22-ai-and-the-future-of-cybersecurity-why-openness-matters.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-22/google-ai-blog/news-2026-04-22-3-new-ways-ads-advisor-is-making-google-ads-safer-and-faster.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-22/openclaw-releases/news-2026-04-22-v2026-4-21.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-22/openclaw-releases/news-2026-04-22-openclaw-2026-4-20.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-22/openclaw-releases/news-2026-04-22-openclaw-2026-4-20-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-22/openclaw-releases/news-2026-04-22-openclaw-2026-4-20-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-22/claude-code-releases/news-2026-04-22-v2-1-117.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-22/claude-code-action-releases/news-2026-04-22-v1-0-103.md"
   ],
   "skipped": [
     {
