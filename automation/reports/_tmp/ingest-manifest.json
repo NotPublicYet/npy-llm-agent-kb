@@ -1,30 +1,28 @@
 {
-  "run_date": "2026-04-23",
-  "created_total": 11,
-  "skipped_total": 2,
+  "run_date": "2026-04-24",
+  "created_total": 20,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/openai-blog/news-2026-04-23-making-chatgpt-better-for-clinicians.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/openai-blog/news-2026-04-23-workspace-agents.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/openai-blog/news-2026-04-23-introducing-workspace-agents-in-chatgpt.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/openai-blog/news-2026-04-23-speeding-up-agentic-workflows-with-websockets-in-the-respons.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/openai-blog/news-2026-04-23-introducing-openai-privacy-filter.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/openai-blog/news-2026-04-23-introducing-chatgpt-images-2-0.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/deepmind-news/news-2026-04-23-partnering-with-industry-leaders-to-accelerate-ai-transforma.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/huggingface-blog/news-2026-04-23-gemma-4-vla-demo-on-jetson-orin-nano-super.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/google-ai-blog/news-2026-04-23-we-re-launching-two-specialized-tpus-for-the-agentic-era.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/claude-code-releases/news-2026-04-23-v2-1-118.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-23/claude-code-action-releases/news-2026-04-23-v1-0-104.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openai-blog/news-2026-04-24-introducing-gpt-5-5.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openai-blog/news-2026-04-24-gpt-5-5-system-card.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openai-blog/news-2026-04-24-automations.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openai-blog/news-2026-04-24-top-10-uses-for-codex-at-work.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openai-blog/news-2026-04-24-plugins-and-skills.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openai-blog/news-2026-04-24-working-with-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openai-blog/news-2026-04-24-codex-settings.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openai-blog/news-2026-04-24-what-is-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openai-blog/news-2026-04-24-how-to-get-started-with-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openai-blog/news-2026-04-24-gpt-5-5-bio-bug-bounty.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/deepmind-news/news-2026-04-24-decoupled-diloco-a-new-frontier-for-resilient-distributed-ai.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/google-ai-blog/news-2026-04-24-here-s-how-our-tpus-power-increasingly-demanding-ai-workload.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/google-ai-blog/news-2026-04-24-elevating-austria-google-invests-in-its-first-data-center-in.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openclaw-releases/news-2026-04-24-v2026-4-23-beta-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openclaw-releases/news-2026-04-24-v2026-4-23-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openclaw-releases/news-2026-04-24-v2026-4-23-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openclaw-releases/news-2026-04-24-openclaw-2026-4-22.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/openclaw-releases/news-2026-04-24-v2026-4-22-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/claude-code-releases/news-2026-04-24-v2-1-119.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-24/claude-code-action-releases/news-2026-04-24-v1-0-105.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.4.21",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.21"
-    },
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
