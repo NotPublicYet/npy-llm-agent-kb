@@ -1,24 +1,15 @@
 {
-  "run_date": "2026-04-25",
-  "created_total": 10,
-  "skipped_total": 1,
+  "run_date": "2026-04-26",
+  "created_total": 7,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-25/huggingface-blog/news-2026-04-25-deepseek-v4-a-million-token-context-that-agents-can-actually.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-25/huggingface-blog/news-2026-04-25-how-to-use-transformers-js-in-a-chrome-extension.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-25/google-ai-blog/news-2026-04-25-8-gemini-tips-for-organizing-your-space-and-life.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-25/openclaw-releases/news-2026-04-25-openclaw-2026-4-23.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-25/openclaw-releases/news-2026-04-25-openclaw-2026-4-23-beta-6.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-25/openclaw-releases/news-2026-04-25-openclaw-2026-4-23-beta-5.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-25/openclaw-releases/news-2026-04-25-openclaw-2026-4-23-beta-4.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-25/claude-code-releases/news-2026-04-25-v2-1-120.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-25/claude-code-action-releases/news-2026-04-25-v1-0-107.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-25/claude-code-action-releases/news-2026-04-25-v1-0-106.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-26/openclaw-releases/news-2026-04-26-openclaw-2026-4-24.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-26/openclaw-releases/news-2026-04-26-v2026-4-24-beta-6.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-26/openclaw-releases/news-2026-04-26-openclaw-2026-4-24-beta-5.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-26/openclaw-releases/news-2026-04-26-openclaw-2026-4-24-beta-4.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-26/openclaw-releases/news-2026-04-26-openclaw-2026-4-24-beta-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-26/openclaw-releases/news-2026-04-26-openclaw-2026-4-24-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-04-26/openclaw-releases/news-2026-04-26-openclaw-2026-4-24-beta-1.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
