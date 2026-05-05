@@ -1,12 +1,24 @@
 {
-  "run_date": "2026-05-04",
-  "created_total": 4,
-  "skipped_total": 0,
+  "run_date": "2026-05-05",
+  "created_total": 10,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-04/openclaw-releases/news-2026-05-04-v2026-5-3-beta-4.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-04/openclaw-releases/news-2026-05-04-openclaw-2026-5-3-beta-3.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-04/openclaw-releases/news-2026-05-04-openclaw-2026-5-3-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-04/openclaw-releases/news-2026-05-04-v2026-5-3-beta-1.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-05/openai-blog/news-2026-05-05-openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cf.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-05/openai-blog/news-2026-05-05-how-openai-delivers-low-latency-voice-ai-at-scale.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-05/google-ai-blog/news-2026-05-05-the-latest-ai-news-we-announced-in-april-2026.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-05/google-ai-blog/news-2026-05-05-reduce-friction-and-latency-for-long-running-jobs-with-webho.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-05/openclaw-releases/news-2026-05-05-openclaw-2026-5-4-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-05/openclaw-releases/news-2026-05-05-openclaw-2026-5-4-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-05/openclaw-releases/news-2026-05-05-openclaw-2026-5-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-05/openclaw-releases/news-2026-05-05-openclaw-2026-5-3-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-05/claude-code-releases/news-2026-05-05-v2-1-128.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-05/claude-code-action-releases/news-2026-05-05-v1-0-112.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
