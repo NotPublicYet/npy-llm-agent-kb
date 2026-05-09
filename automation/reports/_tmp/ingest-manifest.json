@@ -1,27 +1,19 @@
 {
-  "run_date": "2026-05-08",
-  "created_total": 12,
-  "skipped_total": 2,
+  "run_date": "2026-05-09",
+  "created_total": 9,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/openai-blog/news-2026-05-08-scaling-trusted-access-for-cyber-with-gpt-5-5-and-gpt-5-5-cy.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/openai-blog/news-2026-05-08-parloa-builds-service-agents-customers-want-to-talk-to.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/openai-blog/news-2026-05-08-advancing-voice-intelligence-with-new-models-in-the-api.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/openai-blog/news-2026-05-08-introducing-trusted-contact-in-chatgpt.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/openai-blog/news-2026-05-08-testing-ads-in-chatgpt.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/openai-blog/news-2026-05-08-simplex-rethinks-software-development-with-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/deepmind-news/news-2026-05-08-alphaevolve-how-our-gemini-powered-coding-agent-is-scaling-i.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/openclaw-releases/news-2026-05-08-openclaw-2026-5-7.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/openclaw-releases/news-2026-05-08-v2026-5-7-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/openclaw-releases/news-2026-05-08-v2026-5-6-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/claude-code-releases/news-2026-05-08-v2-1-133.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-08/claude-code-action-releases/news-2026-05-08-v1-0-116.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-09/openai-blog/news-2026-05-09-running-codex-safely-at-openai.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-09/openai-blog/news-2026-05-09-how-chatgpt-learns-about-the-world-while-protecting-privacy.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-09/huggingface-blog/news-2026-05-09-cybersecqwen-4b-why-defensive-cyber-needs-small-specialized.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-09/huggingface-blog/news-2026-05-09-emo-pretraining-mixture-of-experts-for-emergent-modularity.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-09/google-ai-blog/news-2026-05-09-see-what-happens-when-creative-legends-use-ai-to-make-ads-fo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-09/claude-code-releases/news-2026-05-09-v2-1-137.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-09/claude-code-releases/news-2026-05-09-v2-1-136.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-09/claude-code-action-releases/news-2026-05-09-v1-0-118.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-09/claude-code-action-releases/news-2026-05-09-v1-0-117.md"
   ],
   "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals"
-    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
