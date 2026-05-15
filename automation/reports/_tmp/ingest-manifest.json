@@ -1,15 +1,19 @@
 {
-  "run_date": "2026-05-14",
-  "created_total": 7,
+  "run_date": "2026-05-15",
+  "created_total": 11,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-14/openai-blog/news-2026-05-14-building-a-safe-effective-sandbox-to-enable-codex-on-windows.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-14/openai-blog/news-2026-05-14-our-response-to-the-tanstack-npm-supply-chain-attack.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-14/openclaw-releases/news-2026-05-14-openclaw-2026-5-12-beta-6.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-14/openclaw-releases/news-2026-05-14-openclaw-2026-5-12-beta-5.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-14/openclaw-releases/news-2026-05-14-openclaw-2026-5-12-beta-4.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-14/claude-code-releases/news-2026-05-14-v2-1-141.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-14/claude-code-action-releases/news-2026-05-14-v1-0-122.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openai-blog/news-2026-05-15-sea-s-view-on-the-future-of-agentic-software-development-wit.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openai-blog/news-2026-05-15-work-with-codex-from-anywhere.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openai-blog/news-2026-05-15-helping-chatgpt-better-recognize-context-in-sensitive-conver.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/huggingface-blog/news-2026-05-15-granite-embedding-multilingual-r2-open-apache-2-0-multilingu.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/huggingface-blog/news-2026-05-15-unlocking-asynchronicity-in-continuous-batching.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openclaw-releases/news-2026-05-15-openclaw-2026-5-14-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openclaw-releases/news-2026-05-15-openclaw-2026-5-12.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openclaw-releases/news-2026-05-15-openclaw-2026-5-12-beta-8.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openclaw-releases/news-2026-05-15-openclaw-2026-5-12-beta-7.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/claude-code-releases/news-2026-05-15-v2-1-142.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/claude-code-action-releases/news-2026-05-15-v1-0-123.md"
   ],
   "skipped": [
     {
