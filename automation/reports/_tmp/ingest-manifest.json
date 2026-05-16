@@ -1,25 +1,19 @@
 {
-  "run_date": "2026-05-15",
-  "created_total": 11,
+  "run_date": "2026-05-16",
+  "created_total": 5,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openai-blog/news-2026-05-15-sea-s-view-on-the-future-of-agentic-software-development-wit.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openai-blog/news-2026-05-15-work-with-codex-from-anywhere.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openai-blog/news-2026-05-15-helping-chatgpt-better-recognize-context-in-sensitive-conver.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/huggingface-blog/news-2026-05-15-granite-embedding-multilingual-r2-open-apache-2-0-multilingu.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/huggingface-blog/news-2026-05-15-unlocking-asynchronicity-in-continuous-batching.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openclaw-releases/news-2026-05-15-openclaw-2026-5-14-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openclaw-releases/news-2026-05-15-openclaw-2026-5-12.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openclaw-releases/news-2026-05-15-openclaw-2026-5-12-beta-8.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/openclaw-releases/news-2026-05-15-openclaw-2026-5-12-beta-7.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/claude-code-releases/news-2026-05-15-v2-1-142.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-15/claude-code-action-releases/news-2026-05-15-v1-0-123.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-16/openai-blog/news-2026-05-16-a-new-personal-finance-experience-in-chatgpt.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-16/openai-blog/news-2026-05-16-databricks-brings-gpt-5-5-to-enterprise-agent-workflows.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-16/openclaw-releases/news-2026-05-16-openclaw-2026-5-16-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-16/openclaw-releases/news-2026-05-16-openclaw-2026-5-14-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-16/claude-code-releases/news-2026-05-16-v2-1-143.md"
   ],
   "skipped": [
     {
       "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+      "title": "openclaw 2026.5.12",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12"
     }
   ]
 }
