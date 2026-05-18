@@ -1,15 +1,10 @@
 {
-  "run_date": "2026-05-17",
-  "created_total": 7,
+  "run_date": "2026-05-18",
+  "created_total": 2,
   "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-17/openai-blog/news-2026-05-17-openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citize.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-17/openai-blog/news-2026-05-17-how-business-operations-teams-use-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-17/openai-blog/news-2026-05-17-how-data-science-teams-use-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-17/openai-blog/news-2026-05-17-how-sales-teams-use-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-17/openclaw-releases/news-2026-05-17-openclaw-2026-5-16-beta-4.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-17/openclaw-releases/news-2026-05-17-openclaw-2026-5-16-beta-3.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-17/openclaw-releases/news-2026-05-17-openclaw-2026-5-16-beta-2.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-18/openclaw-releases/news-2026-05-18-openclaw-2026-5-16-beta-6.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-18/openclaw-releases/news-2026-05-18-openclaw-2026-5-16-beta-5.md"
   ],
   "skipped": []
 }
