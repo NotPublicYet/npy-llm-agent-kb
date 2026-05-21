@@ -1,31 +1,34 @@
 {
-  "run_date": "2026-05-20",
-  "created_total": 23,
-  "skipped_total": 0,
+  "run_date": "2026-05-21",
+  "created_total": 10,
+  "skipped_total": 3,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/openai-blog/news-2026-05-20-introducing-openai-for-singapore.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/openai-blog/news-2026-05-20-advancing-content-provenance-for-a-safer-more-transparent-ai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/deepmind-news/news-2026-05-20-fast-tracking-genetic-leads-to-reverse-cellular-aging.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/deepmind-news/news-2026-05-20-simulate-real-world-places-with-project-genie-and-street-vie.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/deepmind-news/news-2026-05-20-introducing-gemini-omni.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/deepmind-news/news-2026-05-20-introducing-google-antigravity-2-0.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/deepmind-news/news-2026-05-20-gemini-for-science-ai-experiments-and-tools-for-a-new-era-of.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/deepmind-news/news-2026-05-20-making-it-easier-to-understand-how-content-was-created-and-e.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/huggingface-blog/news-2026-05-20-olmoearth-v1-1-a-more-efficient-family-of-models.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/huggingface-blog/news-2026-05-20-introducing-the-ettin-reranker-family.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/google-ai-blog/news-2026-05-20-i-o-2026.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/google-ai-blog/news-2026-05-20-how-ai-mode-is-changing-the-way-people-search-in-the-u-s.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/google-ai-blog/news-2026-05-20-new-ways-to-create-and-get-things-done-in-google-workspace.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/google-ai-blog/news-2026-05-20-i-o-2026-welcome-to-the-agentic-gemini-era.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/google-ai-blog/news-2026-05-20-gemini-3-5-frontier-intelligence-with-action.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/google-ai-blog/news-2026-05-20-a-new-era-for-ai-search.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/google-ai-blog/news-2026-05-20-everything-new-in-our-google-ai-subscriptions-fresh-from-i-o.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/openclaw-releases/news-2026-05-20-openclaw-2026-5-19-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/openclaw-releases/news-2026-05-20-openclaw-2026-5-19-alpha-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/claude-code-releases/news-2026-05-20-v2-1-145.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/claude-code-action-releases/news-2026-05-20-v1-0-127.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/claude-code-action-releases/news-2026-05-20-v1-0-126.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-20/claude-code-action-releases/news-2026-05-20-v1-0-125.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-21/openai-blog/news-2026-05-21-an-openai-model-has-disproved-a-central-conjecture-in-discre.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-21/openai-blog/news-2026-05-21-the-next-phase-of-openai-s-education-for-countries.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-21/openai-blog/news-2026-05-21-how-ramp-engineers-accelerate-code-review-with-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-21/google-ai-blog/news-2026-05-21-we-re-announcing-new-community-investments-in-missouri.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-21/google-ai-blog/news-2026-05-21-100-things-we-announced-at-i-o-2026.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-21/google-ai-blog/news-2026-05-21-a-new-experiment-brings-better-group-meetings-to-google-beam.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-21/openclaw-releases/news-2026-05-21-openclaw-2026-5-20-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-21/openclaw-releases/news-2026-05-21-openclaw-2026-5-19.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-21/claude-code-releases/news-2026-05-21-v2-1-146.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-21/claude-code-action-releases/news-2026-05-21-v1-0-128.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1"
+    },
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.5.18",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.18"
+    },
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
