@@ -1,18 +1,19 @@
 {
-  "run_date": "2026-05-22",
-  "created_total": 10,
+  "run_date": "2026-05-23",
+  "created_total": 11,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-22/openai-blog/news-2026-05-22-adventhealth-advances-whole-person-care-with-openai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-22/deepmind-news/news-2026-05-22-we-re-launching-the-google-deepmind-accelerator-program-in-a.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-22/openclaw-releases/news-2026-05-22-v2026-5-21-alpha-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-22/openclaw-releases/news-2026-05-22-openclaw-2026-5-20.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-22/openclaw-releases/news-2026-05-22-openclaw-2026-5-20-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-22/claude-code-releases/news-2026-05-22-v2-1-148.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-22/claude-code-releases/news-2026-05-22-v2-1-147.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-22/claude-code-action-releases/news-2026-05-22-v1-0-131.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-22/claude-code-action-releases/news-2026-05-22-v1-0-130.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-22/claude-code-action-releases/news-2026-05-22-v1-0-129.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/openai-blog/news-2026-05-23-openai-named-a-leader-in-enterprise-coding-agents-by-gartner.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/openai-blog/news-2026-05-23-how-virgin-atlantic-ships-faster-with-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/huggingface-blog/news-2026-05-23-towards-speed-of-light-text-generation-with-nemotron-labs-di.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/huggingface-blog/news-2026-05-23-specialization-beats-scale-a-strategic-variable-most-ai-proc.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/google-ai-blog/news-2026-05-23-catch-up-on-the-dialogues-stage-at-google-i-o-2026.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/openclaw-releases/news-2026-05-23-v2026-5-22-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/openclaw-releases/news-2026-05-23-v2026-5-21-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/claude-code-releases/news-2026-05-23-v2-1-150.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/claude-code-releases/news-2026-05-23-v2-1-149.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/claude-code-action-releases/news-2026-05-23-v1-0-133.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-23/claude-code-action-releases/news-2026-05-23-v1-0-132.md"
   ],
   "skipped": [
     {
