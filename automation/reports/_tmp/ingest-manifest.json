@@ -1,16 +1,12 @@
 {
-  "run_date": "2026-05-24",
-  "created_total": 2,
-  "skipped_total": 1,
+  "run_date": "2026-05-25",
+  "created_total": 4,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-24/openclaw-releases/news-2026-05-24-openclaw-2026-5-22.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-24/openclaw-releases/news-2026-05-24-v2026-5-23-alpha-1.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-25/openclaw-releases/news-2026-05-25-v2026-5-25-alpha-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-25/openclaw-releases/news-2026-05-25-openclaw-2026-5-24-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-25/openclaw-releases/news-2026-05-25-openclaw-2026-5-24-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-25/openclaw-releases/news-2026-05-25-v2026-5-24-alpha-1.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.5.22-beta.1",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.22-beta.1"
-    }
-  ]
+  "skipped": []
 }
