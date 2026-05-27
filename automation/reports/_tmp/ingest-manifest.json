@@ -1,12 +1,17 @@
 {
-  "run_date": "2026-05-26",
-  "created_total": 4,
-  "skipped_total": 0,
+  "run_date": "2026-05-27",
+  "created_total": 3,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-26/openai-blog/news-2026-05-26-openai-grupo-folha-and-grupo-uol-announce-strategic-content.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-26/huggingface-blog/news-2026-05-26-harness-scaffold-and-the-ai-agent-terms-worth-getting-right.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-26/openclaw-releases/news-2026-05-26-v2026-5-25-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-26/openclaw-releases/news-2026-05-26-v2026-5-25-alpha-2.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-27/openclaw-releases/news-2026-05-27-v2026-5-26-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-27/openclaw-releases/news-2026-05-27-openclaw-2026-5-26-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-27/claude-code-releases/news-2026-05-27-v2-1-152.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.5.25-beta.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.25-beta.1"
+    }
+  ]
 }
