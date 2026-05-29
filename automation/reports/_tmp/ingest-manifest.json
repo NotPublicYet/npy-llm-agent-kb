@@ -1,21 +1,28 @@
 {
-  "run_date": "2026-05-28",
-  "created_total": 11,
-  "skipped_total": 1,
+  "run_date": "2026-05-29",
+  "created_total": 8,
+  "skipped_total": 3,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/openai-blog/news-2026-05-28-cisco-and-openai-redefine-enterprise-engineering-with-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/openai-blog/news-2026-05-28-building-self-improving-tax-agents-with-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/openai-blog/news-2026-05-28-warp-s-big-bet-on-building-open-source-with-gpt-5-5.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/openai-blog/news-2026-05-28-election-information-and-safeguards-in-2026.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/huggingface-blog/news-2026-05-28-itbench-aa-frontier-models-score-below-50-on-the-first-bench.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/huggingface-blog/news-2026-05-28-reachy-mini-goes-fully-local.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/huggingface-blog/news-2026-05-28-shipping-a-trillion-parameters-with-a-hub-bucket-delta-weigh.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/openclaw-releases/news-2026-05-28-v2026-5-27-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/openclaw-releases/news-2026-05-28-v2026-5-27-alpha-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/openclaw-releases/news-2026-05-28-openclaw-2026-5-26.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-28/claude-code-releases/news-2026-05-28-v2-1-153.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-29/openai-blog/news-2026-05-29-how-endava-builds-an-agentic-organization-with-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-29/openai-blog/news-2026-05-29-openai-s-frontier-governance-framework.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-29/google-ai-blog/news-2026-05-29-catch-up-on-12-major-i-o-2026-moments.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-29/openclaw-releases/news-2026-05-29-openclaw-2026-5-28-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-29/openclaw-releases/news-2026-05-29-v2026-5-28-alpha-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-29/openclaw-releases/news-2026-05-29-openclaw-2026-5-27.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-29/claude-code-releases/news-2026-05-29-v2-1-156.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-29/claude-code-releases/news-2026-05-29-v2-1-154.md"
   ],
   "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.5.27-beta.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.27-beta.1"
+    },
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.5.26",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.26"
+    },
     {
       "reason": "existing_url",
       "title": "openclaw 2026.5.26-beta.2",
