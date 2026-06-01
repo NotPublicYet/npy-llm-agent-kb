@@ -1,12 +1,14 @@
 {
-  "run_date": "2026-05-31",
-  "created_total": 4,
+  "run_date": "2026-06-01",
+  "created_total": 6,
   "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-31/openclaw-releases/news-2026-05-31-v2026-5-31-alpha-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-31/openclaw-releases/news-2026-05-31-v2026-5-30-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-31/openclaw-releases/news-2026-05-31-openclaw-2026-5-30-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-05-31/openclaw-releases/news-2026-05-31-openclaw-2026-5-28.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/huggingface-blog/news-2026-06-01-welcome-nvidia-cosmos-3-the-first-open-omni-model-for-physic.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/openclaw-releases/news-2026-06-01-openclaw-2026-5-31-beta-4.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/openclaw-releases/news-2026-06-01-openclaw-2026-5-31-beta-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/openclaw-releases/news-2026-06-01-openclaw-2026-5-31-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/openclaw-releases/news-2026-06-01-openclaw-2026-5-31-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/claude-code-releases/news-2026-06-01-v2-1-159.md"
   ],
   "skipped": []
 }
