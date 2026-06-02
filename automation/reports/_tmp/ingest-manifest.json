@@ -1,14 +1,21 @@
 {
-  "run_date": "2026-06-01",
-  "created_total": 6,
+  "run_date": "2026-06-02",
+  "created_total": 13,
   "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/huggingface-blog/news-2026-06-01-welcome-nvidia-cosmos-3-the-first-open-omni-model-for-physic.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/openclaw-releases/news-2026-06-01-openclaw-2026-5-31-beta-4.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/openclaw-releases/news-2026-06-01-openclaw-2026-5-31-beta-3.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/openclaw-releases/news-2026-06-01-openclaw-2026-5-31-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/openclaw-releases/news-2026-06-01-openclaw-2026-5-31-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-01/claude-code-releases/news-2026-06-01-v2-1-159.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/openai-blog/news-2026-06-02-our-views-on-ai-policy-and-political-advocacy.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/openai-blog/news-2026-06-02-building-the-infrastructure-for-the-intelligence-age-in-mich.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/openai-blog/news-2026-06-02-openai-frontier-models-and-codex-are-now-available-on-aws.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/huggingface-blog/news-2026-06-02-introducing-mellum2-a-12b-mixture-of-experts-model-by-jetbra.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/huggingface-blog/news-2026-06-02-beyond-llms-why-scalable-enterprise-ai-adoption-depends-on-a.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/google-ai-blog/news-2026-06-02-how-we-used-gemini-to-build-google-i-o-2026.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/openclaw-releases/news-2026-06-02-v2026-6-2-alpha-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/openclaw-releases/news-2026-06-02-openclaw-2026-6-1-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/openclaw-releases/news-2026-06-02-openclaw-2026-6-1-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/openclaw-releases/news-2026-06-02-v2026-6-1-alpha-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/openclaw-releases/news-2026-06-02-v2026-6-1-alpha-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/openclaw-releases/news-2026-06-02-v2026-6-1-alpha-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-02/claude-code-releases/news-2026-06-02-v2-1-160.md"
   ],
   "skipped": []
 }
