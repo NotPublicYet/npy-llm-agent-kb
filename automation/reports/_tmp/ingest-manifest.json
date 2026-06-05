@@ -1,21 +1,17 @@
 {
-  "run_date": "2026-06-04",
-  "created_total": 13,
+  "run_date": "2026-06-05",
+  "created_total": 9,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/openai-blog/news-2026-06-04-introducing-new-capabilities-to-gpt-rosalind.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/openai-blog/news-2026-06-04-how-wasmer-used-codex-to-build-a-node-js-runtime-for-the-edg.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/openai-blog/news-2026-06-04-a-blueprint-for-democratic-governance-of-frontier-ai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/openai-blog/news-2026-06-04-openai-public-policy-agenda.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/huggingface-blog/news-2026-06-04-direct-preference-optimization-beyond-chatbots.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/huggingface-blog/news-2026-06-04-adding-mcp-tools-to-reachy-mini.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/google-ai-blog/news-2026-06-04-5-ways-google-search-can-level-up-your-thrift-and-vintage-sh.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/openclaw-releases/news-2026-06-04-v2026-6-4-alpha-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/openclaw-releases/news-2026-06-04-openclaw-2026-6-2-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/openclaw-releases/news-2026-06-04-openclaw-2026-6-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/openclaw-releases/news-2026-06-04-openclaw-2026-6-1-beta-3.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/claude-code-releases/news-2026-06-04-v2-1-162.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-04/claude-code-action-releases/news-2026-06-04-v1-0-135.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-05/openai-blog/news-2026-06-05-how-endava-is-redesigning-software-delivery-around-ai-agents.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-05/openai-blog/news-2026-06-05-dreaming-better-memory-for-a-more-helpful-chatgpt.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-05/openai-blog/news-2026-06-05-biodefense-in-the-intelligence-age.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-05/huggingface-blog/news-2026-06-05-nemotron-3-5-content-safety-customizable-multimodal-safety-f.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-05/huggingface-blog/news-2026-06-05-eva-bench-data-2-0-3-domains-121-tools-213-scenarios.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-05/huggingface-blog/news-2026-06-05-designing-the-hf-cli-as-an-agent-optimized-way-to-work-with.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-05/openclaw-releases/news-2026-06-05-v2026-6-5-alpha-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-05/claude-code-releases/news-2026-06-05-v2-1-163.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-05/claude-code-action-releases/news-2026-06-05-v1-0-136.md"
   ],
   "skipped": [
     {
