@@ -1,25 +1,18 @@
 {
-  "run_date": "2026-06-06",
-  "created_total": 11,
+  "run_date": "2026-06-07",
+  "created_total": 4,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/huggingface-blog/news-2026-06-06-thousand-token-wood-shipping-a-multi-agent-economy-on-a-3b-m.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/google-ai-blog/news-2026-06-06-the-latest-ai-news-we-announced-in-may-2026.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/openclaw-releases/news-2026-06-06-v2026-6-6-alpha-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/openclaw-releases/news-2026-06-06-openclaw-2026-6-5-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/openclaw-releases/news-2026-06-06-v2026-6-5-alpha-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/claude-code-releases/news-2026-06-06-v2-1-167.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/claude-code-releases/news-2026-06-06-v2-1-166.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/claude-code-releases/news-2026-06-06-v2-1-165.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/claude-code-action-releases/news-2026-06-06-v1-0-139.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/claude-code-action-releases/news-2026-06-06-v1-0-138.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-06/claude-code-action-releases/news-2026-06-06-v1-0-137.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-07/huggingface-blog/news-2026-06-07-five-labs-five-minds-building-a-multi-model-finance-drama-on.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-07/openclaw-releases/news-2026-06-07-openclaw-2026-6-5-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-07/claude-code-releases/news-2026-06-07-v2-1-168.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-07/claude-code-action-releases/news-2026-06-07-v1-0-140.md"
   ],
   "skipped": [
     {
       "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+      "title": "openclaw 2026.6.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1"
     }
   ]
 }
