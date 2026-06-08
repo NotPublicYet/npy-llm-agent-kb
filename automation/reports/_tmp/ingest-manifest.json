@@ -1,18 +1,15 @@
 {
-  "run_date": "2026-06-07",
-  "created_total": 4,
-  "skipped_total": 1,
+  "run_date": "2026-06-08",
+  "created_total": 7,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-07/huggingface-blog/news-2026-06-07-five-labs-five-minds-building-a-multi-model-finance-drama-on.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-07/openclaw-releases/news-2026-06-07-openclaw-2026-6-5-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-07/claude-code-releases/news-2026-06-07-v2-1-168.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-07/claude-code-action-releases/news-2026-06-07-v1-0-140.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/huggingface-blog/news-2026-06-08-amazing-digital-dentures-a-failed-project.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-8-alpha-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-5-beta-5.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-5-beta-4.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-5-beta-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-7-alpha-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-7-alpha-1.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.6.1",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1"
-    }
-  ]
+  "skipped": []
 }
