@@ -1,15 +1,31 @@
 {
-  "run_date": "2026-06-08",
+  "run_date": "2026-06-09",
   "created_total": 7,
-  "skipped_total": 0,
+  "skipped_total": 3,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/huggingface-blog/news-2026-06-08-amazing-digital-dentures-a-failed-project.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-8-alpha-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-5-beta-5.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-5-beta-4.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-5-beta-3.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-7-alpha-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-08/openclaw-releases/news-2026-06-08-v2026-6-7-alpha-1.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-09/openai-blog/news-2026-06-09-confidential-submission-of-draft-s-1-to-the-sec.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-09/openai-blog/news-2026-06-09-built-to-benefit-everyone-our-plan.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-09/openai-blog/news-2026-06-09-introducing-the-openai-economic-research-exchange.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-09/huggingface-blog/news-2026-06-09-the-open-source-community-is-backing-openenv-for-agentic-rl.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-09/openclaw-releases/news-2026-06-09-v2026-6-9-alpha-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-09/claude-code-releases/news-2026-06-09-v2-1-169.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-09/claude-code-action-releases/news-2026-06-09-v1-0-141.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.6.5-beta.5",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.5"
+    },
+    {
+      "reason": "existing_url",
+      "title": "OpenClaw 2026.6.5-beta.3",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.3"
+    },
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
