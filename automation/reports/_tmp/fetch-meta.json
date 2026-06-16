@@ -1,7 +1,14 @@
 {
-  "run_utc": "2026-06-15T06:21:06.6109877Z",
+  "run_utc": "2026-06-16T06:31:13.6436529Z",
   "sources_total": 7,
-  "fetched_total": 16,
-  "failed_total": 0,
-  "failed_sources": []
+  "fetched_total": 12,
+  "failed_total": 1,
+  "failed_sources": [
+    {
+      "source_id": "huggingface-blog",
+      "source": "Hugging Face Blog",
+      "rss_url": "https://huggingface.co/blog/feed.xml",
+      "error": "Response status code does not indicate success: 429 (Too Many Requests)."
+    }
+  ]
 }
