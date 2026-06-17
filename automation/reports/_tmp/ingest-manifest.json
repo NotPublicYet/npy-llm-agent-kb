@@ -1,15 +1,30 @@
 {
-  "run_date": "2026-06-16",
+  "run_date": "2026-06-17",
   "created_total": 5,
-  "skipped_total": 1,
+  "skipped_total": 4,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-16/google-ai-blog/news-2026-06-16-we-re-strengthening-our-presence-in-alabama-through-new-inve.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-16/openclaw-releases/news-2026-06-16-v2026-6-15-alpha-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-16/openclaw-releases/news-2026-06-16-openclaw-2026-6-8-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-16/claude-code-releases/news-2026-06-16-v2-1-178.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-16/claude-code-action-releases/news-2026-06-16-v1-0-149.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-17/openai-blog/news-2026-06-17-predicting-model-behavior-before-release-by-simulating-deplo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-17/deepmind-news/news-2026-06-17-unlocking-uk-house-building-with-ai-accelerated-planning.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-17/openclaw-releases/news-2026-06-17-openclaw-2026-6-8.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-17/claude-code-releases/news-2026-06-17-v2-1-179.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-17/claude-code-action-releases/news-2026-06-17-v1-0-150.md"
   ],
   "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.6.8-beta.2",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.2"
+    },
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.6.8-beta.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.1"
+    },
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.6.7-beta.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.7-beta.1"
+    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
