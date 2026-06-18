@@ -1,15 +1,25 @@
 {
-  "run_date": "2026-06-17",
-  "created_total": 5,
-  "skipped_total": 4,
+  "run_date": "2026-06-18",
+  "created_total": 10,
+  "skipped_total": 5,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-17/openai-blog/news-2026-06-17-predicting-model-behavior-before-release-by-simulating-deplo.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-17/deepmind-news/news-2026-06-17-unlocking-uk-house-building-with-ai-accelerated-planning.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-17/openclaw-releases/news-2026-06-17-openclaw-2026-6-8.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-17/claude-code-releases/news-2026-06-17-v2-1-179.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-17/claude-code-action-releases/news-2026-06-17-v1-0-150.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/openai-blog/news-2026-06-18-a-near-autonomous-ai-chemist-improves-a-challenging-reaction.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/openai-blog/news-2026-06-18-introducing-lifescibench.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/huggingface-blog/news-2026-06-18-molmomotion-language-guided-3d-motion-forecasting.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/huggingface-blog/news-2026-06-18-from-the-hugging-face-hub-to-robot-hardware-with-strands-age.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/huggingface-blog/news-2026-06-18-glm-5-2-built-for-long-horizon-tasks.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/huggingface-blog/news-2026-06-18-agentic-resource-discovery-let-agents-search.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/google-ai-blog/news-2026-06-18-new-research-shows-how-amie-our-medical-ai-could-help-manage.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/openclaw-releases/news-2026-06-18-v2026-6-9-alpha-6.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/claude-code-releases/news-2026-06-18-v2-1-181.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/claude-code-action-releases/news-2026-06-18-v1-0-151.md"
   ],
   "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.6.8",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8"
+    },
     {
       "reason": "existing_url",
       "title": "openclaw 2026.6.8-beta.2",
