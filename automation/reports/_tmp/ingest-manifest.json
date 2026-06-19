@@ -1,40 +1,21 @@
 {
-  "run_date": "2026-06-18",
-  "created_total": 10,
-  "skipped_total": 5,
+  "run_date": "2026-06-19",
+  "created_total": 11,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/openai-blog/news-2026-06-18-a-near-autonomous-ai-chemist-improves-a-challenging-reaction.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/openai-blog/news-2026-06-18-introducing-lifescibench.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/huggingface-blog/news-2026-06-18-molmomotion-language-guided-3d-motion-forecasting.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/huggingface-blog/news-2026-06-18-from-the-hugging-face-hub-to-robot-hardware-with-strands-age.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/huggingface-blog/news-2026-06-18-glm-5-2-built-for-long-horizon-tasks.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/huggingface-blog/news-2026-06-18-agentic-resource-discovery-let-agents-search.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/google-ai-blog/news-2026-06-18-new-research-shows-how-amie-our-medical-ai-could-help-manage.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/openclaw-releases/news-2026-06-18-v2026-6-9-alpha-6.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/claude-code-releases/news-2026-06-18-v2-1-181.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-18/claude-code-action-releases/news-2026-06-18-v1-0-151.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/openai-blog/news-2026-06-19-new-usage-analytics-and-updated-spend-controls-for-enterpris.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/openai-blog/news-2026-06-19-improving-health-intelligence-in-chatgpt.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/openai-blog/news-2026-06-19-using-ai-to-help-physicians-diagnose-rare-genetic-diseases-a.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/deepmind-news/news-2026-06-19-securing-the-future-of-ai-agents.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/huggingface-blog/news-2026-06-19-mosaicleaks-can-your-research-agent-keep-a-secret.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/huggingface-blog/news-2026-06-19-beyond-lora-can-you-beat-the-most-popular-fine-tuning-techni.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/huggingface-blog/news-2026-06-19-is-it-agentic-enough-benchmarking-open-models-on-your-own-to.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/openclaw-releases/news-2026-06-19-v2026-6-19-alpha-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/openclaw-releases/news-2026-06-19-openclaw-2026-6-9-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/claude-code-releases/news-2026-06-19-v2-1-183.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-19/claude-code-action-releases/news-2026-06-19-v1-0-152.md"
   ],
   "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.6.8",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8"
-    },
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.6.8-beta.2",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.2"
-    },
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.6.8-beta.1",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.1"
-    },
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.6.7-beta.1",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.7-beta.1"
-    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
