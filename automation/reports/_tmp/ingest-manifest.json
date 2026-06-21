@@ -1,9 +1,19 @@
 {
-  "run_date": "2026-06-20",
-  "created_total": 1,
-  "skipped_total": 0,
+  "run_date": "2026-06-21",
+  "created_total": 5,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-20/openclaw-releases/news-2026-06-20-v2026-6-19-alpha-2.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-21/openclaw-releases/news-2026-06-21-v2026-6-10-alpha-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-21/openclaw-releases/news-2026-06-21-openclaw-2026-6-9.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-21/openclaw-releases/news-2026-06-21-v2026-6-20-alpha-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-21/claude-code-releases/news-2026-06-21-v2-1-185.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-21/claude-code-action-releases/news-2026-06-21-v1-0-153.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
