@@ -1,11 +1,22 @@
 {
-  "run_date": "2026-06-22",
-  "created_total": 3,
-  "skipped_total": 0,
+  "run_date": "2026-06-23",
+  "created_total": 8,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-22/openai-blog/news-2026-06-22-samsung-electronics-brings-chatgpt-and-codex-to-employees.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-22/openclaw-releases/news-2026-06-22-v2026-6-21-alpha-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-22/openclaw-releases/news-2026-06-22-openclaw-2026-6-10-beta-1.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-23/openai-blog/news-2026-06-23-patch-the-planet-a-daybreak-initiative-to-support-open-sourc.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-23/openai-blog/news-2026-06-23-daybreak-tools-for-securing-every-organization-in-the-world.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-23/openai-blog/news-2026-06-23-codex-maxxing-for-long-running-work.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-23/huggingface-blog/news-2026-06-23-pp-ocrv6-on-hugging-face-50-language-ocr-from-1-5m-to-34-5m.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-23/openclaw-releases/news-2026-06-23-openclaw-2026-6-10-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-23/openclaw-releases/news-2026-06-23-v2026-6-10-alpha-4.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-23/claude-code-releases/news-2026-06-23-v2-1-186.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-23/claude-code-action-releases/news-2026-06-23-v1-0-154.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
