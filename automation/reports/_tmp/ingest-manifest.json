@@ -1,17 +1,14 @@
 {
-  "run_date": "2026-06-25",
-  "created_total": 9,
+  "run_date": "2026-06-26",
+  "created_total": 6,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-25/openai-blog/news-2026-06-25-openai-and-broadcom-unveil-llm-optimized-inference-chip.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-25/deepmind-news/news-2026-06-25-introducing-computer-use-in-gemini-3-5-flash.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-25/huggingface-blog/news-2026-06-25-accelerating-transformers-fine-tuning-with-nvidia-nemo-autom.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-25/huggingface-blog/news-2026-06-25-introducing-the-ffasr-leaderboard-benchmarking-asr-in-the-re.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-25/openclaw-releases/news-2026-06-25-openclaw-2026-6-11-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-25/claude-code-releases/news-2026-06-25-v2-1-191.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-25/claude-code-releases/news-2026-06-25-v2-1-190.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-25/claude-code-action-releases/news-2026-06-25-v1-0-157.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-25/claude-code-action-releases/news-2026-06-25-v1-0-156.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-26/openai-blog/news-2026-06-26-how-agents-are-transforming-work.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-26/huggingface-blog/news-2026-06-26-run-a-vllm-server-on-hf-jobs-in-one-command.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-26/huggingface-blog/news-2026-06-26-which-tokens-does-a-hybrid-model-predict-better.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-26/google-ai-blog/news-2026-06-26-our-latest-google-finance-upgrades-including-a-new-app.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-26/claude-code-releases/news-2026-06-26-v2-1-193.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-26/claude-code-action-releases/news-2026-06-26-v1-0-158.md"
   ],
   "skipped": [
     {
