@@ -1,12 +1,8 @@
 {
-  "run_date": "2026-06-27",
-  "created_total": 3,
+  "run_date": "2026-06-28",
+  "created_total": 0,
   "skipped_total": 2,
-  "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-27/openai-blog/news-2026-06-27-previewing-gpt-5-6-sol-a-next-generation-model.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-27/claude-code-releases/news-2026-06-27-v2-1-195.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-27/claude-code-action-releases/news-2026-06-27-v1-0-159.md"
-  ],
+  "created_files": [],
   "skipped": [
     {
       "reason": "existing_url",
@@ -15,8 +11,8 @@
     },
     {
       "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+      "title": "openclaw 2026.6.9",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.9"
     }
   ]
 }
