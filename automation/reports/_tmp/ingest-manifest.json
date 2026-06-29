@@ -1,18 +1,10 @@
 {
-  "run_date": "2026-06-28",
-  "created_total": 0,
-  "skipped_total": 2,
-  "created_files": [],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.6.10",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.10"
-    },
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.6.9",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.9"
-    }
-  ]
+  "run_date": "2026-06-29",
+  "created_total": 2,
+  "skipped_total": 0,
+  "created_files": [
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-29/openai-blog/news-2026-06-29-hp-inc-launches-frontier-strategic-partnership-with-openai.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-06-29/openclaw-releases/news-2026-06-29-openclaw-2026-6-11-beta-2.md"
+  ],
+  "skipped": []
 }
