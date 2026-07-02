@@ -1,26 +1,15 @@
 {
-  "run_date": "2026-07-01",
-  "created_total": 11,
-  "skipped_total": 2,
+  "run_date": "2026-07-02",
+  "created_total": 5,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/openai-blog/news-2026-07-01-how-chatgpt-adoption-has-expanded.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/openai-blog/news-2026-07-01-introducing-genebench-pro.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/openai-blog/news-2026-07-01-core-dump-epidemiology-fixing-an-18-year-old-bug.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/openai-blog/news-2026-07-01-inside-genebench-pro.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/deepmind-news/news-2026-07-01-start-building-with-nano-banana-2-lite-and-gemini-omni-flash.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/huggingface-blog/news-2026-07-01-scarfbench-benchmarking-ai-agents-for-enterprise-java-framew.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/huggingface-blog/news-2026-07-01-why-specialization-is-inevitable.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/huggingface-blog/news-2026-07-01-featuring-every-eval-ever-results-on-hugging-face-model-page.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/google-ai-blog/news-2026-07-01-unlocking-britain-s-next-era-of-productivity-building-a-nati.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/claude-code-releases/news-2026-07-01-v2-1-197.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-01/claude-code-action-releases/news-2026-07-01-v1-0-161.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-02/huggingface-blog/news-2026-07-02-hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-a.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-02/google-ai-blog/news-2026-07-02-the-latest-ai-news-we-announced-in-june-2026.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-02/google-ai-blog/news-2026-07-02-new-york-city-educators-and-industry-leaders-gathered-at-goo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-02/claude-code-releases/news-2026-07-02-v2-1-198.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-02/claude-code-action-releases/news-2026-07-02-v1-0-162.md"
   ],
   "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.6.11",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11"
-    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
