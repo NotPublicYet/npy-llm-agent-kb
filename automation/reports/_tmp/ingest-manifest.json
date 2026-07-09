@@ -1,28 +1,17 @@
 {
-  "run_date": "2026-07-08",
+  "run_date": "2026-07-09",
   "created_total": 9,
-  "skipped_total": 2,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-08/openai-blog/news-2026-07-08-australian-payments-plus-moves-faster-with-chatgpt-and-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-08/huggingface-blog/news-2026-07-08-from-hugging-face-to-amazon-sagemaker-studio-in-one-click.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-08/huggingface-blog/news-2026-07-08-hugging-face-models-on-foundry-managed-compute.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-08/huggingface-blog/news-2026-07-08-run-ai-workloads-on-any-cloud-store-on-hugging-face-zero-egr.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-08/google-ai-blog/news-2026-07-08-expanding-managed-agents-in-gemini-api-background-tasks-remo.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-08/claude-code-releases/news-2026-07-08-v2-1-204.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-08/claude-code-releases/news-2026-07-08-v2-1-203.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-08/claude-code-action-releases/news-2026-07-08-v1-0-168.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-08/claude-code-action-releases/news-2026-07-08-v1-0-167.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-09/openai-blog/news-2026-07-09-our-approach-to-government-and-national-security-partnership.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-09/openai-blog/news-2026-07-09-separating-signal-from-noise-in-coding-evaluations.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-09/openai-blog/news-2026-07-09-helping-k-12-educators-build-practical-ai-skills.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-09/openai-blog/news-2026-07-09-introducing-gpt-live.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-09/huggingface-blog/news-2026-07-09-data-for-agents.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-09/huggingface-blog/news-2026-07-09-native-speed-vllm-transformers-modeling-backend.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-09/openclaw-releases/news-2026-07-09-v2026-7-1-beta-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-09/claude-code-releases/news-2026-07-09-v2-1-205.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-09/claude-code-action-releases/news-2026-07-09-v1-0-169.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg"
-    },
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
