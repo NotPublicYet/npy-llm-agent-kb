@@ -1,27 +1,36 @@
 {
-  "run_date": "2026-07-15",
-  "created_total": 8,
+  "run_date": "2026-07-16",
+  "created_total": 17,
   "skipped_total": 2,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-15/openai-blog/news-2026-07-15-how-to-manage-ai-investments-in-the-agentic-era.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-15/deepmind-news/news-2026-07-15-empowering-india-s-next-generation-of-innovators-with-atl-sa.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-15/google-ai-blog/news-2026-07-15-celebrating-25-years-of-visual-search-innovation.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-15/openclaw-releases/news-2026-07-15-v2026-7-2-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-15/claude-code-releases/news-2026-07-15-v2-1-210.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-15/claude-code-releases/news-2026-07-15-v2-1-209.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-15/claude-code-action-releases/news-2026-07-15-v1-0-174.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-15/claude-code-action-releases/news-2026-07-15-v1-0-173.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openai-blog/news-2026-07-16-the-us-is-advancing-ai-safety-through-state-and-federal-acti.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openai-blog/news-2026-07-16-gpt-red-unlocking-self-improvement-for-robustness.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/huggingface-blog/news-2026-07-16-what-building-shippy-taught-us-about-building-agents.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/huggingface-blog/news-2026-07-16-model-routing-is-simple-until-it-isn-t.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/huggingface-blog/news-2026-07-16-welcome-inkling-by-thinking-machines.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/huggingface-blog/news-2026-07-16-introducing-real-world-voiceeq-measuring-the-human-quality-o.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openclaw-releases/news-2026-07-16-release-publish-54f70c5d8c04-20260715.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openclaw-releases/news-2026-07-16-release-publish-23d2f664fb75-20260715.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openclaw-releases/news-2026-07-16-release-publish-1d2777548d01-20260715.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openclaw-releases/news-2026-07-16-release-publish-0f7fbfa0039f-20260715.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openclaw-releases/news-2026-07-16-release-publish-f4f5bb15d46a-20260715.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openclaw-releases/news-2026-07-16-release-publish-dfa246e6fd16-20260715.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openclaw-releases/news-2026-07-16-release-publish-d8b3e1c093f2-20260715.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openclaw-releases/news-2026-07-16-release-publish-c3927271fad7-20260715.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/openclaw-releases/news-2026-07-16-release-publish-bb1a7e506927-20260715.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/claude-code-releases/news-2026-07-16-v2-1-211.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-16/claude-code-action-releases/news-2026-07-16-v1-0-175.md"
   ],
   "skipped": [
     {
       "reason": "existing_url",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+      "title": "openclaw 2026.7.2-beta.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.1"
     },
     {
       "reason": "existing_url",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
     }
   ]
 }
