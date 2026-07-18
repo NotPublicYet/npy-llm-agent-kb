@@ -1,21 +1,28 @@
 {
-  "run_date": "2026-07-17",
-  "created_total": 11,
-  "skipped_total": 1,
+  "run_date": "2026-07-18",
+  "created_total": 13,
+  "skipped_total": 2,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/openai-blog/news-2026-07-17-why-teens-deserve-access-to-safe-ai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/openai-blog/news-2026-07-17-how-cars24-scales-conversations-and-builds-faster-with-opena.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/deepmind-news/news-2026-07-17-our-approach-to-bioresilience.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/huggingface-blog/news-2026-07-17-nvidia-nemotron-3-embed-ranks-1-overall-on-rteb-advancing-ag.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/huggingface-blog/news-2026-07-17-newer-models-same-advantage.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/huggingface-blog/news-2026-07-17-security-incident-disclosure-july-2026.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/google-ai-blog/news-2026-07-17-connect-more-of-your-apps-to-search.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/google-ai-blog/news-2026-07-17-create-edit-and-star-in-videos-with-two-google-vids-updates.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/openclaw-releases/news-2026-07-17-v2026-7-2-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/claude-code-releases/news-2026-07-17-v2-1-212.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-17/claude-code-action-releases/news-2026-07-17-v1-0-176.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/openai-blog/news-2026-07-18-a-scorecard-for-the-ai-age.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/huggingface-blog/news-2026-07-18-fine-tune-video-and-image-models-at-scale-with-nvidia-nemo-a.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/openclaw-releases/news-2026-07-18-release-publish-8858944a81c5-20260717.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/openclaw-releases/news-2026-07-18-release-publish-08987d8f409b-20260717.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/openclaw-releases/news-2026-07-18-release-publish-73d04395defe-20260717.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/openclaw-releases/news-2026-07-18-release-publish-9b80f9a8b1df-20260717.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/openclaw-releases/news-2026-07-18-release-publish-0e9db6005954-20260717.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/openclaw-releases/news-2026-07-18-release-publish-0e9db600595-20260717.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/openclaw-releases/news-2026-07-18-release-publish-d8dd59bf8f60-20260717.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/openclaw-releases/news-2026-07-18-release-publish-ced50f88e928-20260717.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/openclaw-releases/news-2026-07-18-release-publish-a9ac13b2efd7-20260717.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/claude-code-releases/news-2026-07-18-v2-1-214.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-18/claude-code-action-releases/news-2026-07-18-v1-0-177.md"
   ],
   "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.7.2-beta.2",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.2"
+    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
