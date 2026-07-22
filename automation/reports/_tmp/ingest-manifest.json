@@ -1,12 +1,17 @@
 {
-  "run_date": "2026-07-21",
-  "created_total": 4,
+  "run_date": "2026-07-22",
+  "created_total": 9,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-21/openai-blog/news-2026-07-21-safety-and-alignment-in-an-era-of-long-horizon-models.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-21/huggingface-blog/news-2026-07-21-introducing-cosmos-3-edge.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-21/claude-code-releases/news-2026-07-21-v2-1-216.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-21/claude-code-action-releases/news-2026-07-21-v1-0-179.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-22/openai-blog/news-2026-07-22-introducing-the-chatgpt-for-small-business-program.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-22/openai-blog/news-2026-07-22-openai-and-hugging-face-partner-to-address-security-incident.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-22/openai-blog/news-2026-07-22-david-v-lez-and-robin-vince-join-the-boards-of-the-openai-fo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-22/deepmind-news/news-2026-07-22-introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cy.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-22/huggingface-blog/news-2026-07-22-the-state-of-simulation-for-physical-ai-an-overview.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-22/huggingface-blog/news-2026-07-22-grabette-an-open-system-to-record-robot-manipulation-data.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-22/openclaw-releases/news-2026-07-22-v2026-6-33.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-22/claude-code-releases/news-2026-07-22-v2-1-217.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-22/claude-code-action-releases/news-2026-07-22-v1-0-180.md"
   ],
   "skipped": [
     {
