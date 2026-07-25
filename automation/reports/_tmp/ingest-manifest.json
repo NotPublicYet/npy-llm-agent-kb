@@ -1,10 +1,19 @@
 {
-  "run_date": "2026-07-24",
-  "created_total": 2,
-  "skipped_total": 0,
+  "run_date": "2026-07-25",
+  "created_total": 5,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-24/openai-blog/news-2026-07-24-launching-health-in-chatgpt.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-24/huggingface-blog/news-2026-07-24-bringing-nunchaku-4-bit-diffusion-inference-to-diffusers.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-25/openclaw-releases/news-2026-07-25-v2026-7-2-beta-4.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-25/claude-code-releases/news-2026-07-25-v2-1-220.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-25/claude-code-releases/news-2026-07-25-v2-1-219.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-25/claude-code-action-releases/news-2026-07-25-v1-0-183.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-25/claude-code-action-releases/news-2026-07-25-v1-0-182.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
