@@ -7,10 +7,10 @@
     "priority": "high",
     "title": "v2026.7.2-beta.5",
     "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.5",
-    "publish_date": "2026-07-25",
-    "event_date": "2026-07-25",
+    "publish_date": "2026-07-27",
+    "event_date": "2026-07-27",
     "summary": "<p>openclaw 2026.7.2-beta.5</p>",
-    "fetched_at": "2026-07-26",
-    "dedupe_hash": "e5e383a129c4605edc3cf99df03c031ea6e8ccfe3a4e44e8f44a3d2664d5f214"
+    "fetched_at": "2026-07-27",
+    "dedupe_hash": "28e0a849e4b0a2e8af0f5177f99f029c981c91addb0cb67b521c19522006143f"
   }
 ]

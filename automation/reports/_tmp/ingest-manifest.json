@@ -1,9 +1,13 @@
 {
-  "run_date": "2026-07-26",
-  "created_total": 1,
-  "skipped_total": 0,
-  "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-26/openclaw-releases/news-2026-07-26-v2026-7-2-beta-5.md"
-  ],
-  "skipped": []
+  "run_date": "2026-07-27",
+  "created_total": 0,
+  "skipped_total": 1,
+  "created_files": [],
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "v2026.7.2-beta.5",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.5"
+    }
+  ]
 }
