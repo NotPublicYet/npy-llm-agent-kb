@@ -1,15 +1,12 @@
 {
-  "run_date": "2026-07-29",
-  "created_total": 7,
+  "run_date": "2026-07-30",
+  "created_total": 4,
   "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-29/openai-blog/news-2026-07-29-scientific-computing-in-the-age-of-agentic-ai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-29/huggingface-blog/news-2026-07-29-the-olmoearth-platform-geospatial-inference-at-planetary-sca.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-29/huggingface-blog/news-2026-07-29-lfm2-5-encoders-for-fast-long-context-inference-on-cpu.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-29/huggingface-blog/news-2026-07-29-anatomy-of-a-frontier-lab-agent-intrusion-a-technical-timeli.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-29/google-ai-blog/news-2026-07-29-gemini-api-managed-agents-3-6-flash-hooks-and-more.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-29/google-ai-blog/news-2026-07-29-5-ways-ai-mode-in-search-helps-you-enjoy-the-real-world.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-29/google-ai-blog/news-2026-07-29-5-ways-to-host-the-ultimate-dinner-party-with-google-search.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-30/openai-blog/news-2026-07-30-how-enabling-two-settings-tripled-our-scores-on-the-arc-agi.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-30/openai-blog/news-2026-07-30-accelerating-scientific-discovery-with-chatgpt-for-academic.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-30/openai-blog/news-2026-07-30-how-gpt-5-6-fuses-frontier-intelligence-with-frontier-effici.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-07-30/deepmind-news/news-2026-07-30-we-re-launching-lyria-3-5-in-google-flow-music-with-advances.md"
   ],
   "skipped": []
 }
