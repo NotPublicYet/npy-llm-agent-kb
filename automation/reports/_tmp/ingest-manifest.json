@@ -1,23 +1,13 @@
 {
-  "run_date": "2026-08-08",
-  "created_total": 9,
+  "run_date": "2026-08-09",
+  "created_total": 0,
   "skipped_total": 1,
-  "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-08/openai-blog/news-2026-08-08-responding-to-the-next-frontier-of-critical-cyber-capabiliti.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-08/openai-blog/news-2026-08-08-how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-08/huggingface-blog/news-2026-08-08-tutormoments-do-ai-tutors-know-when-to-help-and-when-to-hold.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-08/claude-code-releases/news-2026-08-08-v2-1-226.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-08/claude-code-releases/news-2026-08-08-v2-1-225.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-08/claude-code-releases/news-2026-08-08-v2-1-224.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-08/claude-code-action-releases/news-2026-08-08-v1-0-189.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-08/claude-code-action-releases/news-2026-08-08-v1-0-188.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-08/claude-code-action-releases/news-2026-08-08-v1-0-187.md"
-  ],
+  "created_files": [],
   "skipped": [
     {
       "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+      "title": "openclaw 2026.6.34",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.34"
     }
   ]
 }
