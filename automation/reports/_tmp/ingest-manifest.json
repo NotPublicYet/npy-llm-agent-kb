@@ -1,9 +1,26 @@
 {
-  "run_date": "2026-08-17",
-  "created_total": 1,
-  "skipped_total": 0,
+  "run_date": "2026-08-18",
+  "created_total": 7,
+  "skipped_total": 2,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-17/openclaw-releases/news-2026-08-17-pr-124528-gateway-profile-evidence.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/openai-blog/news-2026-08-18-the-defender-s-window.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/openai-blog/news-2026-08-18-openai-joins-ports-pike-project.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/openai-blog/news-2026-08-18-new-policy-ideas-for-the-intelligence-age.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/huggingface-blog/news-2026-08-18-same-cluster-33-points-more-utilization-what-changed-was-the.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/google-ai-blog/news-2026-08-18-get-closer-to-the-game-with-gemini-and-pixel.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/claude-code-releases/news-2026-08-18-v2-1-234.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/claude-code-action-releases/news-2026-08-18-v1-0-194.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "pr-124528-profiles",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/pr-124528-profiles"
+    },
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
