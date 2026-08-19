@@ -1,22 +1,20 @@
 {
-  "run_date": "2026-08-18",
-  "created_total": 7,
-  "skipped_total": 2,
+  "run_date": "2026-08-19",
+  "created_total": 10,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/openai-blog/news-2026-08-18-the-defender-s-window.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/openai-blog/news-2026-08-18-openai-joins-ports-pike-project.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/openai-blog/news-2026-08-18-new-policy-ideas-for-the-intelligence-age.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/huggingface-blog/news-2026-08-18-same-cluster-33-points-more-utilization-what-changed-was-the.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/google-ai-blog/news-2026-08-18-get-closer-to-the-game-with-gemini-and-pixel.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/claude-code-releases/news-2026-08-18-v2-1-234.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-18/claude-code-action-releases/news-2026-08-18-v1-0-194.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-strengthening-democratic-oversight-in-national-security.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-partnering-with-codeai-to-prepare-the-first-ai-generation.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-pacing-model-development-in-an-era-of-cyber-critical-capabil.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-introducing-chatgpt-for-teens-built-for-learning-backed-by-p.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-how-nvidia-scales-expertise-with-chatgpt-work.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-asana-cleared-5-years-of-engineering-work-in-2-weeks-with-co.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/huggingface-blog/news-2026-08-19-how-much-memory-does-your-agent-actually-need.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/huggingface-blog/news-2026-08-19-multi-vector-late-interaction-embedding-models-with-sentence.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/claude-code-releases/news-2026-08-19-v2-1-235.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/claude-code-action-releases/news-2026-08-19-v1-0-195.md"
   ],
   "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "pr-124528-profiles",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/pr-124528-profiles"
-    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
