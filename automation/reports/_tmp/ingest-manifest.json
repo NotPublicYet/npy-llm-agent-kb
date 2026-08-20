@@ -1,18 +1,17 @@
 {
-  "run_date": "2026-08-19",
-  "created_total": 10,
+  "run_date": "2026-08-20",
+  "created_total": 9,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-strengthening-democratic-oversight-in-national-security.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-partnering-with-codeai-to-prepare-the-first-ai-generation.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-pacing-model-development-in-an-era-of-cyber-critical-capabil.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-introducing-chatgpt-for-teens-built-for-learning-backed-by-p.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-how-nvidia-scales-expertise-with-chatgpt-work.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/openai-blog/news-2026-08-19-asana-cleared-5-years-of-engineering-work-in-2-weeks-with-co.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/huggingface-blog/news-2026-08-19-how-much-memory-does-your-agent-actually-need.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/huggingface-blog/news-2026-08-19-multi-vector-late-interaction-embedding-models-with-sentence.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/claude-code-releases/news-2026-08-19-v2-1-235.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-19/claude-code-action-releases/news-2026-08-19-v1-0-195.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/openai-blog/news-2026-08-20-offering-zero-data-retention-for-frontier-models.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/openai-blog/news-2026-08-20-replit-expands-access-to-software-creation-with-gpt-5-6-luna.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/openai-blog/news-2026-08-20-chatgpt-ads-expands-across-europe.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/huggingface-blog/news-2026-08-20-lfm2-5-q4-0-checkpoints-from-quantization-aware-distillation.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/google-ai-blog/news-2026-08-20-5-new-ways-to-level-up-your-learning-with-search.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/claude-code-releases/news-2026-08-20-v2-1-237.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/claude-code-releases/news-2026-08-20-v2-1-236.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/claude-code-action-releases/news-2026-08-20-v1-0-197.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/claude-code-action-releases/news-2026-08-20-v1-0-196.md"
   ],
   "skipped": [
     {
