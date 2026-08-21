@@ -1,23 +1,17 @@
 {
-  "run_date": "2026-08-20",
+  "run_date": "2026-08-21",
   "created_total": 9,
-  "skipped_total": 1,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/openai-blog/news-2026-08-20-offering-zero-data-retention-for-frontier-models.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/openai-blog/news-2026-08-20-replit-expands-access-to-software-creation-with-gpt-5-6-luna.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/openai-blog/news-2026-08-20-chatgpt-ads-expands-across-europe.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/huggingface-blog/news-2026-08-20-lfm2-5-q4-0-checkpoints-from-quantization-aware-distillation.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/google-ai-blog/news-2026-08-20-5-new-ways-to-level-up-your-learning-with-search.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/claude-code-releases/news-2026-08-20-v2-1-237.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/claude-code-releases/news-2026-08-20-v2-1-236.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/claude-code-action-releases/news-2026-08-20-v1-0-197.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-20/claude-code-action-releases/news-2026-08-20-v1-0-196.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-21/openai-blog/news-2026-08-21-introducing-ai-futures.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-21/openai-blog/news-2026-08-21-stampli-cuts-launch-hours-by-68-using-chatgpt-work.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-21/huggingface-blog/news-2026-08-21-up-to-3-2x-faster-inference-with-lfm2-5-dspark.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-21/openclaw-releases/news-2026-08-21-release-publish-bfa7c3d38e6d-1787271693.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-21/openclaw-releases/news-2026-08-21-release-publish-45ed68e6ea62-1787220256-fix-release-accept-t.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-21/openclaw-releases/news-2026-08-21-release-publish-c28c279afa37-1787225611-fix-release-keep-fro.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-21/openclaw-releases/news-2026-08-21-release-publish-a4493e2521b0-32410682801.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-21/claude-code-releases/news-2026-08-21-v2-1-238.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-21/claude-code-action-releases/news-2026-08-21-v1-0-198.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
