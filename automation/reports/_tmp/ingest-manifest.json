@@ -1,16 +1,22 @@
 {
-  "run_date": "2026-08-24",
-  "created_total": 8,
-  "skipped_total": 0,
+  "run_date": "2026-08-25",
+  "created_total": 3,
+  "skipped_total": 2,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-24/openclaw-releases/news-2026-08-24-v2026-8-1-beta-3.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-24/openclaw-releases/news-2026-08-24-release-publish-70562c67feb1-1787485695.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-24/openclaw-releases/news-2026-08-24-release-publish-61f27aadfebd-1787477342-fix-release-repair-f.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-24/openclaw-releases/news-2026-08-24-release-publish-eed27fdb88c0-1787493831-fix-release-admit-fi.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-24/openclaw-releases/news-2026-08-24-release-publish-e9a46d218504-1787525305.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-24/openclaw-releases/news-2026-08-24-release-publish-cc41f1b5ec7f-1787529727.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-24/openclaw-releases/news-2026-08-24-release-publish-c96e81375014-1787462685.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-24/openclaw-releases/news-2026-08-24-release-publish-a13760c68543-1787527212.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-25/openai-blog/news-2026-08-25-advancing-price-performance-for-developers-with-gpt-5-6-in-k.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-25/claude-code-releases/news-2026-08-25-v2-1-243.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-25/claude-code-action-releases/news-2026-08-25-v1-0-202.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "OpenClaw 2026.8.1-beta.3",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.3"
+    },
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
