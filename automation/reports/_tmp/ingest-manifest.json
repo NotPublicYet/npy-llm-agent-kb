@@ -1,18 +1,25 @@
 {
-  "run_date": "2026-08-25",
-  "created_total": 3,
-  "skipped_total": 2,
+  "run_date": "2026-08-26",
+  "created_total": 15,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-25/openai-blog/news-2026-08-25-advancing-price-performance-for-developers-with-gpt-5-6-in-k.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-25/claude-code-releases/news-2026-08-25-v2-1-243.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-25/claude-code-action-releases/news-2026-08-25-v1-0-202.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/openai-blog/news-2026-08-26-the-full-stack-behind-abundant-intelligence.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/openai-blog/news-2026-08-26-jalape-o-s-first-results-show-industry-leading-speed-and-eff.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/openai-blog/news-2026-08-26-disrupting-a-new-covert-influence-campaign-from-russia.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/openai-blog/news-2026-08-26-introducing-the-admin-plugin-for-chatgpt-work-and-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/huggingface-blog/news-2026-08-26-granite-4-2-llms-how-they-re-built.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/huggingface-blog/news-2026-08-26-quantization-aware-healing-a-compressed-4-bit-model-that-out.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/huggingface-blog/news-2026-08-26-wire-it-run-it-deploy-it-ai-workflows-in-gradio.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/google-ai-blog/news-2026-08-26-5-ways-to-upgrade-your-home-decor-with-google-search.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/openclaw-releases/news-2026-08-26-release-publish-ebc70fa1b3f6-1787634336-fix-usage-retain-exp.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-releases/news-2026-08-26-v2-1-246.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-releases/news-2026-08-26-v2-1-245.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-action-releases/news-2026-08-26-v1-0-206.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-action-releases/news-2026-08-26-v1-0-205.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-action-releases/news-2026-08-26-v1-0-204.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-action-releases/news-2026-08-26-v1-0-203.md"
   ],
   "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "OpenClaw 2026.8.1-beta.3",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.3"
-    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
