@@ -1,23 +1,20 @@
 {
-  "run_date": "2026-08-26",
-  "created_total": 15,
+  "run_date": "2026-08-27",
+  "created_total": 12,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/openai-blog/news-2026-08-26-the-full-stack-behind-abundant-intelligence.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/openai-blog/news-2026-08-26-jalape-o-s-first-results-show-industry-leading-speed-and-eff.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/openai-blog/news-2026-08-26-disrupting-a-new-covert-influence-campaign-from-russia.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/openai-blog/news-2026-08-26-introducing-the-admin-plugin-for-chatgpt-work-and-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/huggingface-blog/news-2026-08-26-granite-4-2-llms-how-they-re-built.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/huggingface-blog/news-2026-08-26-quantization-aware-healing-a-compressed-4-bit-model-that-out.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/huggingface-blog/news-2026-08-26-wire-it-run-it-deploy-it-ai-workflows-in-gradio.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/google-ai-blog/news-2026-08-26-5-ways-to-upgrade-your-home-decor-with-google-search.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/openclaw-releases/news-2026-08-26-release-publish-ebc70fa1b3f6-1787634336-fix-usage-retain-exp.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-releases/news-2026-08-26-v2-1-246.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-releases/news-2026-08-26-v2-1-245.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-action-releases/news-2026-08-26-v1-0-206.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-action-releases/news-2026-08-26-v1-0-205.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-action-releases/news-2026-08-26-v1-0-204.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-26/claude-code-action-releases/news-2026-08-26-v1-0-203.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/openai-blog/news-2026-08-27-bringing-chatgpt-for-teachers-to-more-u-s-school-districts.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/openai-blog/news-2026-08-27-learning-never-stops-how-ai-makes-learning-continuous.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/openai-blog/news-2026-08-27-the-hugging-face-incident-and-the-road-ahead.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/openai-blog/news-2026-08-27-how-loveholidays-is-making-everyone-a-builder-with-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/deepmind-news/news-2026-08-27-intelligent-transcription-with-gemini-3-5-transcribe.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/huggingface-blog/news-2026-08-27-training-and-finetuning-multi-vector-embedding-models-with-s.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/openclaw-releases/news-2026-08-27-release-publish-38fd9ad6e417-1787824804.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/openclaw-releases/news-2026-08-27-release-publish-21b41efc7bb8-1787818100.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/openclaw-releases/news-2026-08-27-release-publish-8afa8f339eb6-1787798436-fix-release-restore.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/openclaw-releases/news-2026-08-27-release-publish-1c80cf86cfd0-1787823217-fix-release-reuse-va.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/claude-code-releases/news-2026-08-27-v2-1-247.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-27/claude-code-action-releases/news-2026-08-27-v1-0-207.md"
   ],
   "skipped": [
     {
