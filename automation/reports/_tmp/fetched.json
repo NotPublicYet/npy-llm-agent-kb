@@ -5,12 +5,51 @@
     "source_url": "https://openai.com/news/rss.xml",
     "category": "vendor",
     "priority": "high",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "canonical_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "publish_date": "2026-08-28",
+    "event_date": "2026-08-28",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "fetched_at": "2026-08-28"
+  },
+  {
+    "source_id": "openai-blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "category": "vendor",
+    "priority": "high",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "canonical_url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "publish_date": "2026-08-27",
+    "event_date": "2026-08-27",
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "fetched_at": "2026-08-28"
+  },
+  {
+    "source_id": "openai-blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "category": "vendor",
+    "priority": "high",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "canonical_url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "publish_date": "2026-08-27",
+    "event_date": "2026-08-27",
+    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "fetched_at": "2026-08-28"
+  },
+  {
+    "source_id": "openai-blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "category": "vendor",
+    "priority": "high",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "canonical_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "publish_date": "2026-08-26",
     "event_date": "2026-08-26",
     "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "openai-blog",
@@ -23,7 +62,7 @@
     "publish_date": "2026-08-26",
     "event_date": "2026-08-26",
     "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "openai-blog",
@@ -36,7 +75,7 @@
     "publish_date": "2026-08-26",
     "event_date": "2026-08-26",
     "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "openai-blog",
@@ -49,72 +88,33 @@
     "publish_date": "2026-08-26",
     "event_date": "2026-08-26",
     "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
-    "source_id": "openai-blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "category": "vendor",
+    "source_id": "deepmind-news",
+    "source_name": "Google DeepMind News",
+    "source_url": "https://www.deepmind.com/blog/rss.xml",
+    "category": "research",
     "priority": "high",
-    "title": "The full stack behind abundant intelligence",
-    "canonical_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-    "fetched_at": "2026-08-27"
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "canonical_url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+    "publish_date": "2026-08-27",
+    "event_date": "2026-08-27",
+    "summary": "",
+    "fetched_at": "2026-08-28"
   },
   {
-    "source_id": "openai-blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "category": "vendor",
+    "source_id": "deepmind-news",
+    "source_name": "Google DeepMind News",
+    "source_url": "https://www.deepmind.com/blog/rss.xml",
+    "category": "research",
     "priority": "high",
-    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-    "canonical_url": "https://openai.com/index/jalapeno-first-results",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "source_id": "openai-blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "category": "vendor",
-    "priority": "high",
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "canonical_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "source_id": "openai-blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "category": "vendor",
-    "priority": "high",
-    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-    "canonical_url": "https://openai.com/index/introducing-admin-plugin",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "source_id": "openai-blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "category": "vendor",
-    "priority": "high",
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "canonical_url": "https://openai.com/index/gpt-5-6-in-kiro",
-    "publish_date": "2026-08-24",
-    "event_date": "2026-08-24",
-    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-    "fetched_at": "2026-08-27"
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "canonical_url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+    "publish_date": "2026-08-27",
+    "event_date": "2026-08-27",
+    "summary": "Piloting the world's first double-blind AI evaluations",
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "deepmind-news",
@@ -127,7 +127,7 @@
     "publish_date": "2026-08-26",
     "event_date": "2026-08-26",
     "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "huggingface-blog",
@@ -140,7 +140,7 @@
     "publish_date": "2026-08-26",
     "event_date": "2026-08-26",
     "summary": "",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "huggingface-blog",
@@ -153,33 +153,20 @@
     "publish_date": "2026-08-25",
     "event_date": "2026-08-25",
     "summary": "",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
-    "source_id": "huggingface-blog",
-    "source_name": "Hugging Face Blog",
-    "source_url": "https://huggingface.co/blog/feed.xml",
+    "source_id": "google-ai-blog",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/rss/",
     "category": "ecosystem",
     "priority": "medium",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "",
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "source_id": "huggingface-blog",
-    "source_name": "Hugging Face Blog",
-    "source_url": "https://huggingface.co/blog/feed.xml",
-    "category": "ecosystem",
-    "priority": "medium",
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "canonical_url": "https://huggingface.co/blog/gradio-workflow-guide",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "",
-    "fetched_at": "2026-08-27"
+    "title": "3 new ways to plan and book travel in Search",
+    "canonical_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
+    "publish_date": "2026-08-27",
+    "event_date": "2026-08-27",
+    "summary": "Graphic depicting new travel features for AI Mode in Search",
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "google-ai-blog",
@@ -192,7 +179,72 @@
     "publish_date": "2026-08-25",
     "event_date": "2026-08-25",
     "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
+  },
+  {
+    "source_id": "openclaw-releases",
+    "source_name": "OpenClaw Releases",
+    "source_url": "https://github.com/openclaw/openclaw/releases.atom",
+    "category": "ecosystem",
+    "priority": "high",
+    "title": "release-publish/d5412d73acfb-1787906286",
+    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2Fd5412d73acfb-1787906286",
+    "publish_date": "2026-08-28",
+    "event_date": "2026-08-28",
+    "summary": "<p>fix(release): preserve frozen companion consent checks (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5276224430\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/131649\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/131649/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/131649\">#131649</a>)</p>",
+    "fetched_at": "2026-08-28"
+  },
+  {
+    "source_id": "openclaw-releases",
+    "source_name": "OpenClaw Releases",
+    "source_url": "https://github.com/openclaw/openclaw/releases.atom",
+    "category": "ecosystem",
+    "priority": "high",
+    "title": "release-publish/bccb649077f0-1787900300",
+    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2Fbccb649077f0-1787900300",
+    "publish_date": "2026-08-28",
+    "event_date": "2026-08-28",
+    "summary": "<p>fix(release): support frozen plugin harness contracts (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5275407995\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/131596\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/131596/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/131596\">#131596</a>)</p>",
+    "fetched_at": "2026-08-28"
+  },
+  {
+    "source_id": "openclaw-releases",
+    "source_name": "OpenClaw Releases",
+    "source_url": "https://github.com/openclaw/openclaw/releases.atom",
+    "category": "ecosystem",
+    "priority": "high",
+    "title": "release-publish/a33c8a5c0ec6-1787896022",
+    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2Fa33c8a5c0ec6-1787896022",
+    "publish_date": "2026-08-28",
+    "event_date": "2026-08-28",
+    "summary": "<p>fix(ci): route frozen FRV lint to matrix runner (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5273778875\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/131376\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/131376/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/131376\">#131376</a>)</p>",
+    "fetched_at": "2026-08-28"
+  },
+  {
+    "source_id": "openclaw-releases",
+    "source_name": "OpenClaw Releases",
+    "source_url": "https://github.com/openclaw/openclaw/releases.atom",
+    "category": "ecosystem",
+    "priority": "high",
+    "title": "release-publish/5090935817e3-1787842724",
+    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2F5090935817e3-1787842724",
+    "publish_date": "2026-08-27",
+    "event_date": "2026-08-27",
+    "summary": "<p>fix(ci): honor trusted dispatch matrix runners (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5268410613\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/130963\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/130963/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/130963\">#130963</a>)</p>",
+    "fetched_at": "2026-08-28"
+  },
+  {
+    "source_id": "openclaw-releases",
+    "source_name": "OpenClaw Releases",
+    "source_url": "https://github.com/openclaw/openclaw/releases.atom",
+    "category": "ecosystem",
+    "priority": "high",
+    "title": "release-publish/4074a8b44d89-1787849600",
+    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2F4074a8b44d89-1787849600",
+    "publish_date": "2026-08-27",
+    "event_date": "2026-08-27",
+    "summary": "<p>fix(release): pin Windows packaged-fresh Node (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5269890853\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/131027\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/131027/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/131027\">#131027</a>)</p>",
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "openclaw-releases",
@@ -205,7 +257,7 @@
     "publish_date": "2026-08-27",
     "event_date": "2026-08-27",
     "summary": "<p>fix(release): accept trusted tooling lineage evidence (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5266169527\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/130865\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/130865/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/130865\">#130865</a>)</p>",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "openclaw-releases",
@@ -218,7 +270,7 @@
     "publish_date": "2026-08-27",
     "event_date": "2026-08-27",
     "summary": "<p>fix(release): include evidence validator in decision checkout (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5265165193\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/130803\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/130803/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/130803\">#130803</a>)</p>",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "openclaw-releases",
@@ -231,7 +283,7 @@
     "publish_date": "2026-08-27",
     "event_date": "2026-08-27",
     "summary": "<ul>\n<li>\n<p>fix(release): provision package acceptance plugin registry</p>\n</li>\n<li>\n<p>fix(release): accept registry tuple in package dispatch</p>\n</li>\n<li>\n<p>fix(release): default Docker advisory input</p>\n</li>\n<li>\n<p>fix(release): bind artifact registry to package source</p>\n</li>\n<li>\n<p>fix(release): preserve package advisory dispatch</p>\n</li>\n<li>\n<p>fix(ci): bound hosted release gate checks</p>\n</li>\n</ul>\n<p>Co-authored-by: Tak Hoffman <a href=\"mailto:781889+Takhoffman@users.noreply.github.com\">781889+Takhoffman@users.noreply.github.com</a></p>\n<ul>\n<li>\n<p>test(ci): update release-gate manifest fixture</p>\n</li>\n<li>\n<p>fix(ci): avoid duplicate release gate lint</p>\n</li>\n<li>\n<p>test(release): restore Docker helper fixture path</p>\n</li>\n</ul>\n<hr>\n<p>Co-authored-by: Tak Hoffman <a href=\"mailto:781889+Takhoffman@users.noreply.github.com\">781889+Takhoffman@users.noreply.github.com</a></p>",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "openclaw-releases",
@@ -244,20 +296,33 @@
     "publish_date": "2026-08-27",
     "event_date": "2026-08-27",
     "summary": "<ul>\n<li>\n<p>fix(release): trust ancestor validation evidence</p>\n</li>\n<li>\n<p>fix(release): read candidate auth schema</p>\n</li>\n</ul>",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
-    "source_id": "openclaw-releases",
-    "source_name": "OpenClaw Releases",
-    "source_url": "https://github.com/openclaw/openclaw/releases.atom",
-    "category": "ecosystem",
+    "source_id": "claude-code-releases",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases.atom",
+    "category": "vendor",
     "priority": "high",
-    "title": "release-publish/ebc70fa1b3f6-1787634336: fix(usage): retain explicit owner for global sessions (#129011)",
-    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2Febc70fa1b3f6-1787634336",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "<p>Co-authored-by: roboclaw-bot <a href=\"mailto:309084314+roboclaw-bot@users.noreply.github.com\">309084314+roboclaw-bot@users.noreply.github.com</a></p>",
-    "fetched_at": "2026-08-27"
+    "title": "v2.1.250",
+    "canonical_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.250",
+    "publish_date": "2026-08-28",
+    "event_date": "2026-08-28",
+    "summary": "<h2>What's changed</h2>\n<ul>\n<li>Bug fixes and reliability improvements</li>\n</ul>",
+    "fetched_at": "2026-08-28"
+  },
+  {
+    "source_id": "claude-code-releases",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases.atom",
+    "category": "vendor",
+    "priority": "high",
+    "title": "v2.1.248",
+    "canonical_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.248",
+    "publish_date": "2026-08-27",
+    "event_date": "2026-08-27",
+    "summary": "<h2>What's changed</h2>\n<ul>\n<li>Added <code>--restricted</code> (or <code>CLAUDE_CODE_RESTRICTED=1</code>): removes the built-in tools that run commands or code and <code>WebFetch</code> (unless named in <code>--tools</code>), keeps file tools inside the working directory, refuses <code>bypassPermissions</code>, and ignores user, project and local settings files</li>\n<li>Added <code>experimental.cacheTtl</code> (<code>\"5m\"</code> or <code>\"1h\"</code>) to agent frontmatter: a per-agent prompt cache TTL used when no subagent TTL setting is configured</li>\n<li>Added <code>claude self-hosted-runner --client-label &lt;label&gt;</code> (or <code>SELF_HOSTED_RUNNER_CLIENT_LABEL</code>) to override the label the runner registers with (default: hostname)</li>\n<li>Added server-managed settings diagnostics: a startup warning when the settings fail to load, and a <code>/doctor</code> and <code>/status</code> line explaining a load failure or why they weren't fetched (Bedrock/Vertex/third-party provider, custom <code>ANTHROPIC_BASE_URL</code>)</li>\n<li>Added a warning in <code>/web-setup</code> when the GitHub CLI token lacks the <code>workflow</code> scope, since pushes to very large repositories can be rejected without it</li>\n<li>Added <code>/usage-credits</code> for Enterprise organizations billed through AWS Marketplace, self-serve Enterprise, and Enterprise trials, so members can request a higher usage limit from their admin</li>\n<li>Added cross-session messaging (<code>SendMessage</code> / <code>ListAgents</code>) between sessions on the same machine on Bedrock, Vertex, and Foundry, and when telemetry is disabled</li>\n<li>Fixed a prompt-cache miss (and lost extended-thinking context) roughly once an hour in long sessions, caused by tool definitions being re-rendered after an OAuth token refresh</li>\n<li>Fixed the <code>ScheduleWakeup</code> tool definition changing between a session and its <code>--resume</code> when the account had entered usage overage, causing a full prompt-cache miss on the resumed session's first turn</li>\n<li>Fixed Claude Desktop and Cowork sessions disappearing after 30 days: the transcript cleanup now keeps desktop-written sessions while they are in the app (unless org policy manages retention); the new <code>desktopSessionCleanupPeriodDays</code> setting caps the exemption</li>\n<li>Fixed being sent to the login screen when another Claude Code process held the token refresh lock while the session token had expired; the request now fails with a retryable error instead</li>\n<li>Windows: Fixed the <code>claude agents</code> list not responding to the keyboard after detaching from a session, or when launched in a terminal tab left in win32-input-mode</li>\n<li>Fixed the recommended Console sign-in in <code>/login</code> failing with an OAuth error before showing a sign-in URL on machines where it can't be used (for example when <code>ANTHROPIC_API_KEY</code> or an API key helper is set); it now falls back to the API-key sign-in</li>\n<li>Fixed model names in <code>/model</code> and fast-mode switch notices to render as code, so suffixes like <code>[1m]</code> display literally instead of as a link</li>\n<li>Fixed <code>claude agents</code> skipping the workspace trust prompt when the <code>CI</code> environment variable is set</li>\n<li>Fixed <code>claude agents</code> crashing on launch when the PR-status cache held a malformed entry</li>\n<li>Fixed agent view resurrecting a weeks-old background session after the machine was off: such a session now shows as stopped at its real end, and opening it asks before resuming its saved conversation</li>\n<li>Fixed agent view sometimes opening an older conversation, and dropping the typed prompt, when starting a new session</li>\n<li>Fixed <code>claude agents</code>: opening a stopped session that you already resumed in another terminal no longer starts a second process on that conversation; the row now says it is open in a terminal</li>\n<li>Fixed <code>claude agents</code> and <code>claude rm</code> refusing to delete a session (\"has commits that are not pushed anywhere\") when its worktree branch was already merged into your checked-out default branch (e.g. local <code>main</code>) but not yet pushed</li>\n<li>Fixed background sessions waiting silently when a <code>PermissionRequest</code> or <code>PreToolUse</code> hook prints an invalid answer: the <code>claude agents</code> row now names the hook and the schema error</li>\n<li>Fixed hooks silently treating a stdout <code>{…}</code> object that isn't valid JSON as plain text; it's now reported as a hook error with the parse message</li>\n<li>Fixed <code>/mcp</code> listing a project <code>.mcp.json</code> entry that declares the claude.ai connector type under the trusted \"claude.ai\" heading; it now appears under its real scope</li>\n<li>Fixed MCP servers whose <code>headersHelper</code> supplies the <code>Authorization</code> header falling into OAuth discovery on a 401 instead of re-running the helper and retrying the call as documented</li>\n<li>Fixed <code>/login</code> to a Claude apps gateway hanging when the managed-settings security approval dialog was required</li>\n<li>Fixed gateway model discovery (<code>CLAUDE_CODE_ENABLE_GATEWAY_MODEL_DISCOVERY</code>) never running when <code>apiKeyHelper</code> is the only credential</li>\n<li>Fixed <code>claude logs</code> leaving mouse tracking, bracketed paste and the alternate screen switched on in the terminal it was run from</li>\n<li>Fixed the trust dialog's list of repo permission rules showing a garbled character when a long rule was cut off in the middle of an emoji</li>\n<li>Fixed the permission mode indicator staying hidden behind the \"Press Ctrl-C again to exit\" hint when you press shift+tab right after ctrl+c</li>\n<li>Fixed <code>/ultrareview</code> and locally seeded cloud sessions uploading uncommitted edits to <code>prod.env</code>-style and <code>*.tfvars</code> files, or to editor swap, temp, and backup copies of credential files (e.g. <code>key.pem.tmp</code>, <code>id_rsa.swo</code>); they now stay on your machine</li>\n<li>Fixed Remote Control sessions occasionally never showing a permission prompt or the latest messages on the connected device after the CLI silently reconnected</li>\n<li>Fixed cloud sessions occasionally failing at startup when the container's session credentials were not yet readable</li>\n<li>Fixed <code>claude remote-control</code> rejecting its own flags (e.g. <code>--spawn</code>, <code>--name</code>) when a global flag or a wrapper-injected option precedes the subcommand</li>\n<li>Fixed startup warnings (e.g. \"N MCP servers need authentication\") rendering one column right of the rest of the transcript</li>\n<li>Fixed a backgrounded worktree session losing its checkout: the background session now holds the worktree's lock while it runs, so cleanup and <code>git worktree remove</code> leave it alone</li>\n<li>Fixed @-mentions of other sessions not matching names typed with non-Latin characters (for example Korean entered through an IME)</li>\n<li>Fixed an invalid <code>crossSessionInbound</code> value being silently ignored: it now warns and holds cross-session messages (user settings) or refuses them (managed settings) until fixed</li>\n<li>Fixed rate-limit, usage, and fast-mode messages telling you to run <code>/usage-credits</code> when that command isn't available for your organization (e.g. hidden with <code>DISABLE_EXTRA_USAGE_COMMAND</code>)</li>\n<li>[VSCode] Fixed a chat tab getting stuck on \"No conversation found\" when its session was never saved; it now starts a new conversation instead</li>\n<li>Improved the Workflow tool's prompt footprint: its description is now about 1k tokens instead of 5.7k, with the script-writing reference moved into a bundled <code>workflow-authoring</code> skill</li>\n<li>Improved the prompt-footer PR badge to check GitHub less often while the pull request is unchanged; a push or a <code>gh pr</code> command still refreshes it right away</li>\n<li>Improved managed settings: client-side timeout, MCP startup-mode, and stream-watchdog env vars no longer trigger the settings-approval prompt</li>\n<li>Improved <code>/ultrareview &lt;PR#&gt;</code> to check before launch that the GitHub account connected to your Claude account can access the repository, and to explain how to fix it, instead of failing after the cloud session starts</li>\n<li>Improved cross-session messaging: falls back to a private per-user <code>/tmp</code> directory when the default one can't be used, and the notice and <code>/status</code> name the directory to fix</li>\n<li>Changed shift+enter in the agent view dispatch input to insert a newline (matching the prompt); ctrl+enter now dispatches and attaches</li>\n<li>Changed <code>/loop</code>: self-paced dynamic mode and the no-prompt autonomous default are now always available, including on Bedrock/Vertex/Foundry</li>\n<li>Changed Anthropic telemetry export failures to log at debug level as <code>[Anthropic telemetry]</code> instead of <code>[3P telemetry] OTEL diag error</code>, so they are not mistaken for your OTel collector failing</li>\n<li>Changed cross-session messaging in Linux user namespaces: root-equivalent trust for unmapped owners is limited to canonical system directories</li>\n<li>Changed <code>SendMessage</code> from a subagent to another session: the result now notes that any reply is delivered to the parent session's conversation, not to the subagent</li>\n</ul>",
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "claude-code-releases",
@@ -270,7 +335,7 @@
     "publish_date": "2026-08-26",
     "event_date": "2026-08-26",
     "summary": "<h2>What's changed</h2>\n<ul>\n<li>Added the <code>SendFeedback</code> tool: when something goes wrong in a session, Claude can draft a feedback report for you to review and send from <code>/feedback</code> (turn off with the <code>feedbackDrafts</code> setting)</li>\n<li>Added <code>{id, text, cooldownSessions, priority}</code> entries, <code>tipsFile</code>, and <code>label</code> to <code>spinnerTipsOverride</code>, so organizations can rotate their own tips alongside the built-in ones</li>\n<li>Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke \"Yes, and switch to auto mode\" option</li>\n<li>Added <code>/claude-api cost-optimize</code> to profile an existing project's Claude API spend and work through cost levers (caching, token hygiene, batch, effort, model choice) one measured change at a time</li>\n<li>Updated the <code>/claude-api</code> skill with Admin API coverage (organization members, invites, workspaces, API keys, rate limit reports, workload identity federation, CMEK)</li>\n<li>Fixed fast arrow-key + Enter sequences acting on the row above the one you navigated to in history search, <code>/config</code>, <code>/mcp</code>, <code>/skills</code>, background tasks, and <code>/model</code></li>\n<li>Fixed sub-agents dying on a first-call model 404: they now use the session's fallback model chain, and the error returned to the parent includes the error type, status, request id, and model</li>\n<li>Fixed a hook or background agent that printed megabytes of error output being able to overflow the conversation and wedge the session on \"Prompt is too long\"</li>\n<li>Fixed Ctrl keyboard shortcuts not firing under non-Latin (e.g. Cyrillic) keyboard layouts in kitty-protocol terminals</li>\n<li>Fixed text like <code>&lt;35;150;7M</code> being inserted into the prompt when a mouse report arrived split across reads right after the escape prefix</li>\n<li>Fixed the Bash sandbox's after-command cleanup deleting a dotfile-managed <code>~/.claude/settings.json</code> symlink (nix/home-manager, stow) when it is repointed outside the sandbox's writable area</li>\n<li>Fixed <code>/terminal-setup</code> overwriting your entire Zed <code>keymap.json</code> instead of merging in its keybinding</li>\n<li>Fixed <code>/rename</code> silently confirming when the session registry could not be updated; it now says other sessions may still show the old name</li>\n<li>Fixed <code>/compact</code> and \"Summarize from here\" in sessions started with <code>--agent</code> summarizing under the default system prompt instead of the conversation's own</li>\n<li>Fixed a background session showing \"opening…\" forever in <code>claude agents</code> after its terminal host process died; the row now fails within seconds with the reason, and Enter restarts it</li>\n<li>Fixed unbounded memory growth when a hook's or background task's output file could not be written; the file now notes where output was lost</li>\n<li>Fixed <code>/install-github-app</code> over SSH: the copy shortcut now says how the sign-in URL was copied instead of always claiming success, and the URL appears immediately when no browser can open</li>\n<li>Fixed shell commands carried over from the foreground logging an internal error or showing a misleading <code>[exited with code -1]</code> line when they finish in background sessions</li>\n<li>Fixed a version-less marketplace plugin's live cache directory being deleted and recreated on a second-scope install, which could disrupt a running session using it</li>\n<li>Fixed Remote Control sessions started with <code>/remote-control</code> not reporting the working-tree diff to connected clients</li>\n<li>Fixed self-hosted runner sessions reporting <code>running</code> before Claude Code had started, which could trigger a premature \"Claude is waiting for your input\" notification from the Claude desktop app</li>\n<li>Fixed first-run setup exiting with \"Unable to connect to Anthropic services\" when managed settings configure Claude apps gateway sign-in and Anthropic endpoints are unreachable</li>\n<li>Fixed cloud sessions (Claude Code on the web, desktop and mobile apps) sometimes showing the previous permission mode when you switch modes right after sending a message</li>\n<li>Fixed cloud sessions going silent when the session's container restarts between turns while a background agent, shell, or monitor is still running — the resumed session now reports the lost work</li>\n<li>Improved plugin marketplace hardening: names containing control or invisible characters are rejected, and marketplace-supplied text in <code>/plugin</code> and <code>claude plugin</code> output is escape-safe</li>\n<li>Improved Bedrock, Vertex, and Foundry sessions (and any with telemetry disabled): Claude is now told when a configured MCP server failed to connect, instead of concluding its tools don't exist</li>\n<li>Changed Sonnet 5's default auto-compact window to its full 1M context, so sessions on the 1M window now auto-compact at about 967K tokens instead of about 934K</li>\n<li>Changed cross-session peer messages to collapse by default to a one-line <code>Message from @&lt;sender&gt;: &lt;first line&gt;</code> preview; Ctrl+O expands the full body</li>\n<li>Changed terminal hyperlinks in rendered markdown: link targets that point at a network or automounter path, contain a control character, or lead with an invisible character now render as plain text</li>\n<li>Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus when the last check is under a minute old</li>\n<li>Changed analytics to stay off from startup, not only after login, when managed settings force gateway login or a custom OAuth deployment is configured</li>\n<li>Changed Claude apps gateway sign-in requests to identify Claude Code (a <code>surface=claude_code</code> device-authorization parameter and a <code>claude-code/&lt;version&gt;</code> User-Agent)</li>\n<li>Changed organization sign-in enforcement to exit at start when the administrator's managed settings cannot be read, even if host-supplied or per-user Windows registry settings exist</li>\n</ul>",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "claude-code-releases",
@@ -283,33 +348,46 @@
     "publish_date": "2026-08-25",
     "event_date": "2026-08-25",
     "summary": "<h2>What's changed</h2>\n<ul>\n<li>Added a startup warning for Bash allow rules with a wildcard before the subcommand (e.g. <code>Bash(git * main)</code>), since they also match options inserted before the subcommand</li>\n<li>Added an Auto mode tab to <code>/permissions</code> for viewing and editing auto mode classifier rules</li>\n<li>Added the turn's completion time to the end-of-turn duration line, e.g. <code>✻ Sautéed for 23s · done 6:05 PM</code></li>\n<li>Fixed fullscreen mode showing a blank transcript after resizing the terminal and jumping to the bottom until the next keypress</li>\n<li>Fixed a severe transcript slowdown when a diff contained a very long single line (e.g. a base64 string); such lines now render truncated with a marker</li>\n<li>Fixed erratic fullscreen scrolling when positioned at an earlier message, including jump-to-bottom getting stuck mid-transcript</li>\n<li>Fixed background sessions failing to open after 45 seconds when Claude Code's starting directory had been deleted, the machine had slept, or the host is slow to start processes</li>\n<li>Fixed background sessions failing to open with \"Couldn't start the background service … EACCES\" when another Claude Code process was re-installing the npm package at that moment</li>\n<li>Fixed markdown rendering being disabled for a whole message when its first 500 characters contained no markdown, and for <code>+</code>/<code>N)</code> lists and setext headings</li>\n<li>Fixed MCP tool calls interrupted by an incoming message in headless/remote sessions being reported to the model as \"completed with no output\" instead of an explicit interrupted error</li>\n<li>Fixed MCP tool arguments being sent as JSON strings when the parameter's schema is empty (<code>{}</code>), instead of their real type</li>\n<li>Fixed a command interrupted mid-run showing as \"Ran 1 shell command\" with no sign it was cut</li>\n<li>Fixed pressing ← or running <code>/background</code> during a dynamic workflow restarting its finished subagents; it now asks first and says how many subagents would restart</li>\n<li>Fixed opening a just-started session in <code>claude agents</code> while its worker was still booting (common on Windows) stopping it with \"was stopped while the respawn was in flight\"</li>\n<li>Fixed <code>claude agents</code> listing a backgrounded named session twice; backgrounding the same conversation again now numbers the new row (e.g. <code>my-session (2)</code>)</li>\n<li>Fixed the background retention sweep removing git worktrees under <code>.claude/worktrees/</code> that you created yourself when an old background-session record pointed at them</li>\n<li>Fixed auto mode tool calls being denied as \"temporarily unavailable\" on very large sessions by scaling the safety-check deadline with prompt size</li>\n<li>Fixed the plugin cache creating duplicate SHA-named directories for the same plugin</li>\n<li>Fixed plugin skills whose frontmatter <code>name</code> already includes the <code>&lt;plugin&gt;:</code> prefix showing it doubled in the slash menu (e.g. <code>/plugin:plugin:skill</code>)</li>\n<li>Fixed <code>claude plugin update</code> failing for an installed plugin given its bare name (only the fully-qualified name worked)</li>\n<li>Fixed plugin installation failing when <code>plugin.json</code> was saved with a UTF-8 byte-order mark (BOM)</li>\n<li>Fixed <code>/reload-plugins</code> reporting 0 skills for plugins that define skills under <code>skills/*/SKILL.md</code></li>\n<li>Fixed hook error messages showing a literal <code>${CLAUDE_PLUGIN_ROOT}</code> instead of the resolved plugin path</li>\n<li>Fixed <code>/rename</code> replacing the theme's prompt border color (including a custom theme's <code>promptBorder</code>) with the default cyan; the border now keeps your theme's color unless you pick one with <code>/color</code></li>\n<li>Fixed custom theme diff colors (<code>diffAdded</code>/<code>diffRemoved</code> and their dimmed variants) being ignored in diffs and the <code>/theme</code> preview</li>\n<li>Fixed a <code>keybindings.json</code> binding with an unknown action name silently deadening that key; it is now skipped so the default binding keeps working, and a warning is logged under <code>--debug</code></li>\n<li>Fixed <code>/stats</code> activity heatmap showing each day's activity one cell off (Sunday's count under Monday) in timezones east of UTC</li>\n<li>Fixed <code>/fork</code> from an already-forked or backgrounded session starting the new session with an empty conversation</li>\n<li>Fixed prompts beginning with <code>/--</code> (e.g. Lean doc comments) being rejected as an unknown slash command instead of being sent to Claude</li>\n<li>Fixed the <code>@</code> file picker staying open after the typed text stopped matching a real path</li>\n<li>Fixed the status line's cost and duration resetting to zero after navigating to the agents view and back</li>\n<li>Fixed fullscreen mode moving keyboard focus onto the control under the pointer when you clicked the terminal window only to bring it back into focus</li>\n<li>Fixed path completion failing when the completion token or working directory contained a null byte</li>\n<li>Windows/macOS: Fixed headless sessions not cleaning up stale entries in <code>~/.claude/sessions</code> left by sessions that exited uncleanly</li>\n<li>Fixed the UI stopping with a render error on the first tool call when a third-party Anthropic-compatible endpoint (<code>ANTHROPIC_BASE_URL</code>) streams a <code>tool_use</code> block without an <code>id</code></li>\n<li>Fixed the Write tool reporting \"Out of memory\" or freezing for a long time after overwriting a very large existing file, even though the file had been written</li>\n<li>Fixed <code>claude plugin install &lt;name&gt;</code> exiting silently (or hanging in a terminal) instead of reporting an error when <code>~/.claude/plugins/known_marketplaces.json</code> is empty or corrupted</li>\n<li>Fixed resumed sessions failing every turn with a 400 when the saved history contains tool blocks the Anthropic API does not accept (typically written by a third-party API proxy)</li>\n<li>Fixed <code>curl -fsSL https://claude.ai/install.sh | bash</code> failing with \"Raw mode is not supported\" for some Team/Enterprise users with server-managed settings</li>\n<li>Fixed sessions that ended in plan mode resuming outside plan mode in the VS Code extension, and in <code>claude -p --continue</code>/<code>--resume</code> with a permission prompt tool, when no permission mode was set</li>\n<li>Fixed the <code>Notification</code> hook not firing while the sandbox \"Network request outside of sandbox\" permission prompt is waiting</li>\n<li>Fixed Bash permission checks to always require approval for malformed commands with a dangling <code>&amp;&amp;</code> or <code>||</code> operator</li>\n<li>Fixed <code>--strict-mcp-config</code> sessions prompting to approve <code>.mcp.json</code> servers they would never load, which left background sessions waiting at startup</li>\n<li>Fixed telemetry and metrics requests to Anthropic carrying the API key configured for a third-party gateway (<code>ANTHROPIC_BASE_URL</code>); a credential is now only sent to its own host</li>\n<li>Fixed a visible API error on the first prompt after idle when <code>apiKeyHelper</code> returns short-lived JWTs: an expired cached token is now refreshed before sending, and 401/403 auth errors retry quietly</li>\n<li>Fixed memory growing with session length in the fullscreen and Ctrl+O transcript views: each rendered message row no longer retains a full copy of the transcript-wide tool lookups</li>\n<li>Fixed <code>/ultrareview</code> runs and cloud sessions launched at the same time from one repository (e.g. from several worktrees) sometimes starting with another launch's uncommitted changes</li>\n<li>Fixed the task progress count (e.g. <code>3/5</code>) shown for background cloud sessions such as <code>/autofix-pr</code> occasionally missing a task</li>\n<li>Fixed Remote Control sessions keeping their placeholder name in claude.ai and the Claude app until the second prompt; the auto-generated title now appears after the first prompt</li>\n<li>Fixed MCP tools marked <code>requiresUserInteraction</code> still offering \"Yes, and don't ask again\" in their permission prompt; the option wrote an allow rule the tool then ignored</li>\n<li>Fixed the self-hosted runner ending its live sessions or exiting when a work-poll response is malformed (e.g. an intercepting proxy's HTML page); it now retries the poll</li>\n<li>Improved <code>/cd</code>: the new directory's project settings, hooks, <code>.mcp.json</code> servers (behind the usual approval prompt), skills, and agents now take effect right after the move instead of on <code>--resume</code></li>\n<li>Improved Bash tool latency on bash shells by replaying snapshot functions without a base64 subshell per function</li>\n<li>Improved subagent results: a subagent that stops at its <code>maxTurns</code> limit now returns its output marked as partial, with a hint to continue it via <code>SendMessage</code>, instead of appearing finished</li>\n<li>Improved non-interactive sessions (<code>-p</code>, SDK, cloud sessions) to automatically continue a response cut off mid-stream by a server error, connection loss, or stall instead of ending with an error</li>\n<li>Improved attribution of usage telemetry to your organization for workload identity federation sessions, events sent while <code>apiKeyHelper</code> runs at startup, and after a login token expired while idle</li>\n<li>Changed <code>/code-review</code> so Claude can also start it on its own on Bedrock, Vertex AI, and Foundry, through the Claude apps gateway, and when telemetry or non-essential traffic is disabled</li>\n<li><code>/goal</code>: Changed idle sessions to start at most three check-ins on long-running background work per goal; your next message allows three more</li>\n<li>Changed <code>claude install</code> and <code>claude update</code> to defer a pending managed-settings consent prompt to the next interactive session instead of prompting mid-command</li>\n<li>Changed OpenTelemetry plugin events for plugins synced from claude.ai: <code>plugin_id_hash</code> now reflects the plugin's real marketplace, and <code>enabled_via</code> is <code>admin-install</code> for admin-installed plugins</li>\n<li>Fixed the command sandbox's filesystem configuration not respecting <code>--setting-sources</code></li>\n</ul>",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
-    "source_id": "claude-code-releases",
-    "source_name": "Claude Code Releases",
-    "source_url": "https://github.com/anthropics/claude-code/releases.atom",
+    "source_id": "claude-code-action-releases",
+    "source_name": "Claude Code Action Releases",
+    "source_url": "https://github.com/anthropics/claude-code-action/releases.atom",
     "category": "vendor",
-    "priority": "high",
-    "title": "v2.1.245",
-    "canonical_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.245",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "<h2>What's changed</h2>\n<ul>\n<li>Fixed a crash on startup on Linux distributions that ship glibc 2.44 (for example Arch Linux, CachyOS and Fedora Rawhide)</li>\n</ul>",
-    "fetched_at": "2026-08-27"
+    "priority": "medium",
+    "title": "v1.0.209",
+    "canonical_url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.209",
+    "publish_date": "2026-08-28",
+    "event_date": "2026-08-28",
+    "summary": "<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/anthropics/claude-code-action/compare/v1.0.208...v1.0.209\"><tt>v1.0.208...v1.0.209</tt></a></p>",
+    "fetched_at": "2026-08-28"
   },
   {
-    "source_id": "claude-code-releases",
-    "source_name": "Claude Code Releases",
-    "source_url": "https://github.com/anthropics/claude-code/releases.atom",
+    "source_id": "claude-code-action-releases",
+    "source_name": "Claude Code Action Releases",
+    "source_url": "https://github.com/anthropics/claude-code-action/releases.atom",
     "category": "vendor",
-    "priority": "high",
-    "title": "v2.1.243",
-    "canonical_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.243",
-    "publish_date": "2026-08-24",
-    "event_date": "2026-08-24",
-    "summary": "<p>chore: Update CHANGELOG.md and feed.xml</p>",
-    "fetched_at": "2026-08-27"
+    "priority": "medium",
+    "title": "Claude Code GitHub Action v1.0",
+    "canonical_url": "https://github.com/anthropics/claude-code-action/releases/tag/v1",
+    "publish_date": "2026-08-28",
+    "event_date": "2026-08-28",
+    "summary": "<h1>🎉 Claude Code GitHub Action v1.0 - Now Generally Available!</h1>\n<p>We're excited to announce the v1.0 release of Claude Code GitHub Action! This major release brings significant improvements in simplicity, flexibility, and power to AI-assisted development workflows.</p>\n<h2>🚀 What's New in v1.0</h2>\n<h3>Simplified Configuration</h3>\n<ul>\n<li><strong>Automatic mode detection</strong> - No more manual <code>mode</code> configuration. The action intelligently determines whether to run in interactive or automation mode based on your setup</li>\n<li><strong>Unified interface</strong> - All prompts now go through a single <code>prompt</code> input, and all CLI options through <code>claude_args</code></li>\n<li><strong>Better SDK alignment</strong> - Closer integration with the Claude Code CLI for a consistent experience</li>\n</ul>\n<h3>More Powerful &amp; Flexible</h3>\n<ul>\n<li>Direct access to all Claude Code CLI capabilities through <code>claude_args</code></li>\n<li>Support for custom system prompts, tool configurations, and model selection</li>\n<li>Enhanced compatibility with AWS Bedrock and Google Vertex AI</li>\n</ul>\n<h2><g-emoji class=\"g-emoji\" alias=\"warning\">⚠️</g-emoji> Breaking Changes</h2>\n<p>This release includes breaking changes from v0.x. Key deprecated inputs have been replaced with a cleaner, more intuitive API:</p>\n<ul>\n<li><code>mode</code>, <code>direct_prompt</code>, <code>override_prompt</code> → unified <code>prompt</code> input</li>\n<li><code>custom_instructions</code>, <code>model</code>, <code>allowed_tools</code>, <code>mcp_config</code> → <code>claude_args</code> with CLI format</li>\n<li>Other deprecated: <code>disallowed_tools</code>, <code>anthropic_model</code>, <code>trigger_phrase</code>, <code>timeout_minutes</code></li>\n</ul>\n<p><strong>📚 Please review our <a href=\"https://github.com/anthropics/claude-code-action/blob/main/docs/migration-guide.md\">Migration Guide</a> for detailed upgrade instructions and examples.</strong></p>\n<h2>💡 New Use Cases &amp; Examples</h2>\n<p>Explore the expanded possibilities with v1.0! We've created comprehensive examples showcasing various workflows:</p>\n<ul>\n<li><strong>Automated PR Reviews</strong> - Intelligent code review on every pull request</li>\n<li><strong>CI Failure Fixes</strong> - Automatically diagnose and fix failing tests</li>\n<li><strong>Issue Triage</strong> - Smart categorization and response to new issues</li>\n<li><strong>Documentation Generation</strong> - Keep docs in sync with code changes</li>\n<li><strong>Security Scanning</strong> - Proactive vulnerability detection</li>\n<li><strong>And many more!</strong></li>\n</ul>\n<p><strong>🔧 Check out all examples at <a href=\"https://github.com/anthropics/claude-code-action/tree/main/examples\">github.com/anthropics/claude-code-action/tree/main/examples</a></strong></p>\n<h2>🏃 Quick Start</h2>\n<div class=\"highlight highlight-source-yaml notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"# Interactive mode - responds to @claude mentions\n- uses: anthropics/claude-code-action@v1\n  with:\n    anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}\n\n# Automation mode - runs immediately with prompt\n- uses: anthropics/claude-code-action@v1\n  with:\n    prompt: &quot;Review this PR for security issues&quot;\n    anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}\n    claude_args: |\n      --model claude-4-0-sonnet-20250805\n      --max-turns 10\"><pre><span class=\"pl-c\"><span class=\"pl-c\">#</span> Interactive mode - responds to @claude mentions</span>\n- <span class=\"pl-ent\">uses</span>: <span class=\"pl-s\">anthropics/claude-code-action@v1</span>\n  <span class=\"pl-ent\">with</span>:\n    <span class=\"pl-ent\">anthropic_api_key</span>: <span class=\"pl-s\">${{ secrets.ANTHROPIC_API_KEY }}</span>\n\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> Automation mode - runs immediately with prompt</span>\n- <span class=\"pl-ent\">uses</span>: <span class=\"pl-s\">anthropics/claude-code-action@v1</span>\n  <span class=\"pl-ent\">with</span>:\n    <span class=\"pl-ent\">prompt</span>: <span class=\"pl-s\"><span class=\"pl-pds\">\"</span>Review this PR for security issues<span class=\"pl-pds\">\"</span></span>\n    <span class=\"pl-ent\">anthropic_api_key</span>: <span class=\"pl-s\">${{ secrets.ANTHROPIC_API_KEY }}</span>\n    <span class=\"pl-ent\">claude_args</span>: <span class=\"pl-s\">|</span>\n<span class=\"pl-s\">      --model claude-4-0-sonnet-20250805</span>\n<span class=\"pl-s\">      --max-turns 10</span></pre></div>\n<h2>📖 Resources</h2>\n<ul>\n<li><a href=\"https://github.com/anthropics/claude-code-action/blob/main/docs/migration-guide.md\">Migration Guide</a> - Step-by-step upgrade instructions</li>\n<li><a href=\"https://github.com/anthropics/claude-code-action/tree/main/examples\">Examples</a> - Ready-to-use workflow templates</li>\n<li><a href=\"https://github.com/anthropics/claude-code-action#readme\">Documentation</a> - Complete setup and configuration guide</li>\n</ul>\n<h2>🙏 Thank You</h2>\n<p>Thank you to our beta users for your invaluable feedback that shaped this release. We're excited to see what you'll build with Claude Code GitHub Action v1.0!</p>",
+    "fetched_at": "2026-08-28"
+  },
+  {
+    "source_id": "claude-code-action-releases",
+    "source_name": "Claude Code Action Releases",
+    "source_url": "https://github.com/anthropics/claude-code-action/releases.atom",
+    "category": "vendor",
+    "priority": "medium",
+    "title": "v1.0.208",
+    "canonical_url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.208",
+    "publish_date": "2026-08-27",
+    "event_date": "2026-08-27",
+    "summary": "<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208\"><tt>v1.0.207...v1.0.208</tt></a></p>",
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "claude-code-action-releases",
@@ -322,20 +400,7 @@
     "publish_date": "2026-08-27",
     "event_date": "2026-08-27",
     "summary": "<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/anthropics/claude-code-action/compare/v1.0.206...v1.0.207\"><tt>v1.0.206...v1.0.207</tt></a></p>",
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "source_id": "claude-code-action-releases",
-    "source_name": "Claude Code Action Releases",
-    "source_url": "https://github.com/anthropics/claude-code-action/releases.atom",
-    "category": "vendor",
-    "priority": "medium",
-    "title": "Claude Code GitHub Action v1.0",
-    "canonical_url": "https://github.com/anthropics/claude-code-action/releases/tag/v1",
-    "publish_date": "2026-08-27",
-    "event_date": "2026-08-27",
-    "summary": "<h1>🎉 Claude Code GitHub Action v1.0 - Now Generally Available!</h1>\n<p>We're excited to announce the v1.0 release of Claude Code GitHub Action! This major release brings significant improvements in simplicity, flexibility, and power to AI-assisted development workflows.</p>\n<h2>🚀 What's New in v1.0</h2>\n<h3>Simplified Configuration</h3>\n<ul>\n<li><strong>Automatic mode detection</strong> - No more manual <code>mode</code> configuration. The action intelligently determines whether to run in interactive or automation mode based on your setup</li>\n<li><strong>Unified interface</strong> - All prompts now go through a single <code>prompt</code> input, and all CLI options through <code>claude_args</code></li>\n<li><strong>Better SDK alignment</strong> - Closer integration with the Claude Code CLI for a consistent experience</li>\n</ul>\n<h3>More Powerful &amp; Flexible</h3>\n<ul>\n<li>Direct access to all Claude Code CLI capabilities through <code>claude_args</code></li>\n<li>Support for custom system prompts, tool configurations, and model selection</li>\n<li>Enhanced compatibility with AWS Bedrock and Google Vertex AI</li>\n</ul>\n<h2><g-emoji class=\"g-emoji\" alias=\"warning\">⚠️</g-emoji> Breaking Changes</h2>\n<p>This release includes breaking changes from v0.x. Key deprecated inputs have been replaced with a cleaner, more intuitive API:</p>\n<ul>\n<li><code>mode</code>, <code>direct_prompt</code>, <code>override_prompt</code> → unified <code>prompt</code> input</li>\n<li><code>custom_instructions</code>, <code>model</code>, <code>allowed_tools</code>, <code>mcp_config</code> → <code>claude_args</code> with CLI format</li>\n<li>Other deprecated: <code>disallowed_tools</code>, <code>anthropic_model</code>, <code>trigger_phrase</code>, <code>timeout_minutes</code></li>\n</ul>\n<p><strong>📚 Please review our <a href=\"https://github.com/anthropics/claude-code-action/blob/main/docs/migration-guide.md\">Migration Guide</a> for detailed upgrade instructions and examples.</strong></p>\n<h2>💡 New Use Cases &amp; Examples</h2>\n<p>Explore the expanded possibilities with v1.0! We've created comprehensive examples showcasing various workflows:</p>\n<ul>\n<li><strong>Automated PR Reviews</strong> - Intelligent code review on every pull request</li>\n<li><strong>CI Failure Fixes</strong> - Automatically diagnose and fix failing tests</li>\n<li><strong>Issue Triage</strong> - Smart categorization and response to new issues</li>\n<li><strong>Documentation Generation</strong> - Keep docs in sync with code changes</li>\n<li><strong>Security Scanning</strong> - Proactive vulnerability detection</li>\n<li><strong>And many more!</strong></li>\n</ul>\n<p><strong>🔧 Check out all examples at <a href=\"https://github.com/anthropics/claude-code-action/tree/main/examples\">github.com/anthropics/claude-code-action/tree/main/examples</a></strong></p>\n<h2>🏃 Quick Start</h2>\n<div class=\"highlight highlight-source-yaml notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"# Interactive mode - responds to @claude mentions\n- uses: anthropics/claude-code-action@v1\n  with:\n    anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}\n\n# Automation mode - runs immediately with prompt\n- uses: anthropics/claude-code-action@v1\n  with:\n    prompt: &quot;Review this PR for security issues&quot;\n    anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}\n    claude_args: |\n      --model claude-4-0-sonnet-20250805\n      --max-turns 10\"><pre><span class=\"pl-c\"><span class=\"pl-c\">#</span> Interactive mode - responds to @claude mentions</span>\n- <span class=\"pl-ent\">uses</span>: <span class=\"pl-s\">anthropics/claude-code-action@v1</span>\n  <span class=\"pl-ent\">with</span>:\n    <span class=\"pl-ent\">anthropic_api_key</span>: <span class=\"pl-s\">${{ secrets.ANTHROPIC_API_KEY }}</span>\n\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> Automation mode - runs immediately with prompt</span>\n- <span class=\"pl-ent\">uses</span>: <span class=\"pl-s\">anthropics/claude-code-action@v1</span>\n  <span class=\"pl-ent\">with</span>:\n    <span class=\"pl-ent\">prompt</span>: <span class=\"pl-s\"><span class=\"pl-pds\">\"</span>Review this PR for security issues<span class=\"pl-pds\">\"</span></span>\n    <span class=\"pl-ent\">anthropic_api_key</span>: <span class=\"pl-s\">${{ secrets.ANTHROPIC_API_KEY }}</span>\n    <span class=\"pl-ent\">claude_args</span>: <span class=\"pl-s\">|</span>\n<span class=\"pl-s\">      --model claude-4-0-sonnet-20250805</span>\n<span class=\"pl-s\">      --max-turns 10</span></pre></div>\n<h2>📖 Resources</h2>\n<ul>\n<li><a href=\"https://github.com/anthropics/claude-code-action/blob/main/docs/migration-guide.md\">Migration Guide</a> - Step-by-step upgrade instructions</li>\n<li><a href=\"https://github.com/anthropics/claude-code-action/tree/main/examples\">Examples</a> - Ready-to-use workflow templates</li>\n<li><a href=\"https://github.com/anthropics/claude-code-action#readme\">Documentation</a> - Complete setup and configuration guide</li>\n</ul>\n<h2>🙏 Thank You</h2>\n<p>Thank you to our beta users for your invaluable feedback that shaped this release. We're excited to see what you'll build with Claude Code GitHub Action v1.0!</p>",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   },
   {
     "source_id": "claude-code-action-releases",
@@ -348,58 +413,6 @@
     "publish_date": "2026-08-25",
     "event_date": "2026-08-25",
     "summary": "<h2>What's Changed</h2>\n<ul>\n<li>chore: add .gitattributes to normalize line endings by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/MohammedAlkindi/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/MohammedAlkindi\">@MohammedAlkindi</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5208597434\" data-permission-text=\"Title is private\" data-url=\"https://github.com/anthropics/claude-code-action/issues/1708\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/anthropics/claude-code-action/pull/1708/hovercard\" href=\"https://github.com/anthropics/claude-code-action/pull/1708\">#1708</a></li>\n<li>fix: use paths in delete_files prompt example by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/WeAreResilience/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/WeAreResilience\">@WeAreResilience</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5198917779\" data-permission-text=\"Title is private\" data-url=\"https://github.com/anthropics/claude-code-action/issues/1702\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/anthropics/claude-code-action/pull/1702/hovercard\" href=\"https://github.com/anthropics/claude-code-action/pull/1702\">#1702</a></li>\n<li>fix: allow parentheses in valid branch names by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/YauheniPo/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/YauheniPo\">@YauheniPo</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5214874365\" data-permission-text=\"Title is private\" data-url=\"https://github.com/anthropics/claude-code-action/issues/1710\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/anthropics/claude-code-action/pull/1710/hovercard\" href=\"https://github.com/anthropics/claude-code-action/pull/1710\">#1710</a></li>\n<li>fix: bound download_job_log against a stalled log fetch by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/shoemoney/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/shoemoney\">@shoemoney</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5229785506\" data-permission-text=\"Title is private\" data-url=\"https://github.com/anthropics/claude-code-action/issues/1719\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/anthropics/claude-code-action/pull/1719/hovercard\" href=\"https://github.com/anthropics/claude-code-action/pull/1719\">#1719</a></li>\n<li>fix: encode branch names in GitHub links by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/Abdullah-Builds/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/Abdullah-Builds\">@Abdullah-Builds</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5216327605\" data-permission-text=\"Title is private\" data-url=\"https://github.com/anthropics/claude-code-action/issues/1713\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/anthropics/claude-code-action/pull/1713/hovercard\" href=\"https://github.com/anthropics/claude-code-action/pull/1713\">#1713</a></li>\n</ul>\n<h2>New Contributors</h2>\n<ul>\n<li><a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/MohammedAlkindi/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/MohammedAlkindi\">@MohammedAlkindi</a> made their first contribution in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5208597434\" data-permission-text=\"Title is private\" data-url=\"https://github.com/anthropics/claude-code-action/issues/1708\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/anthropics/claude-code-action/pull/1708/hovercard\" href=\"https://github.com/anthropics/claude-code-action/pull/1708\">#1708</a></li>\n<li><a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/YauheniPo/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/YauheniPo\">@YauheniPo</a> made their first contribution in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5214874365\" data-permission-text=\"Title is private\" data-url=\"https://github.com/anthropics/claude-code-action/issues/1710\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/anthropics/claude-code-action/pull/1710/hovercard\" href=\"https://github.com/anthropics/claude-code-action/pull/1710\">#1710</a></li>\n<li><a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/Abdullah-Builds/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/Abdullah-Builds\">@Abdullah-Builds</a> made their first contribution in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5216327605\" data-permission-text=\"Title is private\" data-url=\"https://github.com/anthropics/claude-code-action/issues/1713\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/anthropics/claude-code-action/pull/1713/hovercard\" href=\"https://github.com/anthropics/claude-code-action/pull/1713\">#1713</a></li>\n</ul>\n<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/anthropics/claude-code-action/compare/v1.0.205...v1.0.206\"><tt>v1.0.205...v1.0.206</tt></a></p>",
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "source_id": "claude-code-action-releases",
-    "source_name": "Claude Code Action Releases",
-    "source_url": "https://github.com/anthropics/claude-code-action/releases.atom",
-    "category": "vendor",
-    "priority": "medium",
-    "title": "v1.0.205",
-    "canonical_url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.205",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/anthropics/claude-code-action/compare/v1.0.203...v1.0.205\"><tt>v1.0.203...v1.0.205</tt></a></p>",
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "source_id": "claude-code-action-releases",
-    "source_name": "Claude Code Action Releases",
-    "source_url": "https://github.com/anthropics/claude-code-action/releases.atom",
-    "category": "vendor",
-    "priority": "medium",
-    "title": "v1.0.204",
-    "canonical_url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.204",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.204\"><tt>v1.0.202...v1.0.204</tt></a></p>",
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "source_id": "claude-code-action-releases",
-    "source_name": "Claude Code Action Releases",
-    "source_url": "https://github.com/anthropics/claude-code-action/releases.atom",
-    "category": "vendor",
-    "priority": "medium",
-    "title": "v1.0.203",
-    "canonical_url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.203",
-    "publish_date": "2026-08-25",
-    "event_date": "2026-08-25",
-    "summary": "<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.203\"><tt>v1.0.202...v1.0.203</tt></a></p>",
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "source_id": "claude-code-action-releases",
-    "source_name": "Claude Code Action Releases",
-    "source_url": "https://github.com/anthropics/claude-code-action/releases.atom",
-    "category": "vendor",
-    "priority": "medium",
-    "title": "v1.0.202",
-    "canonical_url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.202",
-    "publish_date": "2026-08-24",
-    "event_date": "2026-08-24",
-    "summary": "<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/anthropics/claude-code-action/compare/v1.0.201...v1.0.202\"><tt>v1.0.201...v1.0.202</tt></a></p>",
-    "fetched_at": "2026-08-27"
+    "fetched_at": "2026-08-28"
   }
 ]
