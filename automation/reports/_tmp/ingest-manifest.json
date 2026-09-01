@@ -1,13 +1,24 @@
 {
-  "run_date": "2026-08-31",
-  "created_total": 5,
-  "skipped_total": 0,
+  "run_date": "2026-09-01",
+  "created_total": 10,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-31/openclaw-releases/news-2026-08-31-openclaw-2026-8-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-31/openclaw-releases/news-2026-08-31-release-publish-6107afa77d77-33347278689-fix-release-consume.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-31/openclaw-releases/news-2026-08-31-release-publish-479510607f01-33325118232-fix-release-record.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-31/openclaw-releases/news-2026-08-31-release-publish-3952c695cb49-33340032114.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-08-31/openclaw-releases/news-2026-08-31-release-publish-3d99a7f08e26-33333262829.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-01/openai-blog/news-2026-09-01-openai-supports-california-s-bill-to-advance-youth-ai-safety.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-01/openai-blog/news-2026-09-01-polimill-builds-japan-s-next-generation-public-ai-infrastruc.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-01/openai-blog/news-2026-09-01-a-milestone-in-expanding-access-to-ai.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-01/openclaw-releases/news-2026-09-01-release-publish-54183c0c9688-33471448769-fix-release-preserv.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-01/openclaw-releases/news-2026-09-01-release-publish-31c0ccedfe05-33460424250.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-01/openclaw-releases/news-2026-09-01-release-publish-ce9ef22169f5-33473514087.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-01/openclaw-releases/news-2026-09-01-release-publish-ab170d5fe879-33457206751.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-01/openclaw-releases/news-2026-09-01-release-publish-d0c8f02d99b4-33442491455-test-e2e-preserve-o.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-01/claude-code-releases/news-2026-09-01-v2-1-252.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-01/claude-code-action-releases/news-2026-09-01-v1-0-211.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
