@@ -1,19 +1,28 @@
 {
-  "run_date": "2026-09-10",
-  "created_total": 9,
-  "skipped_total": 1,
+  "run_date": "2026-09-11",
+  "created_total": 13,
+  "skipped_total": 2,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-10/openai-blog/news-2026-09-10-the-ai-policy-window-is-open-we-need-to-act.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-10/openai-blog/news-2026-09-10-gpt-6-astra-the-next-generation-in-intelligence-for-work.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-10/openai-blog/news-2026-09-10-paul-christiano-joins-openai-foundation-board.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-10/huggingface-blog/news-2026-09-10-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-10/google-ai-blog/news-2026-09-10-get-ready-for-the-game-with-new-football-features-in-search.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-10/google-ai-blog/news-2026-09-10-recreating-a-70-year-love-story-frame-by-frame.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-10/openclaw-releases/news-2026-09-10-v2026-6-35.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-10/claude-code-releases/news-2026-09-10-v2-1-267.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-10/claude-code-action-releases/news-2026-09-10-v1-0-220.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/openai-blog/news-2026-09-11-how-a-researcher-uses-codex-and-chatgpt-to-search-for-new-an.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/openai-blog/news-2026-09-11-now-everyone-can-put-data-to-work.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/openai-blog/news-2026-09-11-introducing-chatgpt-for-financial-services.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/openai-blog/news-2026-09-11-expanding-ai-access-and-cyber-defense-for-federal-state-loca.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/openai-blog/news-2026-09-11-introducing-the-agents-api.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/openai-blog/news-2026-09-11-build-more-natural-voice-experiences-with-gpt-live-1-in-the.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/huggingface-blog/news-2026-09-11-rebuilding-automatic1111-with-gradio-workflow.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/google-ai-blog/news-2026-09-11-3-ways-to-prep-for-your-next-big-race-with-search.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/openclaw-releases/news-2026-09-11-openclaw-2026-9-4.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/openclaw-releases/news-2026-09-11-release-publish-7444f28d2dc5-1789076455-fix-ci-prepare-selec.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/openclaw-releases/news-2026-09-11-release-publish-458f9980c2bf-1789080487-fix-release-set-up-n.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/claude-code-releases/news-2026-09-11-v2-1-268.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-11/claude-code-action-releases/news-2026-09-11-v1-0-221.md"
   ],
   "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.6.35",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.35"
+    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
