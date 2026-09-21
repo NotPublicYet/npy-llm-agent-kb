@@ -5,26 +5,12 @@
     "source_url": "https://github.com/openclaw/openclaw/releases.atom",
     "category": "ecosystem",
     "priority": "high",
-    "title": "v2026.7.34",
-    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.34",
-    "publish_date": "2026-09-19",
-    "event_date": "2026-09-19",
-    "summary": "<p>test(release): use entitled Gemini live model (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5513830760\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/153189\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/153189/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/153189\">#153189</a>)</p>",
-    "fetched_at": "2026-09-20",
-    "dedupe_hash": "7e03b27416b4099ea0986dd7c3e2e7b2ee913046abb14b56bf0e44fcb80ef310"
-  },
-  {
-    "source_id": "openclaw-releases",
-    "source_name": "OpenClaw Releases",
-    "source_url": "https://github.com/openclaw/openclaw/releases.atom",
-    "category": "ecosystem",
-    "priority": "high",
-    "title": "release-publish/91926f9b61a5-1789871489",
-    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2F91926f9b61a5-1789871489",
-    "publish_date": "2026-09-19",
-    "event_date": "2026-09-19",
-    "summary": "<p>fix(release): repair 7.34 validation gates (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5513830766\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/153190\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/153190/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/153190\">#153190</a>)</p>",
-    "fetched_at": "2026-09-20",
-    "dedupe_hash": "68ebfc872bd7a0a7986e51f288f1aed5d9e36496952c5eee24b3d5bb0b9ea8ac"
+    "title": "v2026.7.35: chore: prepare extended-stable 2026.7.35 (#153901)",
+    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.35",
+    "publish_date": "2026-09-20",
+    "event_date": "2026-09-20",
+    "summary": "<ul>\n<li>fix(doctor): preserve complete plugin inventory</li>\n</ul>\n<p>Backport the plugin inventory repair from <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5320557486\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/136045\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/136045/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/136045\">#136045</a> without the unrelated LINE and Mattermost setup changes.</p>\n<ul>\n<li>chore: prepare extended-stable 2026.7.35</li>\n</ul>",
+    "fetched_at": "2026-09-21",
+    "dedupe_hash": "ca9a220fb3bf6a78f0b6de42381e603e5fecae727fad82ba37803468ba8f31fd"
   }
 ]
