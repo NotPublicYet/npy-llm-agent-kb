@@ -1,23 +1,24 @@
 {
-  "run_date": "2026-09-22",
-  "created_total": 9,
-  "skipped_total": 1,
+  "run_date": "2026-09-23",
+  "created_total": 16,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-22/openai-blog/news-2026-09-22-advisory-group-on-mathematics-and-artificial-intelligence.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-22/openai-blog/news-2026-09-22-higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-a.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-22/openai-blog/news-2026-09-22-building-standards-for-the-next-phase-of-ai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-22/openai-blog/news-2026-09-22-expanding-openai-academy-with-new-learning-paths.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-22/openai-blog/news-2026-09-22-how-v7-gives-ai-agents-institutional-memory.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-22/huggingface-blog/news-2026-09-22-pruning-llms-like-a-physicist-block-removal-as-an-ising-opti.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-22/huggingface-blog/news-2026-09-22-tokenizers-v1-encode-decode-and-scaling-measured.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-22/openclaw-releases/news-2026-09-22-release-publish-609fa2d9cfbf-1789988556-refactor-skills-prep.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-22/openclaw-releases/news-2026-09-22-release-publish-db31c8bf1873-1789991043-perf-gateway-speed-u.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openai-blog/news-2026-09-23-better-prompt-caching-for-gpt-6.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openai-blog/news-2026-09-23-introducing-gpt-6-sol-and-luna.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openai-blog/news-2026-09-23-parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openai-blog/news-2026-09-23-priorities-and-principles-for-effective-third-party-assessme.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/huggingface-blog/news-2026-09-23-how-uk-aisi-and-evaleval-are-making-benchmark-results-reprod.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/huggingface-blog/news-2026-09-23-transformers-now-runs-llama-cpp-quants.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/huggingface-blog/news-2026-09-23-jun-kim-omlx-creator-and-maintainer-joins-hugging-face-to-su.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openclaw-releases/news-2026-09-23-release-publish-de32d6b7a12e-1790136680-ci-defer-native-life.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openclaw-releases/news-2026-09-23-release-publish-814a7e752afc-1790105428-refactor-reuse-sqlit.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openclaw-releases/news-2026-09-23-release-publish-368ec5c22d8c-1790063024-fix-side-chat-blocks.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openclaw-releases/news-2026-09-23-release-publish-0a5b5381a26b-1790088213-chore-ui-refresh-con.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openclaw-releases/news-2026-09-23-release-publish-efc15b8fd4cc-1790099958-fix-acpx-adopt-acpx.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openclaw-releases/news-2026-09-23-release-publish-eeb450c9cf2d-1790118098.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openclaw-releases/news-2026-09-23-release-publish-ddde193e26f8-1790096725-fix-qa-key-code-mode.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/openclaw-releases/news-2026-09-23-release-publish-d82cbecba7cb-1790088440.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-23/claude-code-releases/news-2026-09-23-v2-1-280.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.7.35",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.35"
-    }
-  ]
+  "skipped": []
 }
