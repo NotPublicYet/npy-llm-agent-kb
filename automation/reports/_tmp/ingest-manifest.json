@@ -1,17 +1,13 @@
 {
-  "run_date": "2026-09-26",
-  "created_total": 3,
-  "skipped_total": 1,
+  "run_date": "2026-09-27",
+  "created_total": 5,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-26/openai-blog/news-2026-09-26-proaction-boosts-sales-60-and-saves-75-hours-with-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-26/claude-code-releases/news-2026-09-26-v2-1-283.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-26/claude-code-action-releases/news-2026-09-26-v1-0-235.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-27/openclaw-releases/news-2026-09-27-release-publish-1261218e33ea-1790484073.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-27/openclaw-releases/news-2026-09-27-release-publish-2e09d9e2e60a-1790478175-fix-release-publish.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-27/openclaw-releases/news-2026-09-27-release-publish-d7c378bf4b10-1790489167-fix-release-accept-r.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-27/openclaw-releases/news-2026-09-27-v2026-8-33.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-27/openclaw-releases/news-2026-09-27-release-publish-8d8bd43120f3-1790449772.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
