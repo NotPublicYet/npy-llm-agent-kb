@@ -5,13 +5,27 @@
     "source_url": "https://github.com/openclaw/openclaw/releases.atom",
     "category": "ecosystem",
     "priority": "high",
-    "title": "release-publish/1261218e33ea-1790484073",
-    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2F1261218e33ea-1790484073",
+    "title": "release-publish/43d73d77a024-1790562934: fix(ci): preserve frozen-target managed restart coverage (#160043)",
+    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2F43d73d77a024-1790562934",
+    "publish_date": "2026-09-28",
+    "event_date": "2026-09-28",
+    "summary": "<p>Preserve native-contained managed restart coverage for frozen targets whose committed runtime predates absent-membership recovery. Keep current targets on the strict absent-containment path with both warning receipts and run-ID matching.</p>\n<p>The existing verified-source resolver owns selection and explicit sparse acquisition; Docker forwarding and preflight metadata carry the result. Updater, replacement, authentication, serving and survival assertions remain intact. Independent review is scoped-clean, with focused regression, sibling and acquisition proof documented in the PR. Installed-package release qualification remains separate.</p>\n<p>Co-authored-by: RomneyDa <a href=\"mailto:6581799+RomneyDa@users.noreply.github.com\">6581799+RomneyDa@users.noreply.github.com</a></p>",
+    "fetched_at": "2026-09-28",
+    "dedupe_hash": "2776270b774a5e02a80a12bbffadbf59e2c2f16834ba60b3e37865a5bdfb27c1"
+  },
+  {
+    "source_id": "openclaw-releases",
+    "source_name": "OpenClaw Releases",
+    "source_url": "https://github.com/openclaw/openclaw/releases.atom",
+    "category": "ecosystem",
+    "priority": "high",
+    "title": "release-publish/593401e94869-1790518861: fix(ci): expose bounded Docker survivor failure metadata (#159659)",
+    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2F593401e94869-1790518861",
     "publish_date": "2026-09-27",
     "event_date": "2026-09-27",
-    "summary": "<p>fix(release): enforce only authored npm lock policy (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5599412217\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/159376\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/159376/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/159376\">#159376</a>)</p>",
-    "fetched_at": "2026-09-27",
-    "dedupe_hash": "769dee578a4aa046c47991745059be9fdb942435faf8ceec056ed19f0eb0e03e"
+    "summary": "<ul>\n<li>fix(ci): expose bounded Docker survivor failure metadata</li>\n</ul>\n<p>Keep diagnostic artifacts and outcomes unchanged. Publish only redacted phase, exit and signal coordinates plus scheduler status and timeout flags as check annotations. Hosted review and CI remain pending; local dependency admission was unavailable.</p>\n<p>Co-authored-by: RomneyDa <a href=\"mailto:6581799+RomneyDa@users.noreply.github.com\">6581799+RomneyDa@users.noreply.github.com</a></p>\n<ul>\n<li>fix(ci): retain survivor metadata beyond clipped failure tails</li>\n</ul>\n<p>Use a bounded host metadata pipe within the existing scheduler process owner. Validate the three fields and emit only after process-group and log cleanup. Preserve artifact bytes and all lane outcomes. Fix the publisher consistent-return lint defect.</p>\n<p>Co-authored-by: RomneyDa <a href=\"mailto:6581799+RomneyDa@users.noreply.github.com\">6581799+RomneyDa@users.noreply.github.com</a></p>\n<ul>\n<li>fix(ci): use typed Docker timeout flags directly</li>\n</ul>\n<p>Remove two unnecessary boolean comparisons without changing annotation output or failure handling.</p>\n<p>Co-authored-by: RomneyDa <a href=\"mailto:6581799+RomneyDa@users.noreply.github.com\">6581799+RomneyDa@users.noreply.github.com</a></p>\n<hr>\n<p>Co-authored-by: RomneyDa <a href=\"mailto:6581799+RomneyDa@users.noreply.github.com\">6581799+RomneyDa@users.noreply.github.com</a></p>",
+    "fetched_at": "2026-09-28",
+    "dedupe_hash": "692601256a94efb134cc406182dd1c6246ccd1fc5361e96f83b62c8785c9f029"
   },
   {
     "source_id": "openclaw-releases",
@@ -19,13 +33,13 @@
     "source_url": "https://github.com/openclaw/openclaw/releases.atom",
     "category": "ecosystem",
     "priority": "high",
-    "title": "release-publish/2e09d9e2e60a-1790478175: fix(release): publish plugins with scoped dependency forks (#159124)",
-    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2F2e09d9e2e60a-1790478175",
+    "title": "release-publish/b7a0e00097cc-1790552114: fix(ci): distinguish survivor recovery failure boundaries (#159751)",
+    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2Fb7a0e00097cc-1790552114",
     "publish_date": "2026-09-27",
     "event_date": "2026-09-27",
-    "summary": "<ul>\n<li>\n<p>fix(release): preserve scoped npm lock policy</p>\n</li>\n<li>\n<p>fix(release): retain scoped shrinkwrap checks</p>\n</li>\n<li>\n<p>fix(release): verify repaired npm lock graphs</p>\n</li>\n</ul>",
-    "fetched_at": "2026-09-27",
-    "dedupe_hash": "c66a0d1c42a7a201775ecd688507695fc570950a6d356430a46e5e074ce00974"
+    "summary": "<p>Refine the existing phase only during recovery and restore it on success. Preserve updater exits, assertion short-circuiting, signal capture and cleanup ordering.</p>\n<p>Co-authored-by: roboclaw-bot <a href=\"mailto:309084314+roboclaw-bot@users.noreply.github.com\">309084314+roboclaw-bot@users.noreply.github.com</a><br>\nCo-authored-by: RomneyDa <a href=\"mailto:6581799+RomneyDa@users.noreply.github.com\">6581799+RomneyDa@users.noreply.github.com</a></p>",
+    "fetched_at": "2026-09-28",
+    "dedupe_hash": "c20e0a02c4e019781e25edfe814c82a1e68d7759a73f662d4e61acfd5c7e11e0"
   },
   {
     "source_id": "openclaw-releases",
@@ -33,40 +47,12 @@
     "source_url": "https://github.com/openclaw/openclaw/releases.atom",
     "category": "ecosystem",
     "priority": "high",
-    "title": "release-publish/d7c378bf4b10-1790489167: fix(release): accept retained v1 validation evidence (#159440)",
-    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2Fd7c378bf4b10-1790489167",
+    "title": "release-publish/aad795bf312a-1790492351",
+    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2Faad795bf312a-1790492351",
     "publish_date": "2026-09-27",
     "event_date": "2026-09-27",
-    "summary": "<ul>\n<li>\n<p>fix(release): read retained v1 candidate evidence</p>\n</li>\n<li>\n<p>fix(release): type retained candidate bindings</p>\n</li>\n<li>\n<p>fix(release): type archived candidate bindings</p>\n</li>\n</ul>",
-    "fetched_at": "2026-09-27",
-    "dedupe_hash": "2edbb0bdbe4683173fe61efd8d97c90b03cdafd2265f8c77759a10e044ec80e4"
-  },
-  {
-    "source_id": "openclaw-releases",
-    "source_name": "OpenClaw Releases",
-    "source_url": "https://github.com/openclaw/openclaw/releases.atom",
-    "category": "ecosystem",
-    "priority": "high",
-    "title": "v2026.8.33",
-    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.33",
-    "publish_date": "2026-09-26",
-    "event_date": "2026-09-26",
-    "summary": "<p>OpenClaw 2026.8.33</p>",
-    "fetched_at": "2026-09-27",
-    "dedupe_hash": "951a8e04807d86932c6b801945bfac0940c51d9b3f002753ef49fc549a9b5c16"
-  },
-  {
-    "source_id": "openclaw-releases",
-    "source_name": "OpenClaw Releases",
-    "source_url": "https://github.com/openclaw/openclaw/releases.atom",
-    "category": "ecosystem",
-    "priority": "high",
-    "title": "release-publish/8d8bd43120f3-1790449772",
-    "canonical_url": "https://github.com/openclaw/openclaw/releases/tag/release-publish%2F8d8bd43120f3-1790449772",
-    "publish_date": "2026-09-26",
-    "event_date": "2026-09-26",
-    "summary": "<p>test(plugins, model-picker, terminal): remove low-value tests (batch …</p>",
-    "fetched_at": "2026-09-27",
-    "dedupe_hash": "bc351b989a3a1026317aa360c0f66ec60d96834d94560c68fb7b2407f60eecce"
+    "summary": "<p>fix(release): acquire frozen first-hop inventory before admission (<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3668055972\" data-permission-text=\"Title is private\" data-url=\"https://github.com/openclaw/openclaw/issues/1\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/openclaw/openclaw/pull/1/hovercard\" href=\"https://github.com/openclaw/openclaw/pull/1\">#1</a>…</p>",
+    "fetched_at": "2026-09-28",
+    "dedupe_hash": "f66572697a54427133b4f9014d0eb5e499f037fa9c6dfc1f6aa6a5d2c7d3084e"
   }
 ]

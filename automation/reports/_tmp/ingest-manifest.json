@@ -1,13 +1,12 @@
 {
-  "run_date": "2026-09-27",
-  "created_total": 5,
+  "run_date": "2026-09-28",
+  "created_total": 4,
   "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-27/openclaw-releases/news-2026-09-27-release-publish-1261218e33ea-1790484073.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-27/openclaw-releases/news-2026-09-27-release-publish-2e09d9e2e60a-1790478175-fix-release-publish.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-27/openclaw-releases/news-2026-09-27-release-publish-d7c378bf4b10-1790489167-fix-release-accept-r.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-27/openclaw-releases/news-2026-09-27-v2026-8-33.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-27/openclaw-releases/news-2026-09-27-release-publish-8d8bd43120f3-1790449772.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-28/openclaw-releases/news-2026-09-28-release-publish-43d73d77a024-1790562934-fix-ci-preserve-froz.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-28/openclaw-releases/news-2026-09-28-release-publish-593401e94869-1790518861-fix-ci-expose-bounde.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-28/openclaw-releases/news-2026-09-28-release-publish-b7a0e00097cc-1790552114-fix-ci-distinguish-s.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-28/openclaw-releases/news-2026-09-28-release-publish-aad795bf312a-1790492351.md"
   ],
   "skipped": []
 }
