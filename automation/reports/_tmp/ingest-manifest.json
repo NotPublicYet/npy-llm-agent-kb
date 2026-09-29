@@ -1,12 +1,28 @@
 {
-  "run_date": "2026-09-28",
-  "created_total": 4,
-  "skipped_total": 0,
+  "run_date": "2026-09-29",
+  "created_total": 9,
+  "skipped_total": 2,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-28/openclaw-releases/news-2026-09-28-release-publish-43d73d77a024-1790562934-fix-ci-preserve-froz.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-28/openclaw-releases/news-2026-09-28-release-publish-593401e94869-1790518861-fix-ci-expose-bounde.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-28/openclaw-releases/news-2026-09-28-release-publish-b7a0e00097cc-1790552114-fix-ci-distinguish-s.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-28/openclaw-releases/news-2026-09-28-release-publish-aad795bf312a-1790492351.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/openai-blog/news-2026-09-29-how-we-will-do-better-for-australia.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/openai-blog/news-2026-09-29-the-lenfest-institute-grows-landmark-program-with-expanded-o.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/openai-blog/news-2026-09-29-are-you-a-codex-original.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/openai-blog/news-2026-09-29-basis-completes-a-tax-workbook-2x-faster-with-gpt-6-astra.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/huggingface-blog/news-2026-09-29-holo4-powering-generalist-computer-use-agents.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/google-ai-blog/news-2026-09-29-watch-the-winning-trailer-from-the-future-vision-xprize-the.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/openclaw-releases/news-2026-09-29-release-publish-cb8e8c73243c-1790633540-fix-release-scan-tru.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/claude-code-releases/news-2026-09-29-v2-1-284.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/claude-code-action-releases/news-2026-09-29-v1-0-236.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.8.33",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.33"
+    },
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
