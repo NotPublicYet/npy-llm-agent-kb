@@ -1,24 +1,20 @@
 {
-  "run_date": "2026-09-29",
-  "created_total": 9,
-  "skipped_total": 2,
+  "run_date": "2026-09-30",
+  "created_total": 10,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/openai-blog/news-2026-09-29-how-we-will-do-better-for-australia.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/openai-blog/news-2026-09-29-the-lenfest-institute-grows-landmark-program-with-expanded-o.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/openai-blog/news-2026-09-29-are-you-a-codex-original.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/openai-blog/news-2026-09-29-basis-completes-a-tax-workbook-2x-faster-with-gpt-6-astra.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/huggingface-blog/news-2026-09-29-holo4-powering-generalist-computer-use-agents.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/google-ai-blog/news-2026-09-29-watch-the-winning-trailer-from-the-future-vision-xprize-the.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/openclaw-releases/news-2026-09-29-release-publish-cb8e8c73243c-1790633540-fix-release-scan-tru.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/claude-code-releases/news-2026-09-29-v2-1-284.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-29/claude-code-action-releases/news-2026-09-29-v1-0-236.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openai-blog/news-2026-09-30-introducing-gpt-6-1-sol.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openai-blog/news-2026-09-30-devday-2026-recap.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openai-blog/news-2026-09-30-introducing-dots.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openai-blog/news-2026-09-30-towards-safety-cases-for-frontier-ai-training.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/huggingface-blog/news-2026-09-30-nvidia-kumo-tabular-sets-a-new-accuracy-efficiency-frontier.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/huggingface-blog/news-2026-09-30-getting-the-source-right-not-just-the-fact-source-aware-veri.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openclaw-releases/news-2026-09-30-openclaw-2026-9-7.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openclaw-releases/news-2026-09-30-release-publish-2b4055f8dd70-1790734526.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/claude-code-releases/news-2026-09-30-v2-1-285.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/claude-code-action-releases/news-2026-09-30-v1-0-237.md"
   ],
   "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.8.33",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.33"
-    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
