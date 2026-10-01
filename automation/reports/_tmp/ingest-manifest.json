@@ -1,18 +1,15 @@
 {
-  "run_date": "2026-09-30",
-  "created_total": 10,
+  "run_date": "2026-10-01",
+  "created_total": 7,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openai-blog/news-2026-09-30-introducing-gpt-6-1-sol.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openai-blog/news-2026-09-30-devday-2026-recap.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openai-blog/news-2026-09-30-introducing-dots.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openai-blog/news-2026-09-30-towards-safety-cases-for-frontier-ai-training.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/huggingface-blog/news-2026-09-30-nvidia-kumo-tabular-sets-a-new-accuracy-efficiency-frontier.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/huggingface-blog/news-2026-09-30-getting-the-source-right-not-just-the-fact-source-aware-veri.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openclaw-releases/news-2026-09-30-openclaw-2026-9-7.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/openclaw-releases/news-2026-09-30-release-publish-2b4055f8dd70-1790734526.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/claude-code-releases/news-2026-09-30-v2-1-285.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-09-30/claude-code-action-releases/news-2026-09-30-v1-0-237.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-01/openai-blog/news-2026-10-01-disrupting-a-coordinated-model-distillation-campaign.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-01/openai-blog/news-2026-10-01-helping-small-businesses-put-ai-to-work.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-01/deepmind-news/news-2026-10-01-gemini-4-argon-our-next-era-of-frontier-intelligence.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-01/deepmind-news/news-2026-10-01-introducing-synthid-bio.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-01/huggingface-blog/news-2026-10-01-open-tts-leaderboard-scalable-evaluation-for-multilingual-te.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-01/claude-code-releases/news-2026-10-01-v2-1-286.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-01/claude-code-action-releases/news-2026-10-01-v1-0-238.md"
   ],
   "skipped": [
     {
