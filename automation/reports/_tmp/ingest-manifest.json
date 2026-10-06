@@ -1,10 +1,22 @@
 {
-  "run_date": "2026-10-05",
-  "created_total": 2,
-  "skipped_total": 0,
+  "run_date": "2026-10-06",
+  "created_total": 8,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-05/openclaw-releases/news-2026-10-05-release-publish-6cc10ab3e851-1791145446.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-05/openclaw-releases/news-2026-10-05-release-publish-6bc3e8ae39ca-1791171552.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-06/openai-blog/news-2026-10-06-our-approach-to-eu-text-provenance-rules.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-06/openai-blog/news-2026-10-06-building-advertising-for-the-way-people-use-ai.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-06/huggingface-blog/news-2026-10-06-falcon-emirati-when-an-llm-learns-the-dialect-the-culture-an.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-06/openclaw-releases/news-2026-10-06-openclaw-2026-10-1-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-06/claude-code-releases/news-2026-10-06-v2-1-291.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-06/claude-code-releases/news-2026-10-06-v2-1-290.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-06/claude-code-action-releases/news-2026-10-06-v1-0-243.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-06/claude-code-action-releases/news-2026-10-06-v1-0-242.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
