@@ -1,17 +1,34 @@
 {
-  "run_date": "2026-10-07",
-  "created_total": 9,
-  "skipped_total": 0,
+  "run_date": "2026-10-08",
+  "created_total": 10,
+  "skipped_total": 3,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-07/openai-blog/news-2026-10-07-how-jump-trading-is-scaling-quant-research-with-chatgpt.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-07/openai-blog/news-2026-10-07-sharing-ai-progress-in-mathematics.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-07/openai-blog/news-2026-10-07-advancing-computer-use-with-ironclad.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-07/openai-blog/news-2026-10-07-atlassian-and-openai-expand-partnership-to-turn-enterprise-k.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-07/deepmind-news/news-2026-10-07-embeddinggemma-2-an-open-lightweight-multimodal-embedding-mo.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-07/openclaw-releases/news-2026-10-07-v2026-10-1-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-07/openclaw-releases/news-2026-10-07-release-publish-91236e8c9501-1791331026-fix-ui-terminal-disa.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-07/claude-code-releases/news-2026-10-07-v2-1-292.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-07/claude-code-action-releases/news-2026-10-07-v1-0-244.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-08/openai-blog/news-2026-10-08-helping-teens-learn-plan-and-shape-the-future-of-ai.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-08/openai-blog/news-2026-10-08-radisson-hotel-group-brings-hotel-discovery-into-chatgpt.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-08/openai-blog/news-2026-10-08-gpt-6-and-intelligent-ui-for-everyone.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-08/huggingface-blog/news-2026-10-08-multimodal-open-d1-decision-models-for-the-edge.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-08/huggingface-blog/news-2026-10-08-one-model-family-two-gold-level-results-fine-tuning-nemotron.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-08/google-ai-blog/news-2026-10-08-introducing-playground-create-and-play-custom-games.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-08/openclaw-releases/news-2026-10-08-release-publish-96ccec4a1385-1791383680.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-08/claude-code-releases/news-2026-10-08-v2-1-294.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-08/claude-code-releases/news-2026-10-08-v2-1-293.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-08/claude-code-action-releases/news-2026-10-08-v1-0-245.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.10.1-beta.2",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.1-beta.2"
+    },
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.10.1-beta.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.1-beta.1"
+    },
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
