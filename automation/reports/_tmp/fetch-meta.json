@@ -1,7 +1,14 @@
 {
-  "run_utc": "2026-10-08T06:58:15.9918473Z",
+  "run_utc": "2026-10-09T07:06:32.1613031Z",
   "sources_total": 7,
-  "fetched_total": 27,
-  "failed_total": 0,
-  "failed_sources": []
+  "fetched_total": 28,
+  "failed_total": 1,
+  "failed_sources": [
+    {
+      "source_id": "claude-code-releases",
+      "source": "Claude Code Releases",
+      "rss_url": "https://github.com/anthropics/claude-code/releases.atom",
+      "error": "Response status code does not indicate success: 504 (Gateway Time-out)."
+    }
+  ]
 }
