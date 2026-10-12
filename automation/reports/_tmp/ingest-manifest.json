@@ -1,10 +1,20 @@
 {
-  "run_date": "2026-10-11",
-  "created_total": 2,
-  "skipped_total": 0,
+  "run_date": "2026-10-12",
+  "created_total": 6,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-11/openclaw-releases/news-2026-10-11-openclaw-2026-10-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-11/openclaw-releases/news-2026-10-11-release-publish-9cf7fc279c26-1791664994-fix-ui-restore-start.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-12/openclaw-releases/news-2026-10-12-openclaw-2026-10-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-12/openclaw-releases/news-2026-10-12-openclaw-2026-10-5-beta-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-12/openclaw-releases/news-2026-10-12-release-publish-2040d1b71db9-1791766004-perf-sessions-reuse.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-12/openclaw-releases/news-2026-10-12-release-publish-99d262df8760-1791761551-fix-honor-windows-pe.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-12/openclaw-releases/news-2026-10-12-release-publish-d29e2d5be0f6-1791720622.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-12/openclaw-releases/news-2026-10-12-release-publish-a17bd679979e-1791717771-refactor-plugin-sdk.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.10.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.1"
+    }
+  ]
 }
