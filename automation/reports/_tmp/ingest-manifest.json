@@ -1,33 +1,18 @@
 {
-  "run_date": "2026-10-16",
-  "created_total": 18,
-  "skipped_total": 2,
+  "run_date": "2026-10-17",
+  "created_total": 8,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openai-blog/news-2026-10-16-bringing-gpt-rosalind-to-academic-research-labs.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openai-blog/news-2026-10-16-teaching-students-to-think-and-learn-through-questions.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openai-blog/news-2026-10-16-sullivan-cromwell-brings-legal-expertise-into-agreement-revi.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/deepmind-news/news-2026-10-16-accelerating-the-search-for-antimicrobial-peptides-with-goog.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/huggingface-blog/news-2026-10-16-scaling-indic-pretraining-2-8-trillion-tokens-and-an-open-da.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/huggingface-blog/news-2026-10-16-granite-switch-4-1-chat-decisions-and-speech-from-one-endpoi.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/huggingface-blog/news-2026-10-16-welcome-muse-spark-open-open-weight-frontier-multimodal-mixt.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/huggingface-blog/news-2026-10-16-welcome-flux-3-image-klein-in-diffusers.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openclaw-releases/news-2026-10-16-openclaw-2026-10-10-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openclaw-releases/news-2026-10-16-openclaw-2026-10-4.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openclaw-releases/news-2026-10-16-openclaw-2026-9-33.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openclaw-releases/news-2026-10-16-release-publish-59a60de16f7d-1792054731-perf-avoid-repeated.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openclaw-releases/news-2026-10-16-release-publish-0f194ea7d8c0-1792103371.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openclaw-releases/news-2026-10-16-release-publish-0b77baf70b6e-1792081492.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openclaw-releases/news-2026-10-16-release-publish-c870d46e3a1d-1792099949.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/openclaw-releases/news-2026-10-16-release-publish-ad95e29cdac0-1792078807-fix-hidden-agent-ava.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/claude-code-releases/news-2026-10-16-v2-1-301.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-16/claude-code-action-releases/news-2026-10-16-v1-0-251.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-17/openai-blog/news-2026-10-17-how-ita-is-building-generative-ai-for-its-entire-customer-ba.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-17/openai-blog/news-2026-10-17-stack-overflow-for-agents-triples-signups-with-chatgpt-plugi.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-17/huggingface-blog/news-2026-10-17-welcome-beam-a-501b-open-model-you-can-own-customize-and-sca.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-17/openclaw-releases/news-2026-10-17-v2026-10-10-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-17/openclaw-releases/news-2026-10-17-release-publish-442d0dc6f645-1792201171-refactor-ui-simplify.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-17/openclaw-releases/news-2026-10-17-release-publish-c544916c9070-1792176107-test-expose-skill-li.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-17/claude-code-releases/news-2026-10-17-v2-1-302.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-17/claude-code-action-releases/news-2026-10-17-v1-0-252.md"
   ],
   "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.10.5-beta.4",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.5-beta.4"
-    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
