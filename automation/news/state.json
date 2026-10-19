@@ -1,107 +1,7 @@
 {
-  "last_run_at": "2026-10-18T05:23:38.1410729Z",
+  "last_run_at": "2026-10-19T05:41:16.2509121Z",
   "source_cursors": {},
   "seen_hashes": [
-    {
-      "hash": "773bda7b9fbd8f81e77aeac8b15c314d706059b959a845d0e93657b08ef415d4",
-      "seen_at": "09/18/2026 05:31:39"
-    },
-    {
-      "hash": "0f626f37b1d9626aa00f8980d9e1b5da3c15a84d2023045b19d114d4a49e75d6",
-      "seen_at": "09/18/2026 05:31:39"
-    },
-    {
-      "hash": "1046f90c32d9a4daf2bb741829947e0b4c6565f5e64d3e9473b4289fd9df5a03",
-      "seen_at": "09/18/2026 05:31:39"
-    },
-    {
-      "hash": "894f54be542b89510dd82322fa263d9e2821f212de374b05581e87fc1608dc73",
-      "seen_at": "09/18/2026 05:31:39"
-    },
-    {
-      "hash": "24b5bd4d802d1d80733de23f36670b24c04a3a4d0a676e5470d83d0dfbd2eb8b",
-      "seen_at": "09/18/2026 05:31:39"
-    },
-    {
-      "hash": "aa361dc7990a77cda0d0f018ca3051f2aa9cd5eb8b2943980ac510cb30095a4f",
-      "seen_at": "09/18/2026 05:31:39"
-    },
-    {
-      "hash": "9cc645bf3af9bba543a4a1241bc793bd47b55342f3bf70fafc1bac596ef038d7",
-      "seen_at": "09/18/2026 05:31:39"
-    },
-    {
-      "hash": "432ba91beea0e8fabd4562da082a355bd21a3d9aa5e708529f75916d99b190ad",
-      "seen_at": "09/18/2026 05:31:39"
-    },
-    {
-      "hash": "1bba671ffd69ec65b0fac0cdcdf1297c0128396be92b5465641a3c1b859ffd95",
-      "seen_at": "09/18/2026 05:31:39"
-    },
-    {
-      "hash": "661eee16de272dc519d01898886364923616d15eed39d09162465d5d527263ba",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "27f61c4591c2ca23e6c2a866901f9fc9a7f9aed87c104e791516e3fddba87527",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "95aada52cda057b8530e254b674a8d2a8628d342baeac9b6ab2173e4879f19b7",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "fce16deb5a00c582e997c487ca42a7980961545bb2e7e4d1e559b4b3c28a24bc",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "15039599bea481669db3aeef528ea81e7c1d9a0fd0c4c411bb59b277ec35f7a4",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "9e3d2c1ae61169bf3f47b004d88242b909ff55141f8f497739b19b3c9b23a6bb",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "39634cec9e82e186c5b36af51ca443793d2c2b56a7b428ad022729bf2f9101a8",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "6b9552f0093f0f08442b9645de0e8ff05abd9e06a311634e737c897cce6b8056",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "3a7906a33a59d60c7758d6f962e4745c7fc641369c064f44b21c23adf0577295",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "06e2f1e7353f63016f6ccd06931595252f6aa98015df60b9d7b21710ab92c805",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "2a0dad8e04707bddaa4f2e6048afcfffa0defb21a22404ebedb24d38a0ccd011",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "368fbafb839a9e65cbdadc1b586673007479eab2da6bfa96117fb7505b2efe14",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "7b772a63285b925f238d2ac4115149218729fef37bb2d526bce1a2fb675bbd95",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "4be0e8e638f8d6e930d38bb44fa40763c05a0c3f33efd599f49c934f0534ce74",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "f17028de1e433b6f419abbc7d16f7056ba19a0f030f733ab64ad2e4882ffffc8",
-      "seen_at": "09/19/2026 05:28:29"
-    },
-    {
-      "hash": "8dff256fce86fda72e71a04778071c82bec6f4dfaefeaeb8d0827222d7357518",
-      "seen_at": "09/19/2026 05:28:29"
-    },
     {
       "hash": "7e03b27416b4099ea0986dd7c3e2e7b2ee913046abb14b56bf0e44fcb80ef310",
       "seen_at": "09/20/2026 05:40:59"
@@ -1084,7 +984,23 @@
     },
     {
       "hash": "c60757f45db6d59ed987b127f45b62068bd210a090d69d8590138bddf392e246",
-      "seen_at": "2026-10-18T05:23:38.1410729Z"
+      "seen_at": "10/18/2026 05:23:38"
+    },
+    {
+      "hash": "d8853c319dd18edc19c0584fc73acd4f4b2ee0aa3732c146185688bd9618ef33",
+      "seen_at": "2026-10-19T05:41:16.2509121Z"
+    },
+    {
+      "hash": "154c7df713554a41c701081ed2d2e3d8a5e8a9e451654c38fbab588fb89fd0be",
+      "seen_at": "2026-10-19T05:41:16.2509121Z"
+    },
+    {
+      "hash": "1a840008297a49bc715625c7a99fbdd0f6edae54256433d57b0b1e0658f8bb17",
+      "seen_at": "2026-10-19T05:41:16.2509121Z"
+    },
+    {
+      "hash": "7dd5c175e67555f908835b4e4b2a2de65fab9714df440103d97628a0c70de351",
+      "seen_at": "2026-10-19T05:41:16.2509121Z"
     }
   ]
 }
