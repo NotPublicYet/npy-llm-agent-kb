@@ -1,20 +1,27 @@
 {
-  "run_date": "2026-10-20",
-  "created_total": 5,
-  "skipped_total": 2,
+  "run_date": "2026-10-21",
+  "created_total": 17,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-20/openai-blog/news-2026-10-20-advancing-coding-in-low-resource-programming-languages.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-20/huggingface-blog/news-2026-10-20-torchneuron-running-hf-models-on-aws-trainium-is-easier-than.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-20/openclaw-releases/news-2026-10-20-release-publish-04c6f9275eb8-1792440630-chore-align-matrix-a.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-20/claude-code-releases/news-2026-10-20-v2-1-304.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-20/claude-code-action-releases/news-2026-10-20-v1-0-254.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/openai-blog/news-2026-10-21-franchisee-reconciles-cash-in-94-less-time-with-chatgpt-work.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/openai-blog/news-2026-10-21-terminal-x-matches-senior-investor-judgment-88-6-with-gpt-6.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/openai-blog/news-2026-10-21-openai-acquires-orchestra-bio.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/huggingface-blog/news-2026-10-21-nvidia-cosmos3-h-dreams-bringing-clinical-surgery-to-life-th.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/huggingface-blog/news-2026-10-21-fairstress-a-deeper-evaluation-of-fairness-in-llm-decision-m.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/huggingface-blog/news-2026-10-21-altk-evolve-how-learned-memory-tops-the-bench-leaderboard-on.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/huggingface-blog/news-2026-10-21-hugging-face-torchtpu-tpus-natively.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/huggingface-blog/news-2026-10-21-anylanguagemodel-1-0-one-year-of-local-models-on-apple-platf.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/huggingface-blog/news-2026-10-21-mps-in-pytorch-2-15.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/google-ai-blog/news-2026-10-21-southeast-asia-s-digital-economy-to-hit-368-billion.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/openclaw-releases/news-2026-10-21-v2026-10-10-beta-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/openclaw-releases/news-2026-10-21-release-publish-5303aee80400-1792560599.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/openclaw-releases/news-2026-10-21-release-publish-33b16c7ef875-1792558197-feat-ui-organize-pul.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/claude-code-releases/news-2026-10-21-v2-1-306.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/claude-code-releases/news-2026-10-21-v2-1-305.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/claude-code-action-releases/news-2026-10-21-v1-0-256.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-21/claude-code-action-releases/news-2026-10-21-v1-0-255.md"
   ],
   "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.10.10-beta.2",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.2"
-    },
     {
       "reason": "existing_url",
       "title": "Claude Code GitHub Action v1.0",
