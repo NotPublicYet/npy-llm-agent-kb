@@ -1,23 +1,13 @@
 {
-  "run_date": "2026-10-24",
-  "created_total": 15,
+  "run_date": "2026-10-25",
+  "created_total": 5,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/openai-blog/news-2026-10-24-rapidly-scaling-online-storage-to-serve-over-1-billion-chatg.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/openai-blog/news-2026-10-24-securing-our-frontier-model-training-environment.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/openai-blog/news-2026-10-24-openai-and-poland-s-nask-partner-to-advance-ai-safety-and-se.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/huggingface-blog/news-2026-10-24-litpivot-developing-research-ideas-through-dynamic-contextua.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/huggingface-blog/news-2026-10-24-does-your-model-run-on-aws-trainium-look-it-up.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/openclaw-releases/news-2026-10-24-release-publish-24adbb81e0a3-1792802211-fix-show-chat-color.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/openclaw-releases/news-2026-10-24-release-publish-1fead915921e-1792818494.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/openclaw-releases/news-2026-10-24-release-publish-1197ee98bb5e-1792741794-fix-settle-side-chat.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/openclaw-releases/news-2026-10-24-release-publish-68bc4fc69776-1792777683-perf-plugins-reduce.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/openclaw-releases/news-2026-10-24-release-publish-6cc605dfe204-1792778379.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/openclaw-releases/news-2026-10-24-release-publish-4d13198000c5-1792785240-refactor-keep-one-us.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/openclaw-releases/news-2026-10-24-release-publish-3f5d04f8ebc9-1792785124.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/claude-code-releases/news-2026-10-24-v2-1-310.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/claude-code-action-releases/news-2026-10-24-v1-0-261.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-24/claude-code-action-releases/news-2026-10-24-v1-0-260.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-25/openclaw-releases/news-2026-10-25-openclaw-2026-10-7.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-25/openclaw-releases/news-2026-10-25-openclaw-2026-9-34.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-25/openclaw-releases/news-2026-10-25-release-publish-723d9c20878e-1792823905.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-25/openclaw-releases/news-2026-10-25-release-publish-76c711936bbb-1792833957.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-25/claude-code-action-releases/news-2026-10-25-v1-0-262.md"
   ],
   "skipped": [
     {
