@@ -1,22 +1,18 @@
 {
-  "run_date": "2026-10-27",
-  "created_total": 14,
+  "run_date": "2026-10-28",
+  "created_total": 10,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openai-blog/news-2026-10-27-greptile-takes-bug-detection-beyond-code-review-with-gpt-6-a.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openai-blog/news-2026-10-27-working-with-academic-communities-to-build-scientific-unders.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openai-blog/news-2026-10-27-gpt-6-1-sol-helps-coderabbit-strengthen-security-across-comp.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openai-blog/news-2026-10-27-chatgpt-s-expanding-world-of-work.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openai-blog/news-2026-10-27-how-fanatics-and-openai-streamline-the-fan-experience.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openai-blog/news-2026-10-27-how-ultrafast-cut-incident-investigation-from-hours-to-minut.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openai-blog/news-2026-10-27-introducing-gpt-6-1-terra.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/google-ai-blog/news-2026-10-27-our-newest-ai-quest-mapping-the-human-brain.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openclaw-releases/news-2026-10-27-openclaw-2026-10-10-beta-4.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openclaw-releases/news-2026-10-27-openclaw-2026-9-35.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openclaw-releases/news-2026-10-27-release-publish-733b96cc02a5-1793047666-chore-ui-refresh-con.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/openclaw-releases/news-2026-10-27-release-publish-f4a0d4875912-1793065112.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/claude-code-releases/news-2026-10-27-v2-1-311.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-27/claude-code-action-releases/news-2026-10-27-v1-0-263.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/openai-blog/news-2026-10-28-retell-uses-openai-models-to-help-power-100m-monthly-calls.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/openai-blog/news-2026-10-28-openai-expands-partnership-with-oracle-to-bring-its-apps-to.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/openai-blog/news-2026-10-28-how-check-point-accelerates-vulnerability-research-with-dayb.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/deepmind-news/news-2026-10-28-genie-4-a-new-generation-of-world-simulation.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/huggingface-blog/news-2026-10-28-build-specialized-multimodal-models-with-lfm3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/huggingface-blog/news-2026-10-28-can-we-trust-llms-to-judge-whether-a-research-idea-is-novel.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/openclaw-releases/news-2026-10-28-openclaw-2026-10-8.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/openclaw-releases/news-2026-10-28-release-publish-3799d55bd044-1793094593-fix-align-dreaming-c.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/claude-code-releases/news-2026-10-28-v2-1-312.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/claude-code-action-releases/news-2026-10-28-v1-0-264.md"
   ],
   "skipped": [
     {
