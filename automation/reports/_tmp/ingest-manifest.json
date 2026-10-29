@@ -1,24 +1,13 @@
 {
-  "run_date": "2026-10-28",
-  "created_total": 10,
-  "skipped_total": 1,
+  "run_date": "2026-10-29",
+  "created_total": 5,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/openai-blog/news-2026-10-28-retell-uses-openai-models-to-help-power-100m-monthly-calls.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/openai-blog/news-2026-10-28-openai-expands-partnership-with-oracle-to-bring-its-apps-to.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/openai-blog/news-2026-10-28-how-check-point-accelerates-vulnerability-research-with-dayb.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/deepmind-news/news-2026-10-28-genie-4-a-new-generation-of-world-simulation.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/huggingface-blog/news-2026-10-28-build-specialized-multimodal-models-with-lfm3.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/huggingface-blog/news-2026-10-28-can-we-trust-llms-to-judge-whether-a-research-idea-is-novel.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/openclaw-releases/news-2026-10-28-openclaw-2026-10-8.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/openclaw-releases/news-2026-10-28-release-publish-3799d55bd044-1793094593-fix-align-dreaming-c.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/claude-code-releases/news-2026-10-28-v2-1-312.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-28/claude-code-action-releases/news-2026-10-28-v1-0-264.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-29/openai-blog/news-2026-10-29-openai-and-servicenow-expand-partnership-across-enterprise-w.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-29/openai-blog/news-2026-10-29-the-future-of-the-firm.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-29/openai-blog/news-2026-10-29-legora-is-building-the-agentic-operating-system-for-legal-wo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-29/deepmind-news/news-2026-10-29-gemini-4-carbon-our-next-frontier-model.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-29/huggingface-blog/news-2026-10-29-nvidia-nemotron-3-5-transcribe-and-granary-v2-intelligent-mu.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
