@@ -1,13 +1,29 @@
 {
-  "run_date": "2026-10-29",
-  "created_total": 5,
-  "skipped_total": 0,
+  "run_date": "2026-10-30",
+  "created_total": 15,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-29/openai-blog/news-2026-10-29-openai-and-servicenow-expand-partnership-across-enterprise-w.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-29/openai-blog/news-2026-10-29-the-future-of-the-firm.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-29/openai-blog/news-2026-10-29-legora-is-building-the-agentic-operating-system-for-legal-wo.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-29/deepmind-news/news-2026-10-29-gemini-4-carbon-our-next-frontier-model.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-29/huggingface-blog/news-2026-10-29-nvidia-nemotron-3-5-transcribe-and-granary-v2-intelligent-mu.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openai-blog/news-2026-10-30-an-updated-model-spec-for-more-capable-and-beneficial-ai.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openai-blog/news-2026-10-30-how-we-detect-frontier-model-misalignment.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openai-blog/news-2026-10-30-how-ropes-gray-is-developing-ai-for-transactional-diligence.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/huggingface-blog/news-2026-10-30-granite-switch-4-1-1-update-models-like-you-update-software.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/huggingface-blog/news-2026-10-30-announcing-project-protostar-making-publicly-funded-science.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/huggingface-blog/news-2026-10-30-welcome-le-chonk-mistral-large-4-on-hugging-face.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/huggingface-blog/news-2026-10-30-introducing-anyspeechrecognizer-and-anydecisionmodel-open-mo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-openclaw-2026-10-10-beta-5.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-openclaw-2026-10-9.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-openclaw-2026-9-36.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-release-publish-777b5e6088e2-1793263732-refactor-qa-reuse-ru.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-release-publish-4ccc7e2eba58-1793299051.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-release-publish-ee860ffb3103-1793282010.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/claude-code-releases/news-2026-10-30-v2-1-314.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/claude-code-action-releases/news-2026-10-30-v1-0-265.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
