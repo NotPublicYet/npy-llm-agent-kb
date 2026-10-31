@@ -1,23 +1,20 @@
 {
-  "run_date": "2026-10-30",
-  "created_total": 15,
+  "run_date": "2026-10-31",
+  "created_total": 12,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openai-blog/news-2026-10-30-an-updated-model-spec-for-more-capable-and-beneficial-ai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openai-blog/news-2026-10-30-how-we-detect-frontier-model-misalignment.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openai-blog/news-2026-10-30-how-ropes-gray-is-developing-ai-for-transactional-diligence.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/huggingface-blog/news-2026-10-30-granite-switch-4-1-1-update-models-like-you-update-software.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/huggingface-blog/news-2026-10-30-announcing-project-protostar-making-publicly-funded-science.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/huggingface-blog/news-2026-10-30-welcome-le-chonk-mistral-large-4-on-hugging-face.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/huggingface-blog/news-2026-10-30-introducing-anyspeechrecognizer-and-anydecisionmodel-open-mo.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-openclaw-2026-10-10-beta-5.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-openclaw-2026-10-9.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-openclaw-2026-9-36.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-release-publish-777b5e6088e2-1793263732-refactor-qa-reuse-ru.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-release-publish-4ccc7e2eba58-1793299051.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/openclaw-releases/news-2026-10-30-release-publish-ee860ffb3103-1793282010.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/claude-code-releases/news-2026-10-30-v2-1-314.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-30/claude-code-action-releases/news-2026-10-30-v1-0-265.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/openai-blog/news-2026-10-31-making-it-easier-for-websites-to-express-ai-training-prefere.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/openai-blog/news-2026-10-31-community-safety-report-and-new-protections-for-teens.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/openai-blog/news-2026-10-31-fair-use-benefits-everyone.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/openai-blog/news-2026-10-31-credit-saison-achieves-954-roi-in-a-chatgpt-enterprise-pilot.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/huggingface-blog/news-2026-10-31-nemotron-halloween.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/openclaw-releases/news-2026-10-31-release-publish-b77ccbe99222-1793410137-fix-release-pin-cali.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/openclaw-releases/news-2026-10-31-release-publish-a57e5beb1266-1793415069-fix-release-install.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/openclaw-releases/news-2026-10-31-release-publish-385f0d8eaaf1-1793384660-fix-release-accept-o.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/openclaw-releases/news-2026-10-31-release-publish-81ecf56d0810-1793402126-fix-release-pin-stab.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/openclaw-releases/news-2026-10-31-release-publish-a3df6c6c8118-1793383326-fix-chat-older-histo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/claude-code-releases/news-2026-10-31-v2-1-316.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-10-31/claude-code-action-releases/news-2026-10-31-v1-0-266.md"
   ],
   "skipped": [
     {
