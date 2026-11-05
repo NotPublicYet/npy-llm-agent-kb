@@ -1,27 +1,19 @@
 {
-  "run_date": "2026-11-04",
-  "created_total": 13,
-  "skipped_total": 1,
+  "run_date": "2026-11-05",
+  "created_total": 11,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/openai-blog/news-2026-11-04-accelerating-engineering-for-the-physical-world.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/openai-blog/news-2026-11-04-how-cisco-defends-at-machine-speed-with-openai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/openai-blog/news-2026-11-04-heimstaden-is-changing-residential-real-estate-management-wi.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/openai-blog/news-2026-11-04-openai-appoints-jill-hazelbaker-as-chief-corporate-affairs-o.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/deepmind-news/news-2026-11-04-agentic-cheminformatics-with-google-antigravity.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/huggingface-blog/news-2026-11-04-statebench-testing-how-language-models-track-state-changes-o.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/huggingface-blog/news-2026-11-04-palette-teaching-a-small-model-to-build-decks-in-your-design.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/huggingface-blog/news-2026-11-04-cwe-bench-v2-more-coverage-quality-and-transparency.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/openclaw-releases/news-2026-11-04-openclaw-2026-11-5-beta-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/openclaw-releases/news-2026-11-04-release-publish-9a3ae43f5602-1793756853-fix-ui-localize-skil.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/openclaw-releases/news-2026-11-04-release-publish-ed1bb7298985-1793760875.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/claude-code-releases/news-2026-11-04-v2-1-318.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-04/claude-code-action-releases/news-2026-11-04-v1-0-268.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openai-blog/news-2026-11-05-openai-to-acquire-pierre-computer-company-inc.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openai-blog/news-2026-11-05-daybreak-red-is-now-available-in-aws-govcloud-us-east.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openai-blog/news-2026-11-05-a-thousand-fewer-paths-to-root.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openai-blog/news-2026-11-05-introducing-images-2-6.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openai-blog/news-2026-11-05-devrev-delivers-autonomous-self-service-with-gpt-6-1-sol.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/huggingface-blog/news-2026-11-05-dharma-field-extractor-any-document-in-structured-fields-in.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openclaw-releases/news-2026-11-05-v2026-11-1.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openclaw-releases/news-2026-11-05-release-publish-84097d630e26-1793838108.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openclaw-releases/news-2026-11-05-release-publish-3816bcb3dea1-1793855263.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openclaw-releases/news-2026-11-05-release-publish-73cf7217d899-1793801700-fix-release-allow-sc.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openclaw-releases/news-2026-11-05-release-publish-0fa486c39fba-1793818311-fix-release-waive-20.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
