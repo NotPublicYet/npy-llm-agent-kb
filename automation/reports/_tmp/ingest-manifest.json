@@ -1,19 +1,25 @@
 {
-  "run_date": "2026-11-05",
+  "run_date": "2026-11-06",
   "created_total": 11,
-  "skipped_total": 0,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openai-blog/news-2026-11-05-openai-to-acquire-pierre-computer-company-inc.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openai-blog/news-2026-11-05-daybreak-red-is-now-available-in-aws-govcloud-us-east.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openai-blog/news-2026-11-05-a-thousand-fewer-paths-to-root.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openai-blog/news-2026-11-05-introducing-images-2-6.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openai-blog/news-2026-11-05-devrev-delivers-autonomous-self-service-with-gpt-6-1-sol.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/huggingface-blog/news-2026-11-05-dharma-field-extractor-any-document-in-structured-fields-in.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openclaw-releases/news-2026-11-05-v2026-11-1.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openclaw-releases/news-2026-11-05-release-publish-84097d630e26-1793838108.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openclaw-releases/news-2026-11-05-release-publish-3816bcb3dea1-1793855263.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openclaw-releases/news-2026-11-05-release-publish-73cf7217d899-1793801700-fix-release-allow-sc.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-05/openclaw-releases/news-2026-11-05-release-publish-0fa486c39fba-1793818311-fix-release-waive-20.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/openai-blog/news-2026-11-06-australian-universities-are-creating-ai-native-graduates.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/openai-blog/news-2026-11-06-cult-fit-builds-operational-muscle-with-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/openai-blog/news-2026-11-06-gpt-6-cyber-advancing-the-frontier-of-aligned-cybersecurity.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/openai-blog/news-2026-11-06-merge-builds-product-and-business-tools-with-openai-technolo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/openai-blog/news-2026-11-06-setting-a-new-standard-for-responsible-ai-infrastructure.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/openai-blog/news-2026-11-06-flipsnack-grows-product-signups-with-conversion-optimization.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/openai-blog/news-2026-11-06-franklin-templeton-uses-openai-to-support-investment-researc.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/deepmind-news/news-2026-11-06-gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/huggingface-blog/news-2026-11-06-new-nvidia-cosmos-3-open-models-for-interactive-world-simula.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/huggingface-blog/news-2026-11-06-a-closer-look-at-phonon-tts-launching-high-quality-on-device.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-06/google-ai-blog/news-2026-11-06-gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.11.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.1"
+    }
+  ]
 }
