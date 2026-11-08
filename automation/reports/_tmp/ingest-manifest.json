@@ -1,22 +1,11 @@
 {
-  "run_date": "2026-11-07",
-  "created_total": 8,
-  "skipped_total": 1,
+  "run_date": "2026-11-08",
+  "created_total": 3,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-07/openai-blog/news-2026-11-07-partnering-with-hacktron-to-find-vulnerabilities-in-openai-s.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-07/openai-blog/news-2026-11-07-measuring-how-ai-agents-handle-everyday-wet-lab-science.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-07/huggingface-blog/news-2026-11-07-toyblocks-a-controlled-world-for-robot-learning-and-evaluati.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-07/huggingface-blog/news-2026-11-07-egyptian-and-nigerian-english-join-the-open-asr-leaderboard.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-07/openclaw-releases/news-2026-11-07-release-publish-efb980423985-1794011730-fix-release-authoriz.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-07/openclaw-releases/news-2026-11-07-release-publish-85c39026a90f-1793930188.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-07/claude-code-releases/news-2026-11-07-v2-1-319.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-07/claude-code-action-releases/news-2026-11-07-v1-0-269.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-08/openclaw-releases/news-2026-11-08-v2026-11-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-08/openclaw-releases/news-2026-11-08-release-publish-5e1a27a9bcc4-1794101135-fix-release-validate.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-08/openclaw-releases/news-2026-11-08-release-publish-2fc131eeb4a3-1794109014-fix-release-correct.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
