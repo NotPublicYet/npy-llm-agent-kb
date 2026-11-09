@@ -1,11 +1,18 @@
 {
-  "run_date": "2026-11-08",
-  "created_total": 3,
-  "skipped_total": 0,
+  "run_date": "2026-11-09",
+  "created_total": 4,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-08/openclaw-releases/news-2026-11-08-v2026-11-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-08/openclaw-releases/news-2026-11-08-release-publish-5e1a27a9bcc4-1794101135-fix-release-validate.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-08/openclaw-releases/news-2026-11-08-release-publish-2fc131eeb4a3-1794109014-fix-release-correct.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-09/openclaw-releases/news-2026-11-09-release-publish-1007cb9e5cdf-1794164430-fix-release-defer-cl.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-09/openclaw-releases/news-2026-11-09-release-publish-0ff68b557848-1794127500-test-cua-remove-redu.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-09/openclaw-releases/news-2026-11-09-release-publish-e3a09aaba1f4-1794162889-fix-verify-plugin-re.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-09/openclaw-releases/news-2026-11-09-release-publish-c9e6370bb191-1794126491-fix-reduce-repeated.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.11.2",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.2"
+    }
+  ]
 }
