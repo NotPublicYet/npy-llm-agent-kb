@@ -1,18 +1,31 @@
 {
-  "run_date": "2026-11-09",
-  "created_total": 4,
+  "run_date": "2026-11-10",
+  "created_total": 17,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-09/openclaw-releases/news-2026-11-09-release-publish-1007cb9e5cdf-1794164430-fix-release-defer-cl.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-09/openclaw-releases/news-2026-11-09-release-publish-0ff68b557848-1794127500-test-cua-remove-redu.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-09/openclaw-releases/news-2026-11-09-release-publish-e3a09aaba1f4-1794162889-fix-verify-plugin-re.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-09/openclaw-releases/news-2026-11-09-release-publish-c9e6370bb191-1794126491-fix-reduce-repeated.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openai-blog/news-2026-11-10-chatgpt-enterprise-now-available-in-aws-marketplace.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openai-blog/news-2026-11-10-control-room-a-central-system-to-track-and-stop-model-worklo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openai-blog/news-2026-11-10-coderabbit-scales-agentic-software-development-and-ships-20x.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openai-blog/news-2026-11-10-kuken-industries-searches-70-years-of-drawings-in-minutes.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/huggingface-blog/news-2026-11-10-nemotron-personas-finance-japan-a-synthetic-dataset-capturin.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/huggingface-blog/news-2026-11-10-your-experts-have-partners-there-s-hope-for-keeping-them-tog.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-v2026-11-5-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-179529ec9dd8-1794288891-fix-prevent-prepared.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-2609b4f93bf8-1794277489-fix-release-allow-la.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-127b579112be-1794285620-fix-release-authoriz.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-66c2b325e049-1794282830-fix-prevent-npm-publ.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-b8d5978b73f7-1794280080-fix-release-accept-a.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-a65cb61a7d14-1794292024-fix-authenticate-rel.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/claude-code-releases/news-2026-11-10-v2-1-322.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/claude-code-releases/news-2026-11-10-v2-1-321.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/claude-code-action-releases/news-2026-11-10-v1-0-271.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/claude-code-action-releases/news-2026-11-10-v1-0-270.md"
   ],
   "skipped": [
     {
       "reason": "existing_url",
-      "title": "openclaw 2026.11.2",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.2"
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
     }
   ]
 }
