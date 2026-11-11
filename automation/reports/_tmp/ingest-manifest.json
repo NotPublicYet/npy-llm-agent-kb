@@ -1,31 +1,32 @@
 {
-  "run_date": "2026-11-10",
-  "created_total": 17,
-  "skipped_total": 1,
+  "run_date": "2026-11-11",
+  "created_total": 24,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openai-blog/news-2026-11-10-chatgpt-enterprise-now-available-in-aws-marketplace.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openai-blog/news-2026-11-10-control-room-a-central-system-to-track-and-stop-model-worklo.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openai-blog/news-2026-11-10-coderabbit-scales-agentic-software-development-and-ships-20x.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openai-blog/news-2026-11-10-kuken-industries-searches-70-years-of-drawings-in-minutes.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/huggingface-blog/news-2026-11-10-nemotron-personas-finance-japan-a-synthetic-dataset-capturin.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/huggingface-blog/news-2026-11-10-your-experts-have-partners-there-s-hope-for-keeping-them-tog.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-v2026-11-5-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-179529ec9dd8-1794288891-fix-prevent-prepared.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-2609b4f93bf8-1794277489-fix-release-allow-la.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-127b579112be-1794285620-fix-release-authoriz.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-66c2b325e049-1794282830-fix-prevent-npm-publ.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-b8d5978b73f7-1794280080-fix-release-accept-a.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/openclaw-releases/news-2026-11-10-release-publish-a65cb61a7d14-1794292024-fix-authenticate-rel.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/claude-code-releases/news-2026-11-10-v2-1-322.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/claude-code-releases/news-2026-11-10-v2-1-321.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/claude-code-action-releases/news-2026-11-10-v1-0-271.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-10/claude-code-action-releases/news-2026-11-10-v1-0-270.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-gilbert-tobin-rethinks-the-business-of-law-with-ai.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-chatgpt-plus-for-veterans-and-servicemembers.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-helping-caregivers-use-ai-in-everyday-life.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-introducing-businesses-in-chatgpt.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-closing-the-ai-guidance-gap-in-education.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-singapore-airlines-elevates-travel-work-with-openai-technolo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-work-at-the-frontier-ai-s-effect-on-freelance-work.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-cogent-and-openai-build-cyber-defense-factories-for-enterpri.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/deepmind-news/news-2026-11-11-gemini-4-carbon-is-now-available.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/deepmind-news/news-2026-11-11-introducing-alphaproof-code-a-breakthrough-in-verifying-comp.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/deepmind-news/news-2026-11-11-gemini-robotics-2-5-accelerates-real-world-general-dexterity.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/huggingface-blog/news-2026-11-11-botpsy-on-device-personal-assistant-with-a-sub-billion-param.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/huggingface-blog/news-2026-11-11-pay-for-hugging-face-hub-with-your-google-cloud-account.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/huggingface-blog/news-2026-11-11-decision-models-in-hugging-face.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/google-ai-blog/news-2026-11-11-gemini-intelligence-new-features-on-more-devices.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/google-ai-blog/news-2026-11-11-we-re-bringing-adobe-s-creative-and-productivity-tools-close.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/google-ai-blog/news-2026-11-11-google-cloud-launches-gemini-for-healthcare.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-release-publish-282ac0091707-1794364566.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-release-publish-45beb6735fe6-1794373427.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-release-publish-3bf539dafb15-1794363903-fix-release-reject-n.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-openclaw-2026-11-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-openclaw-2026-9-37.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-release-publish-358722b1a46c-1794333870-fix-release-explain.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-release-publish-09723cdcad18-1794299463.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
