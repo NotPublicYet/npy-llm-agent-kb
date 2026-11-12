@@ -1,32 +1,22 @@
 {
-  "run_date": "2026-11-11",
-  "created_total": 24,
-  "skipped_total": 0,
+  "run_date": "2026-11-12",
+  "created_total": 8,
+  "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-gilbert-tobin-rethinks-the-business-of-law-with-ai.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-chatgpt-plus-for-veterans-and-servicemembers.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-helping-caregivers-use-ai-in-everyday-life.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-introducing-businesses-in-chatgpt.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-closing-the-ai-guidance-gap-in-education.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-singapore-airlines-elevates-travel-work-with-openai-technolo.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-work-at-the-frontier-ai-s-effect-on-freelance-work.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openai-blog/news-2026-11-11-cogent-and-openai-build-cyber-defense-factories-for-enterpri.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/deepmind-news/news-2026-11-11-gemini-4-carbon-is-now-available.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/deepmind-news/news-2026-11-11-introducing-alphaproof-code-a-breakthrough-in-verifying-comp.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/deepmind-news/news-2026-11-11-gemini-robotics-2-5-accelerates-real-world-general-dexterity.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/huggingface-blog/news-2026-11-11-botpsy-on-device-personal-assistant-with-a-sub-billion-param.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/huggingface-blog/news-2026-11-11-pay-for-hugging-face-hub-with-your-google-cloud-account.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/huggingface-blog/news-2026-11-11-decision-models-in-hugging-face.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/google-ai-blog/news-2026-11-11-gemini-intelligence-new-features-on-more-devices.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/google-ai-blog/news-2026-11-11-we-re-bringing-adobe-s-creative-and-productivity-tools-close.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/google-ai-blog/news-2026-11-11-google-cloud-launches-gemini-for-healthcare.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-release-publish-282ac0091707-1794364566.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-release-publish-45beb6735fe6-1794373427.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-release-publish-3bf539dafb15-1794363903-fix-release-reject-n.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-openclaw-2026-11-3.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-openclaw-2026-9-37.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-release-publish-358722b1a46c-1794333870-fix-release-explain.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-11/openclaw-releases/news-2026-11-11-release-publish-09723cdcad18-1794299463.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/openai-blog/news-2026-11-12-jiostar-s-chief-architect-on-ai-discovery-at-500m-user-scale.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/deepmind-news/news-2026-11-12-alphagenome-2-deciphering-how-cells-read-dna-to-better-under.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/huggingface-blog/news-2026-11-12-token-pooling-aware-training-for-multi-vector-embedding-mode.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/google-ai-blog/news-2026-11-12-gemini-decisions-api-fast-calibrated-multimodal-decisions.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/google-ai-blog/news-2026-11-12-try-tabletop-customizable-collaborative-spaces-for-groups-to.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/google-ai-blog/news-2026-11-12-experience-the-art-and-legacy-of-dr-esther-mahlangu.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/openclaw-releases/news-2026-11-12-release-publish-17140700d7b5-1794431923-fix-keep-parent-npm.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/openclaw-releases/news-2026-11-12-release-publish-087d1229ef49-1794382115-fix-release-approval.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.11.5-beta.2",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.2"
+    }
+  ]
 }
