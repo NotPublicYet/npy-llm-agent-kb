@@ -1,22 +1,29 @@
 {
-  "run_date": "2026-11-12",
-  "created_total": 8,
+  "run_date": "2026-11-13",
+  "created_total": 15,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/openai-blog/news-2026-11-12-jiostar-s-chief-architect-on-ai-discovery-at-500m-user-scale.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/deepmind-news/news-2026-11-12-alphagenome-2-deciphering-how-cells-read-dna-to-better-under.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/huggingface-blog/news-2026-11-12-token-pooling-aware-training-for-multi-vector-embedding-mode.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/google-ai-blog/news-2026-11-12-gemini-decisions-api-fast-calibrated-multimodal-decisions.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/google-ai-blog/news-2026-11-12-try-tabletop-customizable-collaborative-spaces-for-groups-to.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/google-ai-blog/news-2026-11-12-experience-the-art-and-legacy-of-dr-esther-mahlangu.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/openclaw-releases/news-2026-11-12-release-publish-17140700d7b5-1794431923-fix-keep-parent-npm.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-12/openclaw-releases/news-2026-11-12-release-publish-087d1229ef49-1794382115-fix-release-approval.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openai-blog/news-2026-11-13-how-amplitude-ships-product-improvements-in-1-2-days-with-op.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openai-blog/news-2026-11-13-gondola-doubles-revenue-as-its-team-builds-more-with-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openai-blog/news-2026-11-13-holiday-extras-is-rethinking-what-it-can-build-with-codex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openai-blog/news-2026-11-13-supporting-research-on-ai-and-children-s-safety.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/deepmind-news/news-2026-11-13-introducing-gemini-4-hydrogen.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/huggingface-blog/news-2026-11-13-llmon-an-llm-native-markup-language-now-in-granite-4-1-3b-an.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/huggingface-blog/news-2026-11-13-the-definitive-fine-tuning-guide-for-3d-generation-models.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/google-ai-blog/news-2026-11-13-google-search-gets-a-major-upgrade-with-gemini-4-hydrogen.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openclaw-releases/news-2026-11-13-release-publish-68aff7f86414-1794520487.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openclaw-releases/news-2026-11-13-release-publish-fc9e1cd26eeb-1794479957-fix-release-keep-dir.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/claude-code-releases/news-2026-11-13-v2-1-323.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/claude-code-action-releases/news-2026-11-13-v1-0-275.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/claude-code-action-releases/news-2026-11-13-v1-0-274.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/claude-code-action-releases/news-2026-11-13-v1-0-273-breaking-changes.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/claude-code-action-releases/news-2026-11-13-v1-0-272.md"
   ],
   "skipped": [
     {
       "reason": "existing_url",
-      "title": "openclaw 2026.11.5-beta.2",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.2"
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
     }
   ]
 }
