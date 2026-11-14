@@ -1,23 +1,16 @@
 {
-  "run_date": "2026-11-13",
-  "created_total": 15,
+  "run_date": "2026-11-14",
+  "created_total": 8,
   "skipped_total": 1,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openai-blog/news-2026-11-13-how-amplitude-ships-product-improvements-in-1-2-days-with-op.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openai-blog/news-2026-11-13-gondola-doubles-revenue-as-its-team-builds-more-with-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openai-blog/news-2026-11-13-holiday-extras-is-rethinking-what-it-can-build-with-codex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openai-blog/news-2026-11-13-supporting-research-on-ai-and-children-s-safety.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/deepmind-news/news-2026-11-13-introducing-gemini-4-hydrogen.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/huggingface-blog/news-2026-11-13-llmon-an-llm-native-markup-language-now-in-granite-4-1-3b-an.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/huggingface-blog/news-2026-11-13-the-definitive-fine-tuning-guide-for-3d-generation-models.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/google-ai-blog/news-2026-11-13-google-search-gets-a-major-upgrade-with-gemini-4-hydrogen.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openclaw-releases/news-2026-11-13-release-publish-68aff7f86414-1794520487.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/openclaw-releases/news-2026-11-13-release-publish-fc9e1cd26eeb-1794479957-fix-release-keep-dir.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/claude-code-releases/news-2026-11-13-v2-1-323.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/claude-code-action-releases/news-2026-11-13-v1-0-275.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/claude-code-action-releases/news-2026-11-13-v1-0-274.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/claude-code-action-releases/news-2026-11-13-v1-0-273-breaking-changes.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-13/claude-code-action-releases/news-2026-11-13-v1-0-272.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/openai-blog/news-2026-11-14-introducing-chatgpt-wallet.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/openai-blog/news-2026-11-14-shield-helps-technicians-hand-off-legacy-portal-work-with-op.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/huggingface-blog/news-2026-11-14-build-a-robot-pick-and-place-simulation-with-simready-assets.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/huggingface-blog/news-2026-11-14-xybench-helping-with-the-problem-behind-the-question.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/huggingface-blog/news-2026-11-14-llama-cpp-v1-0-0-a-stronger-foundation-for-the-local-ai-ecos.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/openclaw-releases/news-2026-11-14-release-publish-514a224c6eab-1794576299-fix-release-apply-20.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/claude-code-releases/news-2026-11-14-v2-1-325.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/claude-code-action-releases/news-2026-11-14-v1-0-276.md"
   ],
   "skipped": [
     {
