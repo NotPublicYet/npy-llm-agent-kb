@@ -1,22 +1,13 @@
 {
-  "run_date": "2026-11-14",
-  "created_total": 8,
-  "skipped_total": 1,
+  "run_date": "2026-11-15",
+  "created_total": 5,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/openai-blog/news-2026-11-14-introducing-chatgpt-wallet.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/openai-blog/news-2026-11-14-shield-helps-technicians-hand-off-legacy-portal-work-with-op.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/huggingface-blog/news-2026-11-14-build-a-robot-pick-and-place-simulation-with-simready-assets.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/huggingface-blog/news-2026-11-14-xybench-helping-with-the-problem-behind-the-question.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/huggingface-blog/news-2026-11-14-llama-cpp-v1-0-0-a-stronger-foundation-for-the-local-ai-ecos.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/openclaw-releases/news-2026-11-14-release-publish-514a224c6eab-1794576299-fix-release-apply-20.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/claude-code-releases/news-2026-11-14-v2-1-325.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-14/claude-code-action-releases/news-2026-11-14-v1-0-276.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-15/openclaw-releases/news-2026-11-15-release-publish-62a2b2f3fe07-1794718465.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-15/openclaw-releases/news-2026-11-15-openclaw-2026-11-5-beta-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-15/openclaw-releases/news-2026-11-15-release-publish-571848e36d08-1794681785.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-15/openclaw-releases/news-2026-11-15-release-publish-de200490f822-1794679879-improve-ios-limit-re.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-15/openclaw-releases/news-2026-11-15-release-publish-da85264b9eab-1794686351-fix-unblock-complete.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
