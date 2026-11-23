@@ -1,10 +1,19 @@
 {
-  "run_date": "2026-11-22",
-  "created_total": 2,
+  "run_date": "2026-11-23",
+  "created_total": 11,
   "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-22/openclaw-releases/news-2026-11-22-release-publish-89596c51481e-1795316013.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-22/openclaw-releases/news-2026-11-22-release-publish-6d2e5e84eedc-1795308759-fix-retain-both-erro.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openai-blog/news-2026-11-23-perplexity-and-intelligence.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-v2026-11-10-beta-2.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-49795c31df01-1795402770.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-89a95793e3aa-1795414751-fix-release-recover.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-74fafa8a501e-1795406592-fix-release-avoid-ar.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-41b8e9f42614-1795392576-fix-release-support.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-8a6443a48a04-1795400964-fix-reuse-release-ev.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-2e291cc65570-1795418347-fix-release-install.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-1ffe20774ef4-1795405014-fix-release-reuse-ex.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-0a61096ec05d-1795395690-fix-seal-release-evi.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-fbfc6c3eb64f-1795416934-fix-release-seal-ori.md"
   ],
   "skipped": []
 }
