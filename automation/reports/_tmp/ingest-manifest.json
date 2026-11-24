@@ -1,19 +1,38 @@
 {
-  "run_date": "2026-11-23",
-  "created_total": 11,
-  "skipped_total": 0,
+  "run_date": "2026-11-24",
+  "created_total": 19,
+  "skipped_total": 2,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openai-blog/news-2026-11-23-perplexity-and-intelligence.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-v2026-11-10-beta-2.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-49795c31df01-1795402770.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-89a95793e3aa-1795414751-fix-release-recover.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-74fafa8a501e-1795406592-fix-release-avoid-ar.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-41b8e9f42614-1795392576-fix-release-support.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-8a6443a48a04-1795400964-fix-reuse-release-ev.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-2e291cc65570-1795418347-fix-release-install.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-1ffe20774ef4-1795405014-fix-release-reuse-ex.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-0a61096ec05d-1795395690-fix-seal-release-evi.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-23/openclaw-releases/news-2026-11-23-release-publish-fbfc6c3eb64f-1795416934-fix-release-seal-ori.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openai-blog/news-2026-11-24-openai-and-cisco-introduce-shirudo.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openai-blog/news-2026-11-24-connected-intelligence-for-in-house-legal.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openai-blog/news-2026-11-24-richpanel-helps-companies-automate-50-of-support-in-30-days.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/deepmind-news/news-2026-11-24-finding-faster-quantum-algorithms-with-agents-and-formal-ver.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/huggingface-blog/news-2026-11-24-robotrack-point-tracking-for-real-world-robotic-manipulation.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/huggingface-blog/news-2026-11-24-how-to-build-and-maintain-an-agentic-evaluation.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/google-ai-blog/news-2026-11-24-a-more-tailored-google-search-that-s-uniquely-yours.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openclaw-releases/news-2026-11-24-openclaw-2026-11-10-beta-3.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openclaw-releases/news-2026-11-24-v2026-11-8.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openclaw-releases/news-2026-11-24-release-publish-673b65f0e8b9-1795505285-fix-release-compare.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openclaw-releases/news-2026-11-24-release-publish-212f953d02de-1795507242.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openclaw-releases/news-2026-11-24-release-publish-92c476640812-1795484722-fix-release-apply-ap.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openclaw-releases/news-2026-11-24-release-publish-56c3a82e5658-1795499168-fix-release-echo-adm.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openclaw-releases/news-2026-11-24-release-publish-14b0d80ed2a0-1795502870.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/openclaw-releases/news-2026-11-24-release-publish-6fe43e4b5f63-1795494518-fix-release-reuse-ch.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/claude-code-releases/news-2026-11-24-v2-1-331.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/claude-code-action-releases/news-2026-11-24-v1-0-289.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/claude-code-action-releases/news-2026-11-24-v1-0-288-breaking-changes.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-24/claude-code-action-releases/news-2026-11-24-v1-0-287.md"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "reason": "existing_url",
+      "title": "openclaw 2026.11.10-beta.2",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.10-beta.2"
+    },
+    {
+      "reason": "existing_url",
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
+    }
+  ]
 }
