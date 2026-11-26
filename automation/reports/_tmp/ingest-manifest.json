@@ -1,33 +1,15 @@
 {
-  "run_date": "2026-11-25",
-  "created_total": 14,
-  "skipped_total": 2,
+  "run_date": "2026-11-26",
+  "created_total": 7,
+  "skipped_total": 0,
   "created_files": [
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/openai-blog/news-2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design-capabiliti.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/openai-blog/news-2026-11-25-searching-for-distant-planets-with-astra.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/openai-blog/news-2026-11-25-how-intentful-uses-dots-to-make-more-time-for-growth.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/openai-blog/news-2026-11-25-how-ifood-scales-coding-agents-across-15-000-repositories.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/openai-blog/news-2026-11-25-clay-helps-sales-teams-win-with-codex-and-chatgpt.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/huggingface-blog/news-2026-11-25-microduck-obstacle-avoidance-a-sim2real-workflow-with-isaac.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/google-ai-blog/news-2026-11-25-how-gemini-is-changing-the-game-for-golden-state-s-organizat.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/openclaw-releases/news-2026-11-25-openclaw-2026-11-10.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/openclaw-releases/news-2026-11-25-release-publish-75b3f1732e10-1795574151.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/openclaw-releases/news-2026-11-25-release-publish-ddc834013375-1795568880.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/openclaw-releases/news-2026-11-25-openclaw-2026-11-9.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/openclaw-releases/news-2026-11-25-release-publish-61ecfe12d37a-1795550967-fix-release-approve.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/claude-code-releases/news-2026-11-25-v2-1-332.md",
-    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-25/claude-code-action-releases/news-2026-11-25-v1-0-290.md"
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-26/deepmind-news/news-2026-11-26-from-spectrum-to-structure-identifying-molecules-with-mass-s.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-26/huggingface-blog/news-2026-11-26-building-on-nemotron-3-5-parse-open-data-fine-tuning-and-fas.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-26/huggingface-blog/news-2026-11-26-where-scientists-draw-the-line-on-ai-agents.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-26/huggingface-blog/news-2026-11-26-an-indic-voice-agent-with-cuga.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-26/huggingface-blog/news-2026-11-26-hill-climbing-inkling-2-mini-inference-on-one-rtx-pro-6000.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-26/openclaw-releases/news-2026-11-26-openclaw-2026-10-34.md",
+    "/home/runner/work/npy-llm-agent-kb/npy-llm-agent-kb/90_inbox/2026-11-26/openclaw-releases/news-2026-11-26-release-publish-14db7f3bf34a-1795601940-improve-name-browser.md"
   ],
-  "skipped": [
-    {
-      "reason": "existing_url",
-      "title": "openclaw 2026.11.8",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.8"
-    },
-    {
-      "reason": "existing_url",
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1"
-    }
-  ]
+  "skipped": []
 }
